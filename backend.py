@@ -251,6 +251,23 @@ def get_squad_for_season(season_data, players_dict, club, season):
     return sorted(set(matched))
 
 
+def get_clubs_with_data(season_data, players_dict, season):
+    """Clubs to actually offer in the UI for this season: only clubs where at
+    least one listed player has a matching CSV uploaded. SEASON_DATA.csv can
+    list a club for a season even when nobody uploaded that player's CSV
+    (e.g. a player's full career history was bulk-added but only some of
+    their seasons' club-mates have data) — those clubs would otherwise show
+    up as selectable and immediately fail with 'No player CSVs found'."""
+    clubs = sorted(season_data.get(season, {}).keys())
+    has_data, missing = [], []
+    for club in clubs:
+        if get_squad_for_season(season_data, players_dict, club, season):
+            has_data.append(club)
+        else:
+            missing.append(club)
+    return has_data, missing
+
+
 # =============================================================================
 # 2. CLEANING — Phase 1: data quality checks + leakage-safe match table.
 # =============================================================================

@@ -26,7 +26,7 @@ import streamlit as st
 
 from backend import (
     find_player_data_dir, load_all_players, load_season_data,
-    get_squad_for_season, get_season_range, SEASON_DATES,
+    get_squad_for_season, get_clubs_with_data, get_season_range, SEASON_DATES,
     clean_players_dict, FORMATIONS,
     predict_match, build_team_df,
     run_full_experiment_matrix,
@@ -84,11 +84,14 @@ with tab_predict:
     selected_season = st.selectbox("Season", ALL_SEASONS, index=0)
     season_start, season_end = get_season_range(selected_season)
 
-    csv_teams = set(SEASON_DATA.get(selected_season, {}).keys())
-    clubs_in_season = sorted(csv_teams)
+    clubs_in_season, clubs_missing_data = get_clubs_with_data(SEASON_DATA, PLAYERS, selected_season)
     if not clubs_in_season:
-        st.warning(f"No clubs found for season {selected_season} in SEASON_DATA.csv.")
+        st.warning(f"No clubs with uploaded player CSVs found for season {selected_season}.")
         st.stop()
+    if clubs_missing_data:
+        with st.expander(f"ℹ️ {len(clubs_missing_data)} club(s) listed in SEASON_DATA.csv for "
+                          f"{selected_season} have no matching player CSVs, so they're hidden below"):
+            st.caption(", ".join(clubs_missing_data))
 
     st.markdown("### 🏟️ Step 2 — Teams, Date & Score Model")
     c1, c2, c3, c4 = st.columns(4)
@@ -300,7 +303,7 @@ with tab_diagnostics:
         "**Time order is preserved — no random shuffling.**"
     )
     diag_season = st.selectbox("Season", ALL_SEASONS, index=0, key="diag_season")
-    diag_teams = sorted(SEASON_DATA.get(diag_season, {}).keys())
+    diag_teams, _ = get_clubs_with_data(SEASON_DATA, PLAYERS, diag_season)
     if not diag_teams:
         st.warning("No teams available for this season.")
     else:

@@ -108,9 +108,13 @@ with tab_predict:
     with c4:
         score_model = st.selectbox(
             "Score distribution",
-            ["dixon_coles", "independent_poisson", "bivariate_poisson", "negative_binomial"],
+            ["dixon_coles", "independent_poisson", "bivariate_poisson",
+             "negative_binomial", "ensemble"],
             index=0,
-            help="Dixon-Coles corrects the independence assumption for low scorelines.",
+            help=(
+                "Dixon-Coles corrects the independence assumption for low scorelines. "
+                "'ensemble' averages all four models together instead of using just one."
+            ),
         )
     st.caption(f"ℹ️ Only data **strictly before {match_date}** will be used for this prediction.")
 

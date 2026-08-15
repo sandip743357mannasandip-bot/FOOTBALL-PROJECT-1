@@ -1,0 +1,182 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2019-08-17,2019-2020,La Liga,Mallorca,Eibar,Home,2,1,W,Dani Rodríguez,Y,RW,90,1,0,4,1,0,0,1,1,2,1,1
+2019-08-25,2019-2020,La Liga,Mallorca,Real Sociedad,Home,0,1,L,Dani Rodríguez,Y,DM,83,0,0,2,1,0,0,2,0,1,1,1
+2019-09-01,2019-2020,La Liga,Mallorca,Valencia,Away,0,2,L,Dani Rodríguez,Y,DM,63,0,0,1,0,0,0,4,0,1,2,2
+2019-09-13,2019-2020,La Liga,Mallorca,Athletic Club,Home,0,0,D,Dani Rodríguez,Y,DM,62,0,0,2,0,1,0,2,0,1,1,0
+2019-09-22,2019-2020,La Liga,Mallorca,Getafe,Away,2,4,L,Dani Rodríguez,Y,RW,70,0,0,1,0,0,0,1,0,1,0,0
+2019-09-25,2019-2020,La Liga,Mallorca,Atlético Madrid,Home,0,2,L,Dani Rodríguez,Y,RW,90,0,0,0,0,0,0,0,0,0,0,0
+2019-09-29,2019-2020,La Liga,Mallorca,Alavés,Away,0,2,L,Dani Rodríguez,N,RW,25,0,0,0,0,0,0,0,0,0,0,0
+2019-10-06,2019-2020,La Liga,Mallorca,Espanyol,Home,2,0,W,Dani Rodríguez,Y,AM,90,0,0,2,0,0,0,1,0,1,0,1
+2019-10-19,2019-2020,La Liga,Mallorca,Real Madrid,Home,1,0,W,Dani Rodríguez,Y,FW,90,0,0,2,0,0,0,3,0,0,1,1
+2019-10-26,2019-2020,La Liga,Mallorca,Leganés,Away,0,1,L,Dani Rodríguez,Y,FW,58,0,0,1,1,0,0,0,0,0,0,0
+2019-10-31,2019-2020,La Liga,Mallorca,Osasuna,Home,2,2,D,Dani Rodríguez,Y,FW,80,0,0,1,0,0,0,0,0,0,1,0
+2019-11-03,2019-2020,La Liga,Mallorca,Valladolid,Away,0,3,L,Dani Rodríguez,Y,RW,90,0,0,0,0,0,0,3,0,0,1,0
+2019-11-10,2019-2020,La Liga,Mallorca,Villarreal,Home,3,1,W,Dani Rodríguez,Y,FW,90,1,0,2,1,1,0,4,0,0,2,0
+2019-11-22,2019-2020,La Liga,Mallorca,Levante,Away,1,2,L,Dani Rodríguez,Y,AM,90,1,0,3,2,0,0,1,1,4,0,0
+2019-11-30,2019-2020,La Liga,Mallorca,Real Betis,Home,1,2,L,Dani Rodríguez,Y,FW,76,0,0,1,0,0,0,1,1,2,1,1
+2019-12-07,2019-2020,La Liga,Mallorca,Barcelona,Away,2,5,L,Dani Rodríguez,Y,LM,90,0,0,3,0,0,0,1,0,0,2,6
+2019-12-15,2019-2020,La Liga,Mallorca,Celta Vigo,Away,2,2,D,Dani Rodríguez,Y,DM,90,0,0,1,0,0,0,2,1,0,2,4
+2019-12-21,2019-2020,La Liga,Mallorca,Sevilla,Home,0,2,L,Dani Rodríguez,Y,AM,90,0,0,0,0,0,0,2,0,1,0,3
+2020-01-05,2019-2020,La Liga,Mallorca,Granada,Away,0,1,L,Dani Rodríguez,Y,AM,90,0,0,2,1,0,0,3,0,0,2,0
+2020-01-19,2019-2020,La Liga,Mallorca,Valencia,Home,4,1,W,Dani Rodríguez,Y,RM,90,1,1,2,1,0,0,5,0,1,1,1
+2020-01-26,2019-2020,La Liga,Mallorca,Real Sociedad,Away,0,3,L,Dani Rodríguez,Y,RM,90,0,0,0,0,0,0,0,0,5,1,0
+2020-02-01,2019-2020,La Liga,Mallorca,Valladolid,Home,0,1,L,Dani Rodríguez,Y,DM,58,0,0,1,0,1,0,3,0,1,1,2
+2020-02-09,2019-2020,La Liga,Mallorca,Espanyol,Away,0,1,L,Dani Rodríguez,Y,AM,90,0,0,0,0,0,0,1,0,1,1,0
+2020-02-15,2019-2020,La Liga,Mallorca,Alavés,Home,1,0,W,Dani Rodríguez,Y,AM,90,0,0,2,0,0,0,2,0,2,4,0
+2020-02-21,2019-2020,La Liga,Mallorca,Real Betis,Away,3,3,D,Dani Rodríguez,Y,AM,90,0,0,1,1,0,0,0,0,0,1,1
+2020-03-01,2019-2020,La Liga,Mallorca,Getafe,Home,0,1,L,Dani Rodríguez,Y,RM,90,0,0,1,0,0,0,2,1,0,2,1
+2020-03-07,2019-2020,La Liga,Mallorca,Eibar,Away,2,1,W,Dani Rodríguez,Y,CM,90,1,0,4,2,1,0,2,0,4,0,1
+2020-06-13,2019-2020,La Liga,Mallorca,Barcelona,Home,0,4,L,Dani Rodríguez,Y,LM,90,0,0,1,0,1,0,2,1,5,0,1
+2020-06-19,2019-2020,La Liga,Mallorca,Leganés,Home,1,1,D,Dani Rodríguez,Y,AM,51,0,0,0,0,1,0,1,0,1,1,0
+2020-06-24,2019-2020,La Liga,Mallorca,Real Madrid,Away,0,2,L,Dani Rodríguez,Y,AM,90,0,0,0,0,0,0,4,0,6,1,2
+2020-06-27,2019-2020,La Liga,Mallorca,Athletic Club,Away,1,3,L,Dani Rodríguez,Y,CM,90,0,0,3,0,0,0,2,0,1,0,0
+2020-06-30,2019-2020,La Liga,Mallorca,Celta Vigo,Home,5,1,W,Dani Rodríguez,Y,DM,73,0,0,1,0,0,0,3,0,1,0,1
+2020-07-03,2019-2020,La Liga,Mallorca,Atlético Madrid,Away,0,3,L,Dani Rodríguez,Y,LM,90,0,0,0,0,0,0,0,0,3,2,2
+2020-07-09,2019-2020,La Liga,Mallorca,Levante,Home,2,0,W,Dani Rodríguez,Y,AM,90,0,0,3,0,1,0,1,0,2,0,2
+2020-07-12,2019-2020,La Liga,Mallorca,Sevilla,Away,0,2,L,Dani Rodríguez,Y,CM,90,0,0,2,0,0,0,0,0,0,0,1
+2020-07-16,2019-2020,La Liga,Mallorca,Granada,Home,1,2,L,Dani Rodríguez,Y,CM,90,0,1,2,1,0,0,2,0,1,0,1
+2020-07-19,2019-2020,La Liga,Mallorca,Osasuna,Away,2,2,D,Dani Rodríguez,Y,RM,90,0,0,0,0,0,0,1,0,6,0,0
+2021-08-14,2021-2022,La Liga,Mallorca,Real Betis,Home,1,1,D,Dani Rodríguez,Y,FW,89,0,1,0,0,0,0,3,0,3,0,1
+2021-08-21,2021-2022,La Liga,Mallorca,Alavés,Away,1,0,W,Dani Rodríguez,Y,AM,90,0,0,2,0,1,0,0,0,2,0,1
+2021-08-27,2021-2022,La Liga,Mallorca,Espanyol,Home,1,0,W,Dani Rodríguez,Y,AM,90,1,0,1,1,0,0,2,0,2,1,0
+2021-09-11,2021-2022,La Liga,Mallorca,Athletic Club,Away,0,2,L,Dani Rodríguez,Y,AM,90,0,0,2,0,0,0,2,0,0,1,0
+2021-09-19,2021-2022,La Liga,Mallorca,Villarreal,Home,0,0,D,Dani Rodríguez,Y,FW,90,0,0,3,0,0,0,4,0,1,2,1
+2021-09-26,2021-2022,La Liga,Mallorca,Osasuna,Home,2,3,L,Dani Rodríguez,Y,AM,90,1,0,3,2,0,0,1,0,1,1,0
+2021-10-02,2021-2022,La Liga,Mallorca,Levante,Home,1,0,W,Dani Rodríguez,Y,AM,90,0,0,1,1,0,0,4,0,0,0,0
+2021-10-16,2021-2022,La Liga,Mallorca,Real Sociedad,Away,0,1,L,Dani Rodríguez,Y,AM,90,0,0,1,0,1,0,2,0,0,0,1
+2021-10-23,2021-2022,La Liga,Mallorca,Valencia,Away,2,2,D,Dani Rodríguez,Y,AM,74,0,0,1,0,0,0,3,0,1,3,2
+2021-10-27,2021-2022,La Liga,Mallorca,Sevilla,Home,1,1,D,Dani Rodríguez,Y,LM,89,0,0,2,0,0,0,5,0,2,1,2
+2021-10-31,2021-2022,La Liga,Mallorca,Cádiz,Away,1,1,D,Dani Rodríguez,Y,AM,90,0,0,0,0,1,0,1,0,1,1,0
+2021-11-07,2021-2022,La Liga,Mallorca,Elche,Home,2,2,D,Dani Rodríguez,Y,AM,90,0,1,2,0,0,0,1,0,4,0,1
+2021-11-22,2021-2022,La Liga,Mallorca,Rayo Vallecano,Away,1,3,L,Dani Rodríguez,Y,AM,84,0,0,1,1,0,0,2,0,2,2,1
+2021-11-27,2021-2022,La Liga,Mallorca,Getafe,Home,0,0,D,Dani Rodríguez,Y,AM,90,0,0,2,1,0,0,0,0,3,1,0
+2021-12-04,2021-2022,La Liga,Mallorca,Atlético Madrid,Away,1,2,L,Dani Rodríguez,Y,AM,90,0,0,0,0,0,0,5,0,3,0,0
+2021-12-10,2021-2022,La Liga,Mallorca,Celta Vigo,Home,0,0,D,Dani Rodríguez,Y,FW,90,0,0,2,0,1,0,5,0,4,3,0
+2021-12-19,2021-2022,La Liga,Mallorca,Granada,Away,1,4,L,Dani Rodríguez,Y,AM,90,1,0,2,2,0,0,0,2,1,0,0
+2022-01-02,2021-2022,La Liga,Mallorca,Barcelona,Home,0,1,L,Dani Rodríguez,Y,AM,90,0,0,1,0,1,0,1,0,5,0,0
+2022-01-22,2021-2022,La Liga,Mallorca,Villarreal,Away,0,3,L,Dani Rodríguez,Y,CM,75,0,0,0,0,0,0,2,0,0,1,3
+2022-02-05,2021-2022,La Liga,Mallorca,Cádiz,Home,2,1,W,Dani Rodríguez,Y,AM,90,0,0,2,0,0,0,2,0,2,1,0
+2022-02-14,2021-2022,La Liga,Mallorca,Athletic Club,Home,3,2,W,Dani Rodríguez,Y,LM,90,0,0,2,0,0,0,0,0,3,0,0
+2022-02-20,2021-2022,La Liga,Mallorca,Real Betis,Away,1,2,L,Dani Rodríguez,Y,LM,69,0,0,2,0,0,0,0,0,0,0,3
+2022-02-26,2021-2022,La Liga,Mallorca,Valencia,Home,0,1,L,Dani Rodríguez,Y,AM,70,0,0,2,0,0,0,0,0,2,0,0
+2022-03-02,2021-2022,La Liga,Mallorca,Real Sociedad,Home,0,2,L,Dani Rodríguez,Y,AM,90,0,0,1,0,0,0,2,0,1,1,1
+2022-03-06,2021-2022,La Liga,Mallorca,Celta Vigo,Away,3,4,L,Dani Rodríguez,Y,CM,78,0,0,0,0,0,0,0,0,4,0,0
+2022-03-14,2021-2022,La Liga,Mallorca,Real Madrid,Home,0,3,L,Dani Rodríguez,Y,RM,78,0,0,1,0,0,0,2,0,1,1,0
+2022-03-20,2021-2022,La Liga,Mallorca,Espanyol,Away,0,1,L,Dani Rodríguez,Y,RM,90,0,0,0,0,0,0,0,0,3,0,1
+2022-04-02,2021-2022,La Liga,Mallorca,Getafe,Away,0,1,L,Dani Rodríguez,Y,CM,85,0,0,0,0,1,0,1,0,0,3,0
+2022-04-09,2021-2022,La Liga,Mallorca,Atlético Madrid,Home,1,0,W,Dani Rodríguez,Y,CM,90,0,0,0,0,1,0,3,0,1,1,0
+2022-04-16,2021-2022,La Liga,Mallorca,Elche,Away,0,3,L,Dani Rodríguez,Y,LM,45,0,0,0,0,0,0,1,0,0,2,0
+2022-04-19,2021-2022,La Liga,Mallorca,Alavés,Home,2,1,W,Dani Rodríguez,Y,DM,90,0,1,0,0,0,0,6,0,0,3,0
+2022-05-01,2021-2022,La Liga,Mallorca,Barcelona,Away,1,2,L,Dani Rodríguez,Y,AM,59,0,0,0,0,0,0,1,0,0,1,0
+2022-05-07,2021-2022,La Liga,Mallorca,Granada,Home,2,6,L,Dani Rodríguez,Y,CM,67,0,0,1,1,0,0,2,0,2,0,0
+2022-05-11,2021-2022,La Liga,Mallorca,Sevilla,Away,0,0,D,Dani Rodríguez,N,CM,17,0,0,2,0,0,0,1,0,0,0,1
+2022-05-15,2021-2022,La Liga,Mallorca,Rayo Vallecano,Home,2,1,W,Dani Rodríguez,N,CM,27,0,0,2,0,0,0,1,0,1,0,0
+2022-05-22,2021-2022,La Liga,Mallorca,Osasuna,Away,2,0,W,Dani Rodríguez,N,CM,26,0,0,1,1,0,0,0,1,1,0,0
+2022-08-15,2022-2023,La Liga,Mallorca,Athletic Club,Away,0,0,D,Dani Rodríguez,Y,LM,64,0,0,0,0,1,0,1,0,1,1,2
+2022-08-20,2022-2023,La Liga,Mallorca,Real Betis,Home,1,2,L,Dani Rodríguez,Y,LM,78,0,0,1,0,1,0,1,0,0,0,0
+2022-08-27,2022-2023,La Liga,Mallorca,Rayo Vallecano,Away,2,0,W,Dani Rodríguez,Y,CM,86,0,1,1,1,0,0,1,0,0,0,1
+2022-09-03,2022-2023,La Liga,Mallorca,Girona,Home,1,1,D,Dani Rodríguez,Y,CM,72,0,0,0,0,0,0,2,0,1,0,0
+2022-09-11,2022-2023,La Liga,Mallorca,Real Madrid,Away,1,4,L,Dani Rodríguez,Y,CM,58,0,0,0,0,0,0,0,1,0,0,0
+2022-09-17,2022-2023,La Liga,Mallorca,Almería,Home,1,0,W,Dani Rodríguez,N,CM,32,0,0,0,0,0,0,2,0,0,0,0
+2022-10-01,2022-2023,La Liga,Mallorca,Barcelona,Home,0,1,L,Dani Rodríguez,N,CM,24,0,0,1,1,0,0,0,0,0,0,0
+2022-10-10,2022-2023,La Liga,Mallorca,Elche,Away,1,1,D,Dani Rodríguez,N,CM,1,0,0,0,0,0,0,0,0,0,0,0
+2022-10-15,2022-2023,La Liga,Mallorca,Sevilla,Home,0,1,L,Dani Rodríguez,N,CM,34,0,0,0,0,1,0,1,0,2,1,0
+2022-10-19,2022-2023,La Liga,Mallorca,Real Sociedad,Away,0,1,L,Dani Rodríguez,Y,RM,68,0,0,1,0,0,0,1,0,4,0,3
+2022-10-22,2022-2023,La Liga,Mallorca,Valencia,Away,2,1,W,Dani Rodríguez,N,RM,36,0,1,1,1,1,0,2,0,1,1,0
+2022-10-28,2022-2023,La Liga,Mallorca,Espanyol,Home,1,1,D,Dani Rodríguez,Y,RM,65,0,0,2,0,0,0,1,0,1,1,0
+2022-11-06,2022-2023,La Liga,Mallorca,Villarreal,Away,2,0,W,Dani Rodríguez,Y,RM,71,0,0,0,0,1,0,3,0,0,1,3
+2022-12-30,2022-2023,La Liga,Mallorca,Getafe,Away,0,2,L,Dani Rodríguez,Y,RM,68,0,0,0,0,0,0,2,0,1,0,0
+2023-01-07,2022-2023,La Liga,Mallorca,Valladolid,Home,1,0,W,Dani Rodríguez,Y,AM,61,0,0,2,0,0,0,2,0,3,1,0
+2023-01-14,2022-2023,La Liga,Mallorca,Osasuna,Away,0,1,L,Dani Rodríguez,Y,RM,63,0,0,0,0,0,0,1,0,0,0,0
+2023-01-20,2022-2023,La Liga,Mallorca,Celta Vigo,Home,1,0,W,Dani Rodríguez,Y,RM,90,1,0,2,2,0,0,1,0,0,1,0
+2023-01-28,2022-2023,La Liga,Mallorca,Cádiz,Away,0,2,L,Dani Rodríguez,Y,RM,73,0,0,0,0,0,0,2,0,0,3,1
+2023-02-05,2022-2023,La Liga,Mallorca,Real Madrid,Home,1,0,W,Dani Rodríguez,Y,RM,67,0,0,0,0,0,0,4,0,2,2,1
+2023-02-11,2022-2023,La Liga,Mallorca,Sevilla,Away,0,2,L,Dani Rodríguez,Y,RM,63,0,0,0,0,0,0,2,0,0,0,0
+2023-02-18,2022-2023,La Liga,Mallorca,Villarreal,Home,4,2,W,Dani Rodríguez,Y,CM,73,2,0,2,2,1,0,2,0,0,1,2
+2023-02-25,2022-2023,La Liga,Mallorca,Espanyol,Away,1,2,L,Dani Rodríguez,Y,CM,89,0,1,3,0,0,0,3,0,1,1,0
+2023-03-04,2022-2023,La Liga,Mallorca,Elche,Home,0,1,L,Dani Rodríguez,Y,CM,82,0,0,3,2,0,0,0,0,2,1,0
+2023-03-12,2022-2023,La Liga,Mallorca,Real Sociedad,Home,1,1,D,Dani Rodríguez,Y,CM,67,0,0,1,0,1,0,3,2,3,0,0
+2023-03-19,2022-2023,La Liga,Mallorca,Real Betis,Away,0,1,L,Dani Rodríguez,Y,CM,56,0,0,0,0,0,0,2,0,0,1,0
+2023-03-31,2022-2023,La Liga,Mallorca,Osasuna,Home,0,0,D,Dani Rodríguez,Y,RM,82,0,0,1,0,0,0,1,1,2,0,1
+2023-04-23,2022-2023,La Liga,Mallorca,Getafe,Home,3,1,W,Dani Rodríguez,N,RM,17,0,0,0,0,0,0,1,0,0,0,0
+2023-04-26,2022-2023,La Liga,Mallorca,Atlético Madrid,Away,1,3,L,Dani Rodríguez,Y,CM,90,0,1,1,0,0,0,2,0,5,2,0
+2023-05-01,2022-2023,La Liga,Mallorca,Athletic Club,Home,1,1,D,Dani Rodríguez,N,CM,18,0,0,0,0,0,0,1,0,0,0,0
+2023-05-04,2022-2023,La Liga,Mallorca,Girona,Away,1,2,L,Dani Rodríguez,N,CM,25,0,0,1,1,0,0,0,0,0,0,0
+2023-05-12,2022-2023,La Liga,Mallorca,Cádiz,Home,1,0,W,Dani Rodríguez,N,CM,28,0,0,1,0,0,0,0,1,1,0,0
+2023-05-20,2022-2023,La Liga,Mallorca,Almería,Away,0,3,L,Dani Rodríguez,Y,CM,56,0,0,0,0,0,0,1,0,0,1,0
+2023-05-25,2022-2023,La Liga,Mallorca,Valencia,Home,1,0,W,Dani Rodríguez,Y,CM,82,0,0,0,0,1,0,3,0,0,0,3
+2023-05-28,2022-2023,La Liga,Mallorca,Barcelona,Home,0,3,L,Dani Rodríguez,Y,RM,71,0,0,0,0,0,0,1,0,1,2,1
+2023-06-04,2022-2023,La Liga,Mallorca,Rayo Vallecano,Home,3,0,W,Dani Rodríguez,Y,CM,90,0,2,1,0,0,0,2,0,1,2,1
+2023-08-12,2023-2024,La Liga,Mallorca,Las Palmas,Away,1,1,D,Dani Rodríguez,Y,CM,90,0,0,3,0,0,0,2,0,1,1,2
+2023-08-18,2023-2024,La Liga,Mallorca,Villarreal,Home,0,1,L,Dani Rodríguez,Y,CM,62,0,0,0,0,0,0,2,0,4,2,0
+2023-08-26,2023-2024,La Liga,Mallorca,Granada,Away,2,3,L,Dani Rodríguez,Y,CM,71,0,0,0,0,1,0,4,0,0,0,0
+2023-09-03,2023-2024,La Liga,Mallorca,Athletic Club,Home,0,0,D,Dani Rodríguez,Y,CM,68,0,0,1,0,0,0,1,0,0,2,0
+2023-09-16,2023-2024,La Liga,Mallorca,Celta Vigo,Away,1,0,W,Dani Rodríguez,Y,RM,89,0,1,1,0,1,0,4,0,0,1,1
+2023-09-23,2023-2024,La Liga,Mallorca,Girona,Away,3,5,L,Dani Rodríguez,Y,RM,90,0,0,2,0,1,0,2,0,0,0,0
+2023-09-26,2023-2024,La Liga,Mallorca,Barcelona,Home,2,2,D,Dani Rodríguez,Y,CM,84,0,0,2,0,1,0,4,0,5,1,0
+2023-09-30,2023-2024,La Liga,Mallorca,Rayo Vallecano,Away,2,2,D,Dani Rodríguez,Y,LM,90,0,0,1,0,0,0,2,0,3,1,0
+2023-10-07,2023-2024,La Liga,Mallorca,Valencia,Home,1,1,D,Dani Rodríguez,Y,LM,90,1,0,2,2,0,0,2,0,4,2,1
+2023-10-21,2023-2024,La Liga,Mallorca,Real Sociedad,Away,0,1,L,Dani Rodríguez,Y,CM,85,0,0,3,1,0,0,1,0,5,1,0
+2023-10-28,2023-2024,La Liga,Mallorca,Getafe,Home,0,0,D,Dani Rodríguez,Y,LM,88,0,0,2,0,0,1,11,1,0,1,0
+2023-11-04,2023-2024,La Liga,Mallorca,Real Betis,Away,0,2,L,Dani Rodríguez,N,LM,31,0,0,0,0,0,0,1,0,0,0,0
+2023-11-25,2023-2024,La Liga,Mallorca,Atlético Madrid,Away,0,1,L,Dani Rodríguez,Y,LM,73,0,0,0,0,0,0,2,0,1,1,1
+2023-11-29,2023-2024,La Liga,Mallorca,Cádiz,Home,1,1,D,Dani Rodríguez,Y,CM,82,0,0,1,0,1,1,7,0,0,0,0
+2023-12-09,2023-2024,La Liga,Mallorca,Sevilla,Home,1,0,W,Dani Rodríguez,Y,CM,80,0,0,0,0,0,0,1,1,5,1,0
+2023-12-17,2023-2024,La Liga,Mallorca,Almería,Away,0,0,D,Dani Rodríguez,Y,FW,90,0,0,2,0,0,0,0,0,9,0,0
+2023-12-21,2023-2024,La Liga,Mallorca,Osasuna,Home,3,2,W,Dani Rodríguez,Y,AM,89,1,2,1,1,0,0,1,0,10,0,2
+2024-01-03,2023-2024,La Liga,Mallorca,Real Madrid,Away,0,1,L,Dani Rodríguez,Y,LM,72,0,0,0,0,0,0,0,0,5,1,0
+2024-01-13,2023-2024,La Liga,Mallorca,Celta Vigo,Home,1,1,D,Dani Rodríguez,Y,LM,90,0,0,0,0,0,0,4,0,10,0,0
+2024-01-20,2023-2024,La Liga,Mallorca,Villarreal,Away,1,1,D,Dani Rodríguez,Y,LM,90,0,0,0,0,0,0,3,0,9,1,1
+2024-01-27,2023-2024,La Liga,Mallorca,Real Betis,Home,0,1,L,Dani Rodríguez,N,LM,33,0,0,1,0,0,0,1,0,4,1,0
+2024-02-02,2023-2024,La Liga,Mallorca,Athletic Club,Away,0,4,L,Dani Rodríguez,Y,LM,75,0,0,1,0,0,0,2,0,4,2,1
+2024-02-11,2023-2024,La Liga,Mallorca,Rayo Vallecano,Home,2,1,W,Dani Rodríguez,Y,LM,90,0,1,0,0,1,0,2,0,8,0,1
+2024-02-18,2023-2024,La Liga,Mallorca,Real Sociedad,Home,1,2,L,Dani Rodríguez,Y,CM,79,0,0,1,0,1,0,3,0,7,2,0
+2024-02-24,2023-2024,La Liga,Mallorca,Alavés,Away,1,1,D,Dani Rodríguez,N,CM,7,0,0,0,0,0,0,0,0,2,0,0
+2024-03-03,2023-2024,La Liga,Mallorca,Girona,Home,1,0,W,Dani Rodríguez,Y,CM,67,0,0,0,0,0,0,4,0,10,0,0
+2024-03-08,2023-2024,La Liga,Mallorca,Barcelona,Away,0,1,L,Dani Rodríguez,N,CM,30,0,0,0,0,0,0,0,1,2,1,1
+2024-03-16,2023-2024,La Liga,Mallorca,Granada,Home,1,0,W,Dani Rodríguez,Y,CM,81,0,0,2,0,0,0,2,3,11,0,1
+2024-04-13,2023-2024,La Liga,Mallorca,Real Madrid,Home,0,1,L,Dani Rodríguez,Y,LM,85,0,0,0,0,0,0,1,2,5,0,0
+2024-04-22,2023-2024,La Liga,Mallorca,Sevilla,Away,1,2,L,Dani Rodríguez,Y,LM,70,0,0,0,0,0,0,1,0,5,0,0
+2024-04-28,2023-2024,La Liga,Mallorca,Cádiz,Away,1,1,D,Dani Rodríguez,Y,RM,69,0,0,0,0,1,0,2,1,1,2,0
+2024-05-04,2023-2024,La Liga,Mallorca,Atlético Madrid,Home,0,1,L,Dani Rodríguez,Y,CM,75,0,0,0,0,0,0,1,1,4,0,0
+2024-05-11,2023-2024,La Liga,Mallorca,Las Palmas,Home,1,0,W,Dani Rodríguez,Y,CM,72,0,0,0,0,0,0,2,0,2,2,0
+2024-05-14,2023-2024,La Liga,Mallorca,Osasuna,Away,1,1,D,Dani Rodríguez,Y,RM,82,0,0,1,0,0,0,1,1,3,2,0
+2024-05-19,2023-2024,La Liga,Mallorca,Almería,Home,2,2,D,Dani Rodríguez,Y,CM,62,0,0,0,0,0,0,0,2,6,0,0
+2024-05-26,2023-2024,La Liga,Mallorca,Getafe,Away,2,1,W,Dani Rodríguez,N,CM,34,0,0,0,0,1,0,1,0,3,0,0
+2024-08-18,2024-2025,La Liga,Mallorca,Real Madrid,Home,1,1,D,Dani Rodríguez,Y,FW,66,0,1,2,0,0,0,0,0,5,0,0
+2024-08-24,2024-2025,La Liga,Mallorca,Osasuna,Away,0,1,L,Dani Rodríguez,Y,FW,78,0,0,1,0,0,0,1,0,2,5,0
+2024-08-27,2024-2025,La Liga,Mallorca,Sevilla,Home,0,0,D,Dani Rodríguez,N,FW,26,0,0,0,0,0,0,0,2,4,0,0
+2024-08-31,2024-2025,La Liga,Mallorca,Leganés,Away,1,0,W,Dani Rodríguez,Y,CM,83,1,0,2,1,0,0,0,2,8,2,0
+2024-09-14,2024-2025,La Liga,Mallorca,Villarreal,Home,1,2,L,Dani Rodríguez,Y,AM,61,0,0,0,0,0,0,0,0,10,0,0
+2024-09-17,2024-2025,La Liga,Mallorca,Real Sociedad,Home,1,0,W,Dani Rodríguez,N,AM,21,0,0,0,0,0,0,1,1,0,0,0
+2024-09-23,2024-2025,La Liga,Mallorca,Real Betis,Away,2,1,W,Dani Rodríguez,Y,AM,75,1,0,2,2,1,0,4,1,0,1,1
+2024-09-27,2024-2025,La Liga,Mallorca,Valladolid,Away,2,1,W,Dani Rodríguez,Y,FW,75,0,1,0,0,0,0,2,2,0,1,1
+2024-10-05,2024-2025,La Liga,Mallorca,Espanyol,Away,1,2,L,Dani Rodríguez,Y,AM,60,0,0,0,0,0,0,1,1,0,3,1
+2024-10-20,2024-2025,La Liga,Mallorca,Rayo Vallecano,Home,1,0,W,Dani Rodríguez,N,AM,19,0,1,0,0,0,0,0,1,3,0,0
+2024-10-28,2024-2025,La Liga,Mallorca,Athletic Club,Home,0,0,D,Dani Rodríguez,N,AM,26,0,0,0,0,0,0,0,1,2,0,0
+2024-11-01,2024-2025,La Liga,Mallorca,Alavés,Away,0,1,L,Dani Rodríguez,Y,AM,78,0,0,1,1,0,0,3,0,3,0,1
+2024-11-10,2024-2025,La Liga,Mallorca,Atlético Madrid,Home,0,1,L,Dani Rodríguez,N,AM,16,0,0,0,0,0,0,2,1,1,1,0
+2024-11-23,2024-2025,La Liga,Mallorca,Las Palmas,Away,3,2,W,Dani Rodríguez,Y,FW,70,1,0,1,1,0,0,2,1,5,2,0
+2024-11-29,2024-2025,La Liga,Mallorca,Valencia,Home,2,1,W,Dani Rodríguez,Y,AM,69,0,1,1,0,0,0,2,1,3,1,1
+2024-12-03,2024-2025,La Liga,Mallorca,Barcelona,Home,1,5,L,Dani Rodríguez,N,AM,24,0,0,1,0,0,0,1,1,2,0,0
+2024-12-06,2024-2025,La Liga,Mallorca,Celta Vigo,Away,0,2,L,Dani Rodríguez,Y,AM,83,0,0,0,0,0,0,1,1,5,0,0
+2024-12-14,2024-2025,La Liga,Mallorca,Girona,Home,2,1,W,Dani Rodríguez,N,AM,18,0,0,0,0,0,0,1,0,2,0,0
+2024-12-21,2024-2025,La Liga,Mallorca,Getafe,Away,1,0,W,Dani Rodríguez,Y,FW,77,0,0,2,0,0,0,2,1,3,1,0
+2025-01-20,2024-2025,La Liga,Mallorca,Villarreal,Away,0,4,L,Dani Rodríguez,Y,RM,45,0,0,1,0,1,0,2,1,4,0,0
+2025-01-25,2024-2025,La Liga,Mallorca,Real Betis,Home,0,1,L,Dani Rodríguez,Y,AM,90,0,0,2,1,0,0,1,2,6,1,1
+2025-02-01,2024-2025,La Liga,Mallorca,Atlético Madrid,Away,0,2,L,Dani Rodríguez,Y,CM,80,0,0,1,0,0,0,3,1,2,1,1
+2025-02-10,2024-2025,La Liga,Mallorca,Osasuna,Home,1,1,D,Dani Rodríguez,Y,AM,88,0,0,2,1,0,0,2,1,8,1,1
+2025-02-16,2024-2025,La Liga,Mallorca,Las Palmas,Home,3,1,W,Dani Rodríguez,Y,AM,85,1,1,4,2,0,0,2,0,7,0,0
+2025-02-24,2024-2025,La Liga,Mallorca,Sevilla,Away,1,1,D,Dani Rodríguez,Y,CM,76,0,0,0,0,0,0,3,1,4,1,1
+2025-03-02,2024-2025,La Liga,Mallorca,Alavés,Home,1,1,D,Dani Rodríguez,Y,FW,87,0,1,2,0,0,0,7,2,5,2,1
+2025-03-09,2024-2025,La Liga,Mallorca,Athletic Club,Away,1,1,D,Dani Rodríguez,N,FW,19,0,0,0,0,0,0,1,0,2,1,1
+2025-03-15,2024-2025,La Liga,Mallorca,Espanyol,Home,2,1,W,Dani Rodríguez,Y,AM,75,0,0,3,1,0,0,1,2,4,1,1
+2025-03-30,2024-2025,La Liga,Mallorca,Valencia,Away,0,1,L,Dani Rodríguez,N,AM,18,0,0,1,0,1,0,2,0,3,0,0
+2025-04-05,2024-2025,La Liga,Mallorca,Celta Vigo,Home,1,2,L,Dani Rodríguez,Y,AM,73,0,0,0,0,1,0,0,3,1,0,0
+2025-04-12,2024-2025,La Liga,Mallorca,Real Sociedad,Away,2,0,W,Dani Rodríguez,Y,FW,71,0,1,0,0,0,0,0,2,3,0,0
+2025-04-19,2024-2025,La Liga,Mallorca,Leganés,Home,0,0,D,Dani Rodríguez,Y,CM,63,0,0,0,0,1,0,1,0,1,1,1
+2025-05-05,2024-2025,La Liga,Mallorca,Girona,Away,0,1,L,Dani Rodríguez,Y,LM,71,0,0,0,0,0,0,1,1,2,2,0
+2025-05-10,2024-2025,La Liga,Mallorca,Valladolid,Home,2,1,W,Dani Rodríguez,Y,AM,75,0,0,0,0,0,0,3,2,3,0,0
+2025-05-14,2024-2025,La Liga,Mallorca,Real Madrid,Away,1,2,L,Dani Rodríguez,N,AM,32,0,0,0,0,0,0,1,0,0,0,0
+2025-05-18,2024-2025,La Liga,Mallorca,Getafe,Home,1,2,L,Dani Rodríguez,Y,AM,70,0,0,2,0,0,0,1,1,0,2,0
+2025-05-24,2024-2025,La Liga,Mallorca,Rayo Vallecano,Away,0,0,D,Dani Rodríguez,N,AM,19,0,0,0,0,0,0,0,0,0,0,0

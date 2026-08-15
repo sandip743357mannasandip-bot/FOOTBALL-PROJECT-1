@@ -1,0 +1,191 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2013-09-15,2013-2014,La Liga,Rayo Vallecano,Málaga,Away,0,5,L,Johan Mojica,N,NA,23,0,0,0,0,0,0,0,0,0,0,0
+2013-09-21,2013-2014,La Liga,Rayo Vallecano,Barcelona,Home,0,4,L,Johan Mojica,Y,NA,90,0,0,0,0,0,0,0,0,0,0,0
+2013-09-25,2013-2014,La Liga,Rayo Vallecano,Sevilla,Away,1,4,L,Johan Mojica,Y,NA,90,0,0,0,0,1,0,0,0,0,0,0
+2013-09-28,2013-2014,La Liga,Rayo Vallecano,Valencia,Away,0,1,L,Johan Mojica,Y,NA,90,0,0,0,0,0,0,0,0,0,0,0
+2013-10-05,2013-2014,La Liga,Rayo Vallecano,Real Sociedad,Home,1,0,W,Johan Mojica,Y,NA,45,0,0,0,0,0,0,0,0,0,0,0
+2013-10-20,2013-2014,La Liga,Rayo Vallecano,Almería,Away,1,0,W,Johan Mojica,N,NA,26,0,0,0,0,0,0,0,0,0,0,0
+2013-10-25,2013-2014,La Liga,Rayo Vallecano,Valladolid,Home,0,3,L,Johan Mojica,Y,NA,90,0,0,0,0,0,0,0,0,0,0,0
+2013-11-09,2013-2014,La Liga,Rayo Vallecano,Celta Vigo,Home,2,0,W,Johan Mojica,N,NA,16,0,0,0,0,0,0,0,0,0,0,0
+2013-12-14,2013-2014,La Liga,Rayo Vallecano,Granada,Home,0,2,L,Johan Mojica,N,NA,46,0,0,0,0,0,0,0,0,0,0,0
+2013-12-22,2013-2014,La Liga,Rayo Vallecano,Athletic Club,Away,1,2,L,Johan Mojica,Y,NA,90,0,0,0,0,0,0,0,0,0,0,0
+2014-01-06,2013-2014,La Liga,Rayo Vallecano,Villarreal,Home,2,5,L,Johan Mojica,N,NA,45,0,0,0,0,1,0,0,0,0,0,0
+2014-02-15,2013-2014,La Liga,Rayo Vallecano,Barcelona,Away,0,6,L,Johan Mojica,Y,NA,90,0,0,0,0,0,0,0,0,0,0,0
+2017-09-10,2017-2018,La Liga,Girona,Athletic Club,Away,0,2,L,Johan Mojica,N,NA,24,0,0,0,0,0,1,0,0,2,0,0
+2017-09-17,2017-2018,La Liga,Girona,Sevilla,Home,0,1,L,Johan Mojica,Y,DM,90,0,0,1,0,0,1,2,0,5,1,0
+2017-09-20,2017-2018,La Liga,Girona,Leganés,Away,0,0,D,Johan Mojica,Y,DM,90,0,0,1,0,0,3,2,0,1,1,0
+2017-09-23,2017-2018,La Liga,Girona,Barcelona,Home,0,3,L,Johan Mojica,N,NA,22,0,0,1,0,0,0,0,1,2,2,1
+2017-09-29,2017-2018,La Liga,Girona,Celta Vigo,Away,3,3,D,Johan Mojica,Y,DM,90,0,1,0,0,0,6,1,0,3,3,4
+2017-10-15,2017-2018,La Liga,Girona,Villarreal,Home,1,2,L,Johan Mojica,N,NA,26,0,0,1,0,0,1,1,0,4,0,2
+2017-10-23,2017-2018,La Liga,Girona,Deportivo La Coruña,Away,2,1,W,Johan Mojica,N,NA,12,0,0,1,0,1,2,0,0,2,0,1
+2017-10-29,2017-2018,La Liga,Girona,Real Madrid,Home,2,1,W,Johan Mojica,N,NA,3,0,0,0,0,1,1,0,0,0,0,0
+2017-11-17,2017-2018,La Liga,Girona,Real Sociedad,Home,1,1,D,Johan Mojica,Y,DM,79,0,0,1,1,1,2,0,0,6,1,1
+2017-11-25,2017-2018,La Liga,Girona,Real Betis,Away,2,2,D,Johan Mojica,N,NA,25,0,0,1,0,0,2,0,0,4,0,0
+2017-12-04,2017-2018,La Liga,Girona,Alavés,Home,2,3,L,Johan Mojica,Y,DM,90,0,0,1,0,0,2,1,0,5,2,1
+2017-12-11,2017-2018,La Liga,Girona,Espanyol,Away,1,0,W,Johan Mojica,Y,DM,90,0,0,1,0,0,1,1,0,6,3,1
+2017-12-17,2017-2018,La Liga,Girona,Getafe,Home,1,0,W,Johan Mojica,Y,DM,90,0,1,2,0,0,2,4,0,1,3,1
+2017-12-21,2017-2018,La Liga,Girona,Eibar,Away,1,4,L,Johan Mojica,Y,DM,90,0,0,0,0,0,0,4,2,0,1,3
+2018-01-06,2017-2018,La Liga,Girona,Valencia,Away,1,2,L,Johan Mojica,Y,LM,73,0,1,2,1,1,1,3,0,4,0,2
+2018-01-13,2017-2018,La Liga,Girona,Las Palmas,Home,6,0,W,Johan Mojica,Y,DM,90,0,1,0,0,0,0,2,0,4,2,1
+2018-01-20,2017-2018,La Liga,Girona,Atlético Madrid,Away,1,1,D,Johan Mojica,Y,DM,90,0,0,0,0,0,0,2,0,3,1,0
+2018-01-27,2017-2018,La Liga,Girona,Málaga,Away,0,0,D,Johan Mojica,Y,DM,90,0,0,0,0,0,0,2,0,9,0,3
+2018-02-04,2017-2018,La Liga,Girona,Athletic Club,Home,2,0,W,Johan Mojica,Y,DM,90,0,0,0,0,0,0,2,0,1,0,1
+2018-02-11,2017-2018,La Liga,Girona,Sevilla,Away,0,1,L,Johan Mojica,Y,DM,77,0,0,2,0,0,1,1,0,6,0,1
+2018-02-16,2017-2018,La Liga,Girona,Leganés,Home,3,0,W,Johan Mojica,Y,LM,90,0,0,0,0,0,0,2,0,3,1,4
+2018-03-03,2017-2018,La Liga,Girona,Villarreal,Away,2,0,W,Johan Mojica,N,NA,66,0,0,1,0,0,3,0,0,5,1,1
+2018-03-09,2017-2018,La Liga,Girona,Deportivo La Coruña,Home,2,0,W,Johan Mojica,Y,DM,90,0,0,1,0,0,1,4,0,6,0,2
+2018-03-18,2017-2018,La Liga,Girona,Real Madrid,Away,3,6,L,Johan Mojica,Y,DM,90,0,0,1,0,1,2,3,0,5,1,1
+2018-04-08,2017-2018,La Liga,Girona,Real Sociedad,Away,0,5,L,Johan Mojica,Y,DM,90,0,0,1,0,1,3,0,0,11,2,0
+2018-04-13,2017-2018,La Liga,Girona,Real Betis,Home,0,1,L,Johan Mojica,Y,DM,85,0,0,0,0,0,0,4,0,10,0,0
+2018-04-22,2017-2018,La Liga,Girona,Espanyol,Home,0,2,L,Johan Mojica,Y,DM,90,0,0,2,0,0,3,1,0,12,0,0
+2018-04-29,2017-2018,La Liga,Girona,Getafe,Away,1,1,D,Johan Mojica,N,NA,23,0,0,1,0,0,0,1,0,3,0,0
+2018-05-05,2017-2018,La Liga,Girona,Eibar,Home,1,4,L,Johan Mojica,Y,DM,90,0,0,1,0,0,0,1,1,10,2,3
+2018-05-12,2017-2018,La Liga,Girona,Valencia,Home,0,1,L,Johan Mojica,Y,DM,90,0,0,0,0,0,0,1,0,12,1,0
+2019-05-12,2018-2019,La Liga,Girona,Levante,Home,1,2,L,Johan Mojica,N,NA,20,0,0,0,0,0,0,1,0,2,1,0
+2020-09-26,2020-2021,Serie A,Atalanta,Torino,Away,4,2,W,Johan Mojica,N,NA,6,0,0,0,0,0,0,1,0,1,0,0
+2020-09-30,2020-2021,Serie A,Atalanta,Lazio,Away,4,1,W,Johan Mojica,N,NA,1,0,0,0,0,0,0,0,0,0,1,0
+2020-10-04,2020-2021,Serie A,Atalanta,Cagliari,Home,5,2,W,Johan Mojica,N,NA,17,0,0,0,0,0,0,0,0,2,0,1
+2020-10-17,2020-2021,Serie A,Atalanta,Napoli,Away,1,4,L,Johan Mojica,N,NA,45,0,0,0,0,0,0,1,1,3,0,1
+2020-10-24,2020-2021,Serie A,Atalanta,Sampdoria,Home,1,3,L,Johan Mojica,Y,DM,45,0,0,0,0,1,0,1,0,5,0,2
+2020-10-31,2020-2021,Serie A,Atalanta,Crotone,Away,2,1,W,Johan Mojica,Y,LM,90,0,0,1,0,0,0,0,0,4,1,2
+2020-11-08,2020-2021,Serie A,Atalanta,Inter,Home,1,1,D,Johan Mojica,N,NA,1,0,0,0,0,0,0,0,0,0,0,0
+2020-11-28,2020-2021,Serie A,Atalanta,Hellas Verona,Home,0,2,L,Johan Mojica,Y,DM,76,0,0,2,0,0,0,1,0,3,0,0
+2020-12-13,2020-2021,Serie A,Atalanta,Fiorentina,Home,3,0,W,Johan Mojica,N,NA,10,0,0,1,0,0,0,0,0,0,2,1
+2020-12-20,2020-2021,Serie A,Atalanta,Roma,Home,4,1,W,Johan Mojica,N,NA,2,0,0,0,0,0,0,0,0,0,0,0
+2020-12-23,2020-2021,Serie A,Atalanta,Bologna,Away,2,2,D,Johan Mojica,N,NA,6,0,0,0,0,0,0,0,0,2,0,0
+2021-01-19,2020-2021,La Liga,Elche,Valladolid,Away,2,2,D,Johan Mojica,Y,LB,90,0,0,1,0,0,0,2,1,1,1,1
+2021-01-24,2020-2021,La Liga,Elche,Barcelona,Home,0,2,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,2,1,3,0,0
+2021-01-30,2020-2021,La Liga,Elche,Valencia,Away,0,1,L,Johan Mojica,Y,DM,90,0,0,3,1,0,0,0,3,4,0,2
+2021-02-06,2020-2021,La Liga,Elche,Villarreal,Home,2,2,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,1,9,0,3
+2021-02-12,2020-2021,La Liga,Elche,Celta Vigo,Away,1,3,L,Johan Mojica,Y,LB,30,0,0,0,0,0,0,0,0,1,1,0
+2021-02-20,2020-2021,La Liga,Elche,Eibar,Home,1,0,W,Johan Mojica,Y,LB,78,0,0,0,0,0,0,2,1,0,0,0
+2021-02-24,2020-2021,La Liga,Elche,Barcelona,Away,0,3,L,Johan Mojica,Y,DM,90,0,0,0,0,0,1,2,0,3,2,3
+2021-02-28,2020-2021,La Liga,Elche,Granada,Home,1,2,L,Johan Mojica,Y,LB,45,0,0,0,0,1,0,2,0,0,0,0
+2021-03-13,2020-2021,La Liga,Elche,Real Madrid,Away,1,2,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,0,4,1,1
+2021-03-17,2020-2021,La Liga,Elche,Sevilla,Away,0,2,L,Johan Mojica,N,NA,14,0,0,0,0,1,0,1,0,0,0,1
+2021-03-21,2020-2021,La Liga,Elche,Getafe,Away,1,1,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,0,3,2,1
+2021-04-04,2020-2021,La Liga,Elche,Real Betis,Home,1,1,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,0,8,1,0
+2021-04-09,2020-2021,La Liga,Elche,Huesca,Away,3,1,W,Johan Mojica,Y,LB,90,0,0,2,1,0,0,2,2,11,2,0
+2021-04-18,2020-2021,La Liga,Elche,Osasuna,Away,0,2,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,2,0,9,1,0
+2021-04-21,2020-2021,La Liga,Elche,Valladolid,Home,1,1,D,Johan Mojica,N,NA,31,0,0,0,0,0,0,0,0,0,0,0
+2021-04-24,2020-2021,La Liga,Elche,Levante,Home,1,0,W,Johan Mojica,Y,LB,90,0,0,1,0,1,0,1,1,2,0,1
+2021-05-22,2020-2021,La Liga,Elche,Athletic Club,Home,2,0,W,Johan Mojica,N,NA,16,0,0,0,0,0,0,0,0,3,0,0
+2021-08-16,2021-2022,La Liga,Elche,Athletic Club,Home,0,0,D,Johan Mojica,Y,LM,90,0,0,1,0,0,1,3,0,6,1,3
+2021-08-22,2021-2022,La Liga,Elche,Atlético Madrid,Away,0,1,L,Johan Mojica,Y,LB,81,0,0,0,0,0,1,3,0,2,2,1
+2021-08-28,2021-2022,La Liga,Elche,Sevilla,Home,1,1,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,3,0,4,0,2
+2021-09-13,2021-2022,La Liga,Elche,Getafe,Away,1,0,W,Johan Mojica,Y,LM,90,0,1,1,1,0,1,2,0,5,0,0
+2021-09-18,2021-2022,La Liga,Elche,Levante,Home,1,1,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,0,7,0,1
+2021-09-22,2021-2022,La Liga,Elche,Villarreal,Away,1,4,L,Johan Mojica,Y,LM,90,1,0,2,1,0,0,2,0,10,0,1
+2021-09-26,2021-2022,La Liga,Elche,Real Sociedad,Away,0,1,L,Johan Mojica,Y,LB,90,0,0,0,0,1,0,2,0,6,1,0
+2021-10-03,2021-2022,La Liga,Elche,Celta Vigo,Home,1,0,W,Johan Mojica,Y,LM,90,0,0,0,0,0,1,2,1,0,4,1
+2021-10-17,2021-2022,La Liga,Elche,Rayo Vallecano,Away,1,2,L,Johan Mojica,N,NA,13,0,0,0,0,0,1,0,0,0,0,0
+2021-10-23,2021-2022,La Liga,Elche,Espanyol,Home,2,2,D,Johan Mojica,Y,LB,90,0,0,1,0,0,0,1,1,6,1,0
+2021-10-26,2021-2022,La Liga,Elche,Alavés,Away,0,1,L,Johan Mojica,Y,LB,90,0,0,0,0,0,2,1,0,4,1,1
+2021-10-30,2021-2022,La Liga,Elche,Real Madrid,Home,1,2,L,Johan Mojica,Y,LB,90,0,0,1,0,0,0,0,0,10,0,0
+2021-11-07,2021-2022,La Liga,Elche,Mallorca,Away,2,2,D,Johan Mojica,Y,LB,90,0,1,0,0,0,0,2,1,4,2,0
+2021-11-21,2021-2022,La Liga,Elche,Real Betis,Home,0,3,L,Johan Mojica,Y,LM,90,0,0,0,0,0,0,1,0,10,0,0
+2021-11-29,2021-2022,La Liga,Elche,Osasuna,Away,1,1,D,Johan Mojica,Y,LB,90,0,0,2,0,0,1,2,0,4,0,0
+2021-12-05,2021-2022,La Liga,Elche,Cádiz,Home,3,1,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,1,1,2,0
+2021-12-18,2021-2022,La Liga,Elche,Barcelona,Away,2,3,L,Johan Mojica,Y,LB,82,0,0,0,0,0,1,0,1,3,0,0
+2022-01-02,2021-2022,La Liga,Elche,Granada,Home,0,0,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,1,10,0,1
+2022-01-10,2021-2022,La Liga,Elche,Espanyol,Away,2,1,W,Johan Mojica,Y,LB,90,0,1,0,0,1,0,2,2,4,1,0
+2022-01-16,2021-2022,La Liga,Elche,Villarreal,Home,1,0,W,Johan Mojica,Y,LB,90,0,0,0,0,1,0,2,4,1,0,0
+2022-01-23,2021-2022,La Liga,Elche,Real Madrid,Away,2,2,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,2,0,2,0,1
+2022-02-05,2021-2022,La Liga,Elche,Alavés,Home,3,1,W,Johan Mojica,Y,LB,90,0,1,0,0,0,0,0,2,10,0,0
+2022-02-11,2021-2022,La Liga,Elche,Sevilla,Away,0,2,L,Johan Mojica,Y,LB,90,0,0,0,0,0,1,1,1,2,3,2
+2022-02-18,2021-2022,La Liga,Elche,Rayo Vallecano,Home,2,1,W,Johan Mojica,Y,LB,90,0,0,1,0,0,0,2,0,3,1,0
+2022-02-25,2021-2022,La Liga,Elche,Levante,Away,0,3,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,2,8,0,1
+2022-03-06,2021-2022,La Liga,Elche,Barcelona,Home,1,2,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,2,5,2,2
+2022-03-12,2021-2022,La Liga,Elche,Granada,Away,1,0,W,Johan Mojica,Y,LB,90,0,0,1,0,1,0,2,4,2,0,0
+2022-03-19,2021-2022,La Liga,Elche,Valencia,Home,0,1,L,Johan Mojica,Y,LB,89,0,0,0,0,0,1,2,1,4,1,0
+2022-04-10,2021-2022,La Liga,Elche,Real Sociedad,Home,1,2,L,Johan Mojica,Y,LB,90,0,1,0,2,0,0,0,0,9,2,2
+2022-04-16,2021-2022,La Liga,Elche,Mallorca,Home,3,0,W,Johan Mojica,Y,LB,90,1,0,1,1,0,0,2,2,3,0,2
+2022-04-19,2021-2022,La Liga,Elche,Real Betis,Away,1,0,W,Johan Mojica,Y,LB,70,0,0,1,0,0,0,1,1,3,0,4
+2022-05-01,2021-2022,La Liga,Elche,Osasuna,Home,1,1,D,Johan Mojica,Y,LB,90,0,0,2,0,0,0,0,1,7,2,0
+2022-05-11,2021-2022,La Liga,Elche,Atlético Madrid,Home,0,2,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,3,2,3,2,0
+2022-08-15,2022-2023,La Liga,Elche,Real Betis,Away,0,3,L,Johan Mojica,Y,LM,90,0,0,1,0,1,0,2,0,2,2,2
+2022-08-22,2022-2023,La Liga,Elche,Almería,Home,1,1,D,Johan Mojica,Y,LB,90,0,0,1,0,0,0,0,1,8,0,1
+2022-08-27,2022-2023,La Liga,Elche,Real Sociedad,Home,0,1,L,Johan Mojica,Y,LB,90,0,0,1,0,1,0,2,2,3,0,1
+2022-09-11,2022-2023,La Liga,Villarreal,Real Betis,Away,0,1,L,Johan Mojica,N,NA,20,0,0,0,0,0,0,0,0,4,0,0
+2022-09-18,2022-2023,La Liga,Villarreal,Sevilla,Home,1,1,D,Johan Mojica,N,NA,9,0,0,0,0,0,0,0,0,1,0,1
+2022-10-20,2022-2023,La Liga,Villarreal,Barcelona,Away,0,3,L,Johan Mojica,N,NA,66,0,0,0,0,0,0,0,2,2,0,0
+2022-10-23,2022-2023,La Liga,Villarreal,Almería,Home,2,1,W,Johan Mojica,Y,LB,90,0,0,1,1,0,0,0,0,9,1,1
+2022-11-06,2022-2023,La Liga,Villarreal,Mallorca,Home,0,2,L,Johan Mojica,N,NA,1,0,0,0,0,0,0,0,0,0,0,0
+2023-01-13,2022-2023,La Liga,Villarreal,Celta Vigo,Away,1,1,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,2,5,0,0
+2023-01-22,2022-2023,La Liga,Villarreal,Girona,Home,1,0,W,Johan Mojica,Y,LB,85,0,0,0,0,0,1,2,0,3,3,0
+2023-01-30,2022-2023,La Liga,Villarreal,Rayo Vallecano,Home,0,1,L,Johan Mojica,N,NA,6,0,0,0,0,0,0,1,0,0,0,0
+2023-02-04,2022-2023,La Liga,Villarreal,Elche,Away,1,3,L,Johan Mojica,Y,LB,90,0,0,0,0,0,1,1,4,7,5,0
+2023-02-12,2022-2023,La Liga,Villarreal,Barcelona,Home,0,1,L,Johan Mojica,N,NA,8,0,0,0,0,0,0,0,0,5,0,0
+2023-02-18,2022-2023,La Liga,Villarreal,Mallorca,Away,2,4,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,2,3,0,1
+2023-02-27,2022-2023,La Liga,Villarreal,Getafe,Home,2,1,W,Johan Mojica,N,NA,11,0,0,0,0,0,0,0,0,0,1,0
+2023-03-04,2022-2023,La Liga,Villarreal,Almería,Away,2,0,W,Johan Mojica,N,NA,2,0,0,0,0,0,0,0,0,0,0,0
+2023-03-19,2022-2023,La Liga,Villarreal,Osasuna,Away,3,0,W,Johan Mojica,N,NA,45,0,0,0,0,0,0,0,0,1,0,1
+2023-04-08,2022-2023,La Liga,Villarreal,Real Madrid,Away,3,2,W,Johan Mojica,N,NA,1,0,0,0,0,0,0,0,0,0,0,0
+2023-05-24,2022-2023,La Liga,Villarreal,Cádiz,Home,2,0,W,Johan Mojica,N,NA,22,0,0,0,0,0,0,0,2,0,0,0
+2023-06-04,2022-2023,La Liga,Villarreal,Atlético Madrid,Home,2,2,D,Johan Mojica,N,NA,6,0,0,1,0,0,0,0,0,0,0,0
+2023-08-13,2023-2024,La Liga,Osasuna,Celta Vigo,Away,2,0,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,2,0,2,3,3
+2023-08-19,2023-2024,La Liga,Osasuna,Athletic Club,Home,0,2,L,Johan Mojica,Y,LB,90,0,0,2,0,0,0,1,1,17,0,3
+2023-08-27,2023-2024,La Liga,Osasuna,Valencia,Away,2,1,W,Johan Mojica,N,—,24,0,0,0,0,0,0,0,0,1,0,1
+2023-09-23,2023-2024,La Liga,Osasuna,Sevilla,Away,0,0,D,Johan Mojica,Y,FW,67,0,0,2,0,0,0,0,0,7,0,0
+2023-09-28,2023-2024,La Liga,Osasuna,Atlético Madrid,Home,0,2,L,Johan Mojica,Y,FW,77,0,0,2,0,0,0,1,0,6,1,1
+2023-10-01,2023-2024,La Liga,Osasuna,Alavés,Away,2,0,W,Johan Mojica,N,—,5,0,0,0,0,0,0,0,0,0,0,0
+2023-10-29,2023-2024,La Liga,Osasuna,Real Betis,Away,1,2,L,Johan Mojica,N,—,45,0,0,0,0,0,0,1,0,1,1,2
+2023-11-04,2023-2024,La Liga,Osasuna,Girona,Home,2,4,L,Johan Mojica,Y,LB,90,0,1,1,0,0,0,1,0,4,2,1
+2023-11-11,2023-2024,La Liga,Osasuna,Las Palmas,Home,1,1,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,1,8,2,1
+2023-11-26,2023-2024,La Liga,Osasuna,Villarreal,Away,1,3,L,Johan Mojica,Y,LB,90,0,0,1,1,0,0,0,2,4,2,3
+2023-12-02,2023-2024,La Liga,Osasuna,Real Sociedad,Home,1,1,D,Johan Mojica,Y,LB,54,0,0,0,0,0,0,2,0,1,0,1
+2024-01-21,2023-2024,La Liga,Osasuna,Getafe,Home,3,2,W,Johan Mojica,Y,LM,90,0,0,2,0,0,0,2,1,5,2,0
+2024-01-28,2023-2024,La Liga,Osasuna,Sevilla,Away,1,1,D,Johan Mojica,Y,LM,90,0,0,1,0,0,0,3,3,8,0,0
+2024-01-31,2023-2024,La Liga,Osasuna,Barcelona,Away,0,1,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,0,3,1,1
+2024-02-04,2023-2024,La Liga,Osasuna,Celta Vigo,Home,0,3,L,Johan Mojica,N,—,29,0,0,0,0,0,0,0,0,4,0,1
+2024-02-10,2023-2024,La Liga,Osasuna,Real Sociedad,Away,1,0,W,Johan Mojica,Y,LB,72,0,0,1,0,0,0,1,0,3,0,1
+2024-02-17,2023-2024,La Liga,Osasuna,Cádiz,Home,2,0,W,Johan Mojica,Y,LB,66,0,0,0,0,1,0,1,0,4,1,1
+2024-02-25,2023-2024,La Liga,Osasuna,Las Palmas,Away,1,1,D,Johan Mojica,Y,LM,90,0,1,0,0,0,0,0,0,5,2,0
+2024-03-04,2023-2024,La Liga,Osasuna,Alavés,Home,1,0,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,2,1,2,0
+2024-03-09,2023-2024,La Liga,Osasuna,Girona,Away,0,2,L,Johan Mojica,Y,LM,90,0,0,1,0,0,0,1,1,8,1,0
+2024-03-16,2023-24,La Liga,Osasuna,Real Madrid,Home,2,4,L,Johan Mojica,Y,LM,90,0,0,0,0,0,0,1,1,4,0,0
+2024-03-30,2023-24,La Liga,Osasuna,Almería,Away,3,0,W,Johan Mojica,N,—,14,0,0,0,0,0,0,0,1,0,0,0
+2024-04-15,2023-24,La Liga,Osasuna,Valencia,Home,0,1,L,Johan Mojica,N,—,33,0,0,0,0,0,0,2,1,4,1,0
+2024-04-20,2023-24,La Liga,Osasuna,Rayo Vallecano,Away,1,2,L,Johan Mojica,N,—,9,0,0,0,0,0,0,0,0,0,0,0
+2024-04-28,2023-24,La Liga,Osasuna,Granada,Home,0,3,L,Johan Mojica,Y,LB,81,0,0,0,0,0,0,0,1,3,0,0
+2024-05-05,2023-24,La Liga,Osasuna,Real Betis,Home,0,2,L,Johan Mojica,Y,LB,90,0,0,1,0,0,0,0,1,6,0,0
+2024-05-11,2023-24,La Liga,Osasuna,Athletic Club,Away,2,2,D,Johan Mojica,Y,LB,90,0,1,2,0,0,0,0,0,3,1,2
+2024-05-14,2023-24,La Liga,Osasuna,Mallorca,Home,1,1,D,Johan Mojica,N,—,25,0,0,0,0,0,0,0,1,1,0,1
+2024-05-19,2023-24,La Liga,Osasuna,Atlético Madrid,Away,4,1,W,Johan Mojica,Y,LB,90,0,0,1,0,0,0,0,1,1,0,0
+2024-05-25,2023-24,La Liga,Osasuna,Villarreal,Home,1,1,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,1,1,0,0
+2024-08-18,2024-25,La Liga,Mallorca,Real Madrid,Home,1,1,D,Johan Mojica,Y,LB,90,0,0,1,0,0,0,0,2,5,1,2
+2024-08-24,2024-25,La Liga,Mallorca,Osasuna,Away,0,1,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,0,9,0,1
+2024-08-27,2024-25,La Liga,Mallorca,Sevilla,Home,0,0,D,Johan Mojica,Y,LB,90,0,0,1,0,0,0,2,0,4,0,1
+2024-08-31,2024-25,La Liga,Mallorca,Leganés,Away,1,0,W,Johan Mojica,N,—,19,0,0,0,0,0,0,0,0,1,0,0
+2024-09-14,2024-25,La Liga,Mallorca,Villarreal,Home,1,2,L,Johan Mojica,N,—,19,0,0,0,0,0,0,0,1,2,0,0
+2024-09-17,2024-25,La Liga,Mallorca,Real Sociedad,Home,1,0,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,0,4,3,2
+2024-09-23,2024-25,La Liga,Mallorca,Real Betis,Away,2,1,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,1,3,0,1
+2024-09-27,2024-25,La Liga,Mallorca,Valladolid,Away,2,1,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,0,7,2,1
+2024-10-05,2024-25,La Liga,Mallorca,Espanyol,Away,1,2,L,Johan Mojica,Y,LB,60,0,0,1,0,1,0,2,0,2,0,1
+2024-10-20,2024-25,La Liga,Mallorca,Rayo Vallecano,Home,1,0,W,Johan Mojica,Y,LB,90,0,0,1,0,0,0,1,2,6,0,0
+2024-10-28,2024-25,La Liga,Mallorca,Athletic Club,Home,0,0,D,Johan Mojica,Y,LB,90,0,0,0,0,1,0,0,1,2,2,2
+2024-11-10,2024-25,La Liga,Mallorca,Atlético Madrid,Home,0,1,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,0,5,1,1
+2024-11-23,2024-25,La Liga,Mallorca,Las Palmas,Away,3,2,W,Johan Mojica,Y,LB,90,1,1,1,1,0,0,1,0,5,2,0
+2024-11-29,2024-25,La Liga,Mallorca,Valencia,Home,2,1,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,1,0,0,1,3
+2024-12-03,2024-25,La Liga,Mallorca,Barcelona,Home,1,5,L,Johan Mojica,Y,LB,90,0,0,0,0,1,0,1,2,5,1,0
+2024-12-06,2024-25,La Liga,Mallorca,Celta Vigo,Away,0,2,L,Johan Mojica,N,—,33,0,0,0,0,0,0,0,0,2,0,3
+2024-12-14,2024-25,La Liga,Mallorca,Girona,Home,2,1,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,2,0,4,0,2
+2024-12-21,2024-25,La Liga,Mallorca,Getafe,Away,1,0,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,1,1,0,0
+2025-01-20,2024-25,La Liga,Mallorca,Villarreal,Home,0,4,L,Johan Mojica,Y,LB,90,0,0,2,1,1,0,1,0,5,1,0
+2025-01-25,2024-25,La Liga,Mallorca,Real Betis,Home,0,1,L,Johan Mojica,Y,LB,90,0,0,3,0,0,0,0,0,4,1,1
+2025-02-01,2024-25,La Liga,Mallorca,Atlético Madrid,Away,0,2,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,1,8,1,1
+2025-02-10,2024-25,La Liga,Mallorca,Osasuna,Home,1,1,D,Johan Mojica,Y,LB,90,0,0,1,0,0,0,0,1,1,0,4
+2025-02-16,2024-25,La Liga,Mallorca,Las Palmas,Home,3,1,W,Johan Mojica,Y,LB,90,0,1,0,0,0,0,0,1,8,1,0
+2025-02-24,2024-25,La Liga,Mallorca,Sevilla,Away,1,1,D,Johan Mojica,Y,LB,90,0,0,2,0,1,0,1,2,7,1,1
+2025-03-09,2024-25,La Liga,Mallorca,Athletic Club,Away,1,1,D,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,0,3,0,0
+2025-03-15,2024-25,La Liga,Mallorca,Espanyol,Home,2,1,W,Johan Mojica,Y,LB,90,0,0,2,1,0,0,0,2,4,1,0
+2025-03-30,2024-25,La Liga,Mallorca,Valencia,Away,0,1,L,Johan Mojica,N,—,11,0,0,0,0,0,0,0,0,2,0,0
+2025-04-05,2024-25,La Liga,Mallorca,Celta Vigo,Home,1,2,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,1,1,1,1
+2025-04-12,2024-25,La Liga,Mallorca,Real Sociedad,Away,2,0,W,Johan Mojica,Y,LB,83,0,0,0,0,0,0,0,1,4,3,0
+2025-04-19,2024-25,La Liga,Mallorca,Leganés,Home,0,0,D,Johan Mojica,Y,LB,84,0,0,0,0,0,0,0,1,4,0,0
+2025-04-22,2024-25,La Liga,Mallorca,Barcelona,Away,0,1,L,Johan Mojica,Y,LB,80,0,0,0,0,0,0,0,0,1,0,0
+2025-05-05,2024-25,La Liga,Mallorca,Girona,Away,0,1,L,Johan Mojica,Y,LB,90,0,0,1,0,0,0,0,1,9,0,0
+2025-05-10,2024-25,La Liga,Mallorca,Valladolid,Home,2,1,W,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,1,6,0,0
+2025-05-14,2024-25,La Liga,Mallorca,Real Madrid,Away,1,2,L,Johan Mojica,N,—,14,0,0,0,0,0,0,0,0,1,0,0
+2025-05-18,2024-25,La Liga,Mallorca,Getafe,Home,1,2,L,Johan Mojica,Y,LB,90,0,0,0,0,0,0,0,1,7,0,1
+2025-05-24,2024-25,La Liga,Mallorca,Rayo Vallecano,Away,0,0,D,Johan Mojica,N,—,12,0,0,1,0,0,0,0,0,1,0,0

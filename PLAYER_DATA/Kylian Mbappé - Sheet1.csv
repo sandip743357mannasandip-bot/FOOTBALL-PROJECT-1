@@ -1,0 +1,281 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2015-12-02,2015-2016,Ligue 1,Monaco,Caen,Home,1,1,D,Kylian Mbappé,N,NA,3,0,0,0,0,0,0,0,0,0,0,0
+2015-12-13,2015-2016,Ligue 1,Monaco,Saint-Étienne,Home,1,0,W,Kylian Mbappé,N,NA,21,0,0,0,0,0,0,0,0,1,1,1
+2016-01-24,2015-2016,Ligue 1,Monaco,Toulouse,Home,4,0,W,Kylian Mbappé,N,NA,6,0,0,0,0,0,0,0,0,1,0,0
+2016-02-14,2015-2016,Ligue 1,Monaco,Saint-Étienne,Away,1,1,D,Kylian Mbappé,N,NA,13,0,0,0,0,0,0,0,0,2,1,0
+2016-02-20,2015-2016,Ligue 1,Monaco,Troyes,Home,3,1,W,Kylian Mbappé,N,NA,18,1,0,1,1,0,0,0,0,0,0,0
+2016-02-28,2015-2016,Ligue 1,Monaco,Nantes,Away,0,0,D,Kylian Mbappé,Y,RM,88,1,0,2,0,1,0,2,2,1,1,1
+2016-03-04,2015-2016,Ligue 1,Monaco,Caen,Away,2,2,D,Kylian Mbappé,N,NA,3,0,0,0,0,0,0,0,1,0,0,1
+2016-03-11,2015-2016,Ligue 1,Monaco,Reims,Home,2,2,D,Kylian Mbappé,N,NA,5,0,0,0,0,0,0,1,0,0,0,0
+2016-03-20,2015-2016,Ligue 1,Monaco,Paris Saint-Germain,Away,2,0,W,Kylian Mbappé,Y,FW,80,0,0,1,0,0,0,0,1,4,0,1
+2016-04-01,2015-2016,Ligue 1,Monaco,Bordeaux,Home,1,2,L,Kylian Mbappé,N,NA,26,0,1,1,1,0,0,1,0,2,1,0
+2016-04-10,2015-2016,Ligue 1,Monaco,Lille,Away,1,4,L,Kylian Mbappé,N,NA,32,0,1,0,0,0,0,1,0,1,1,0
+2016-08-12,2016-2017,Ligue 1,Monaco,Guingamp,Home,2,2,D,Kylian Mbappé,Y,FW,40,0,0,0,0,0,0,0,2,1,0,1
+2016-10-01,2016-2017,Ligue 1,Monaco,Metz,Away,7,0,W,Kylian Mbappé,N,NA,9,0,1,0,0,0,0,1,0,0,0,0
+2016-10-21,2016-2017,Ligue 1,Monaco,Montpellier,Home,6,2,W,Kylian Mbappé,Y,AM,90,1,1,3,1,0,0,0,1,3,4,0
+2016-10-29,2016-2017,Ligue 1,Monaco,Saint-Étienne,Away,1,1,D,Kylian Mbappé,Y,AM,84,0,0,3,2,0,0,1,0,2,1,0
+2016-11-05,2016-2017,Ligue 1,Monaco,Nancy,Home,6,0,W,Kylian Mbappé,N,NA,27,1,1,2,1,0,0,0,0,0,1,0
+2016-11-18,2016-2017,Ligue 1,Monaco,Lorient,Away,3,0,W,Kylian Mbappé,Y,FW,62,0,0,1,1,0,0,0,3,1,0,0
+2016-11-29,2016-2017,Ligue 1,Monaco,Dijon,Away,1,1,D,Kylian Mbappé,N,NA,8,0,0,0,0,0,0,0,0,0,0,1
+2016-12-03,2016-2017,Ligue 1,Monaco,Bastia,Home,5,0,W,Kylian Mbappé,Y,FW,78,1,1,1,1,1,0,3,1,1,1,0
+2016-12-10,2016-2017,Ligue 1,Monaco,Bordeaux,Away,4,0,W,Kylian Mbappé,N,NA,9,0,0,1,0,0,0,0,0,1,0,0
+2016-12-18,2016-2017,Ligue 1,Monaco,Lyon,Home,1,3,L,Kylian Mbappé,N,NA,14,0,0,0,0,0,0,0,1,0,3,0
+2016-12-21,2016-2017,Ligue 1,Monaco,Caen,Home,2,1,W,Kylian Mbappé,Y,FW,79,0,1,3,1,1,0,1,1,0,1,0
+2017-01-15,2016-2017,Ligue 1,Monaco,Marseille,Away,4,1,W,Kylian Mbappé,N,NA,1,0,0,0,0,0,0,0,0,0,0,0
+2017-01-22,2016-2017,Ligue 1,Monaco,Lorient,Home,4,0,W,Kylian Mbappé,N,NA,17,0,0,0,0,0,0,0,0,0,0,0
+2017-01-29,2016-2017,Ligue 1,Monaco,Paris Saint-Germain,Away,1,1,D,Kylian Mbappé,N,NA,2,0,0,1,1,0,0,0,0,0,0,0
+2017-02-04,2016-2017,Ligue 1,Monaco,Nice,Home,3,0,W,Kylian Mbappé,N,NA,1,0,0,0,0,0,0,0,0,0,0,0
+2017-02-07,2016-2017,Ligue 1,Monaco,Montpellier,Away,2,1,W,Kylian Mbappé,Y,FW,90,1,0,4,3,0,0,0,2,2,1,1
+2017-02-11,2016-2017,Ligue 1,Monaco,Metz,Home,5,0,W,Kylian Mbappé,Y,FW,90,3,0,5,5,0,0,0,1,2,1,0
+2017-02-17,2016-2017,Ligue 1,Monaco,Bastia,Away,1,1,D,Kylian Mbappé,N,NA,20,0,0,2,1,0,0,0,0,0,1,0
+2017-02-25,2016-2017,Ligue 1,Monaco,Guingamp,Away,2,1,W,Kylian Mbappé,N,NA,17,0,0,2,0,0,0,1,1,1,1,0
+2017-03-05,2016-2017,Ligue 1,Monaco,Nantes,Home,4,0,W,Kylian Mbappé,Y,FW,67,2,0,3,3,0,0,0,2,0,1,1
+2017-03-11,2016-2017,Ligue 1,Monaco,Bordeaux,Home,2,1,W,Kylian Mbappé,Y,FW,90,1,0,3,2,0,0,0,1,1,2,0
+2017-03-19,2016-2017,Ligue 1,Monaco,Caen,Away,3,0,W,Kylian Mbappé,Y,FW,87,2,0,3,2,0,0,0,2,1,0,0
+2017-04-15,2016-2017,Ligue 1,Monaco,Dijon,Home,2,1,W,Kylian Mbappé,Y,FW,83,0,0,2,1,0,0,1,2,0,1,0
+2017-04-23,2016-2017,Ligue 1,Monaco,Lyon,Away,2,1,W,Kylian Mbappé,Y,FW,79,1,0,3,3,0,0,0,0,1,5,0
+2017-04-29,2016-2017,Ligue 1,Monaco,Toulouse,Home,3,1,W,Kylian Mbappé,Y,FW,85,1,0,4,3,0,0,0,0,3,2,1
+2017-05-06,2016-2017,Ligue 1,Monaco,Nancy,Away,3,0,W,Kylian Mbappé,N,NA,9,0,1,2,1,0,0,0,0,0,0,0
+2017-05-14,2016-2017,Ligue 1,Monaco,Lille,Home,4,0,W,Kylian Mbappé,Y,FW,82,0,2,0,0,0,0,0,1,4,1,2
+2017-05-17,2016-2017,Ligue 1,Monaco,Saint-Étienne,Home,2,0,W,Kylian Mbappé,Y,FW,89,1,0,2,2,0,0,0,0,0,1,0
+2017-05-20,2016-2017,Ligue 1,Monaco,Rennes,Away,3,2,W,Kylian Mbappé,Y,FW,90,0,0,2,1,0,0,1,1,1,0,1
+2017-08-04,2017-2018,Ligue 1,Monaco,Toulouse,Home,3,2,W,Kylian Mbappé,Y,FW,74,0,0,3,2,0,0,0,1,2,2,1
+2017-09-08,2017-2018,Ligue 1,Paris Saint-Germain,Metz,Away,5,1,W,Kylian Mbappé,Y,AM,90,1,1,4,2,0,0,1,1,1,0,0
+2017-09-17,2017-2018,Ligue 1,Paris Saint-Germain,Lyon,Home,2,0,W,Kylian Mbappé,Y,AM,90,0,0,2,2,0,0,0,2,0,2,1
+2017-09-23,2017-2018,Ligue 1,Paris Saint-Germain,Montpellier,Away,0,0,D,Kylian Mbappé,Y,FW,90,0,0,5,1,0,0,0,1,1,8,1
+2017-09-30,2017-2018,Ligue 1,Paris Saint-Germain,Bordeaux,Home,6,2,W,Kylian Mbappé,Y,AM,90,1,1,2,2,0,0,0,0,2,0,0
+2017-10-14,2017-2018,Ligue 1,Paris Saint-Germain,Dijon,Away,2,1,W,Kylian Mbappé,Y,FW,90,0,1,5,3,0,0,0,2,1,3,0
+2017-10-22,2017-2018,Ligue 1,Paris Saint-Germain,Marseille,Away,2,2,D,Kylian Mbappé,Y,FW,79,0,0,0,0,1,0,3,0,1,0,0
+2017-10-27,2017-2018,Ligue 1,Paris Saint-Germain,Nice,Home,3,0,W,Kylian Mbappé,Y,FW,79,0,0,3,0,0,0,0,0,0,2,0
+2017-11-04,2017-2018,Ligue 1,Paris Saint-Germain,Angers,Away,5,0,W,Kylian Mbappé,Y,FW,90,2,1,5,3,1,0,1,1,0,5,2
+2017-11-26,2017-2018,Ligue 1,Paris Saint-Germain,Monaco,Away,2,1,W,Kylian Mbappé,Y,FW,90,0,0,4,1,0,0,0,3,3,1,0
+2017-11-29,2017-2018,Ligue 1,Paris Saint-Germain,Troyes,Home,2,0,W,Kylian Mbappé,N,NA,21,0,0,0,0,0,0,0,0,1,0,0
+2017-12-02,2017-2018,Ligue 1,Paris Saint-Germain,Strasbourg,Away,1,2,L,Kylian Mbappé,Y,FW,90,1,0,6,1,0,0,0,4,0,3,0
+2017-12-09,2017-2018,Ligue 1,Paris Saint-Germain,Lille,Home,3,1,W,Kylian Mbappé,Y,FW,90,1,1,4,2,0,0,0,0,2,3,1
+2017-12-16,2017-2018,Ligue 1,Paris Saint-Germain,Rennes,Away,4,1,W,Kylian Mbappé,Y,FW,90,1,2,4,3,0,0,0,0,1,3,0
+2017-12-20,2017-2018,Ligue 1,Paris Saint-Germain,Caen,Home,3,1,W,Kylian Mbappé,Y,FW,90,1,1,3,1,0,0,0,2,1,1,1
+2018-01-14,2017-2018,Ligue 1,Paris Saint-Germain,Nantes,Away,1,0,W,Kylian Mbappé,Y,FW,90,0,0,1,1,0,0,0,2,0,0,0
+2018-01-17,2017-2018,Ligue 1,Paris Saint-Germain,Dijon,Home,8,0,W,Kylian Mbappé,N,NA,23,1,0,1,1,0,0,0,1,0,0,0
+2018-01-21,2017-2018,Ligue 1,Paris Saint-Germain,Lyon,Away,1,2,L,Kylian Mbappé,Y,FW,35,0,0,0,0,0,0,0,1,0,0,1
+2018-02-10,2017-2018,Ligue 1,Paris Saint-Germain,Toulouse,Away,1,0,W,Kylian Mbappé,Y,FW,90,0,0,1,1,0,0,0,1,3,0,0
+2018-02-25,2017-2018,Ligue 1,Paris Saint-Germain,Marseille,Home,3,0,W,Kylian Mbappé,Y,FW,60,1,0,1,1,0,0,0,2,1,1,0
+2018-03-10,2017-2018,Ligue 1,Paris Saint-Germain,Metz,Home,5,0,W,Kylian Mbappé,Y,FW,90,1,0,6,3,0,0,1,3,4,0,0
+2018-03-14,2017-2018,Ligue 1,Paris Saint-Germain,Angers,Home,2,1,W,Kylian Mbappé,Y,FW,90,2,0,6,3,0,0,0,4,1,1,0
+2018-03-18,2017-2018,Ligue 1,Paris Saint-Germain,Nice,Away,2,1,W,Kylian Mbappé,Y,FW,90,0,0,5,1,0,0,0,1,2,0,0
+2018-04-06,2017-2018,Ligue 1,Paris Saint-Germain,Saint-Étienne,Away,1,1,D,Kylian Mbappé,Y,FW,90,0,0,3,1,0,0,1,1,0,1,1
+2018-04-22,2017-2018,Ligue 1,Paris Saint-Germain,Bordeaux,Away,1,0,W,Kylian Mbappé,Y,AM,80,0,0,1,0,0,0,1,1,0,2,0
+2018-04-29,2017-2018,Ligue 1,Paris Saint-Germain,Guingamp,Home,2,2,D,Kylian Mbappé,Y,FW,90,0,0,1,0,0,0,0,2,2,3,0
+2018-05-04,2017-2018,Ligue 1,Paris Saint-Germain,Amiens,Away,2,2,D,Kylian Mbappé,N,NA,7,0,0,1,0,0,0,0,0,0,2,0
+2018-05-12,2017-2018,Ligue 1,Paris Saint-Germain,Rennes,Home,0,2,L,Kylian Mbappé,Y,FW,90,0,0,3,0,0,0,1,1,0,0,0
+2018-08-18,2018-2019,Ligue 1,Paris Saint-Germain,Guingamp,Away,3,1,W,Kylian Mbappé,N,NA,45,2,0,3,2,0,0,0,1,0,2,0
+2018-08-25,2018-2019,Ligue 1,Paris Saint-Germain,Angers,Home,3,1,W,Kylian Mbappé,Y,FW,90,1,1,4,3,0,0,1,0,2,2,0
+2018-09-01,2018-2019,Ligue 1,Paris Saint-Germain,Nîmes,Away,4,2,W,Kylian Mbappé,Y,AM,89,1,1,4,2,1,0,1,2,2,1,1
+2018-09-29,2018-2019,Ligue 1,Paris Saint-Germain,Nice,Away,3,0,W,Kylian Mbappé,Y,FW,90,0,1,5,1,1,0,1,2,4,1,0
+2018-10-07,2018-2019,Ligue 1,Paris Saint-Germain,Lyon,Home,5,0,W,Kylian Mbappé,Y,AM,90,4,0,9,6,0,0,2,3,2,0,1
+2018-10-20,2018-2019,Ligue 1,Paris Saint-Germain,Amiens,Home,5,0,W,Kylian Mbappé,Y,FW,90,1,0,2,1,0,0,0,2,1,1,0
+2018-10-28,2018-2019,Ligue 1,Paris Saint-Germain,Marseille,Away,2,0,W,Kylian Mbappé,N,NA,29,1,0,3,2,0,0,2,2,0,1,0
+2018-11-02,2018-2019,Ligue 1,Paris Saint-Germain,Lille,Home,2,1,W,Kylian Mbappé,Y,FW,90,1,1,7,2,0,0,0,0,0,0,0
+2018-11-11,2018-2019,Ligue 1,Paris Saint-Germain,Monaco,Away,4,0,W,Kylian Mbappé,Y,AM,90,0,0,2,1,0,0,2,4,2,0,1
+2018-12-02,2018-2019,Ligue 1,Paris Saint-Germain,Bordeaux,Away,2,2,D,Kylian Mbappé,Y,FW,90,1,0,1,1,0,0,2,1,0,0,0
+2018-12-05,2018-2019,Ligue 1,Paris Saint-Germain,Strasbourg,Away,1,1,D,Kylian Mbappé,N,NA,45,0,0,3,0,0,0,0,3,1,1,0
+2018-12-22,2018-2019,Ligue 1,Paris Saint-Germain,Nantes,Home,1,0,W,Kylian Mbappé,Y,FW,90,1,0,4,2,0,0,0,2,0,1,1
+2019-01-12,2018-2019,Ligue 1,Paris Saint-Germain,Amiens,Away,3,0,W,Kylian Mbappé,Y,FW,79,1,0,3,2,0,0,1,2,2,1,0
+2019-01-19,2018-2019,Ligue 1,Paris Saint-Germain,Guingamp,Home,9,0,W,Kylian Mbappé,Y,FW,90,3,1,4,4,0,0,0,1,0,0,0
+2019-01-27,2018-2019,Ligue 1,Paris Saint-Germain,Rennes,Home,4,1,W,Kylian Mbappé,Y,FW,90,1,1,6,3,0,0,0,2,0,0,0
+2019-02-03,2018-2019,Ligue 1,Paris Saint-Germain,Lyon,Away,1,2,L,Kylian Mbappé,Y,FW,90,0,0,5,5,0,0,1,2,0,4,0
+2019-02-09,2018-2019,Ligue 1,Paris Saint-Germain,Bordeaux,Home,1,0,W,Kylian Mbappé,N,NA,45,0,0,1,0,0,0,0,1,0,0,1
+2019-02-17,2018-2019,Ligue 1,Paris Saint-Germain,Saint-Étienne,Away,1,0,W,Kylian Mbappé,Y,FW,90,1,0,3,2,1,0,1,1,1,1,0
+2019-02-20,2018-2019,Ligue 1,Paris Saint-Germain,Montpellier,Home,5,1,W,Kylian Mbappé,Y,FW,90,1,0,6,3,0,0,0,2,1,0,0
+2019-02-23,2018-2019,Ligue 1,Paris Saint-Germain,Nîmes,Home,3,0,W,Kylian Mbappé,Y,FW,90,2,0,9,5,1,0,1,0,3,1,0
+2019-03-02,2018-2019,Ligue 1,Paris Saint-Germain,Caen,Away,2,1,W,Kylian Mbappé,Y,FW,90,2,1,5,2,0,0,0,0,3,0,0
+2019-03-12,2018-2019,Ligue 1,Paris Saint-Germain,Dijon,Away,4,0,W,Kylian Mbappé,Y,FW,90,1,0,7,4,0,0,0,0,1,0,0
+2019-03-17,2018-2019,Ligue 1,Paris Saint-Germain,Marseille,Home,3,1,W,Kylian Mbappé,Y,FW,90,1,0,3,3,0,0,0,5,0,0,0
+2019-03-31,2018-2019,Ligue 1,Paris Saint-Germain,Toulouse,Away,1,0,W,Kylian Mbappé,Y,FW,90,1,0,3,2,0,0,1,1,0,2,1
+2019-04-07,2018-2019,Ligue 1,Paris Saint-Germain,Strasbourg,Home,2,2,D,Kylian Mbappé,N,NA,31,0,0,3,2,0,0,0,0,2,1,0
+2019-04-14,2018-2019,Ligue 1,Paris Saint-Germain,Lille,Away,1,5,L,Kylian Mbappé,Y,FW,90,1,0,3,1,1,0,1,0,3,0,0
+2019-04-21,2018-2019,Ligue 1,Paris Saint-Germain,Monaco,Home,3,1,W,Kylian Mbappé,Y,FW,90,3,0,7,5,0,0,0,1,1,0,0
+2019-05-18,2018-2019,Ligue 1,Paris Saint-Germain,Dijon,Home,4,0,W,Kylian Mbappé,Y,FW,90,2,0,8,3,0,0,1,1,0,2,0
+2019-05-24,2018-2019,Ligue 1,Paris Saint-Germain,Reims,Away,1,3,L,Kylian Mbappé,Y,FW,90,1,0,2,1,0,0,0,3,0,4,0
+2019-08-11,2019-2020,Ligue 1,Paris Saint-Germain,Nîmes,Home,3,0,W,Kylian Mbappé,Y,FW,90,1,1,5,2,0,0,2,1,0,1,0
+2019-08-18,2019-2020,Ligue 1,Paris Saint-Germain,Rennes,Away,1,2,L,Kylian Mbappé,Y,FW,90,0,0,3,1,0,0,0,3,2,3,0
+2019-08-25,2019-2020,Ligue 1,Paris Saint-Germain,Toulouse,Home,4,0,W,Kylian Mbappé,Y,FW,65,0,0,6,4,0,0,1,0,1,4,0
+2019-09-28,2019-2020,Ligue 1,Paris Saint-Germain,Bordeaux,Away,1,0,W,Kylian Mbappé,N,NA,31,0,1,5,3,0,0,0,0,1,0,0
+2019-10-18,2019-2020,Ligue 1,Paris Saint-Germain,Nice,Away,4,1,W,Kylian Mbappé,N,NA,8,1,1,4,1,0,0,0,0,0,0,0
+2019-10-27,2019-2020,Ligue 1,Paris Saint-Germain,Marseille,Home,4,0,W,Kylian Mbappé,Y,FW,70,2,0,5,3,0,0,2,3,1,1,0
+2019-11-01,2019-2020,Ligue 1,Paris Saint-Germain,Dijon,Away,1,2,L,Kylian Mbappé,Y,FW,90,1,0,2,2,0,0,0,2,0,2,1
+2019-11-22,2019-2020,Ligue 1,Paris Saint-Germain,Lille,Home,2,0,W,Kylian Mbappé,N,NA,26,0,0,2,1,0,0,1,0,0,1,0
+2019-12-04,2019-2020,Ligue 1,Paris Saint-Germain,Nantes,Home,2,0,W,Kylian Mbappé,Y,FW,77,1,0,4,3,0,0,0,0,2,0,1
+2019-12-07,2019-2020,Ligue 1,Paris Saint-Germain,Montpellier,Away,3,1,W,Kylian Mbappé,Y,FW,89,1,1,2,1,0,0,1,1,4,0,0
+2019-12-15,2019-2020,Ligue 1,Paris Saint-Germain,Saint-Étienne,Away,4,0,W,Kylian Mbappé,Y,FW,90,2,0,3,2,0,0,0,0,4,5,1
+2019-12-21,2019-2020,Ligue 1,Paris Saint-Germain,Amiens,Home,4,1,W,Kylian Mbappé,Y,FW,90,2,0,6,4,0,0,0,0,1,0,0
+2020-01-12,2019-2020,Ligue 1,Paris Saint-Germain,Monaco,Home,3,3,D,Kylian Mbappé,Y,FW,90,0,0,4,1,0,0,0,2,1,0,0
+2020-01-15,2019-2020,Ligue 1,Paris Saint-Germain,Monaco,Away,4,1,W,Kylian Mbappé,Y,FW,90,2,0,6,5,0,0,3,0,1,2,0
+2020-01-26,2019-2020,Ligue 1,Paris Saint-Germain,Lille,Away,2,0,W,Kylian Mbappé,Y,FW,90,0,0,7,3,0,0,0,3,2,2,0
+2020-02-01,2019-2020,Ligue 1,Paris Saint-Germain,Montpellier,Home,5,0,W,Kylian Mbappé,Y,FW,67,1,0,4,2,0,0,0,2,1,0,0
+2020-02-04,2019-2020,Ligue 1,Paris Saint-Germain,Nantes,Away,2,1,W,Kylian Mbappé,Y,FW,90,0,0,4,1,0,0,1,1,0,2,0
+2020-02-09,2019-2020,Ligue 1,Paris Saint-Germain,Lyon,Home,4,2,W,Kylian Mbappé,Y,FW,90,1,0,3,2,0,0,0,3,1,2,0
+2020-02-23,2019-2020,Ligue 1,Paris Saint-Germain,Bordeaux,Home,4,3,W,Kylian Mbappé,Y,FW,90,1,0,4,3,0,0,1,1,4,0,0
+2020-02-29,2019-2020,Ligue 1,Paris Saint-Germain,Dijon,Home,4,0,W,Kylian Mbappé,Y,FW,90,2,1,9,5,0,0,1,0,1,7,1
+2020-09-20,2020-2021,Ligue 1,Paris Saint-Germain,Nice,Away,3,0,W,Kylian Mbappé,Y,FW,78,1,0,6,2,0,0,0,2,1,4,0
+2020-09-27,2020-2021,Ligue 1,Paris Saint-Germain,Reims,Away,2,0,W,Kylian Mbappé,Y,LW,90,0,2,3,2,0,0,0,0,2,1,0
+2020-10-02,2020-2021,Ligue 1,Paris Saint-Germain,Angers,Home,6,1,W,Kylian Mbappé,Y,FW,90,1,1,4,3,0,0,0,1,0,1,0
+2020-10-16,2020-2021,Ligue 1,Paris Saint-Germain,Nîmes,Away,4,0,W,Kylian Mbappé,Y,FW,83,2,0,8,5,0,0,0,2,0,2,0
+2020-10-24,2020-2021,Ligue 1,Paris Saint-Germain,Dijon,Home,4,0,W,Kylian Mbappé,N,NA,18,2,0,2,2,0,0,0,0,0,0,0
+2020-10-31,2020-2021,Ligue 1,Paris Saint-Germain,Nantes,Away,3,0,W,Kylian Mbappé,Y,FW,73,1,1,4,2,0,0,0,2,0,3,0
+2020-11-20,2020-2021,Ligue 1,Paris Saint-Germain,Monaco,Away,2,3,L,Kylian Mbappé,Y,FW,67,2,0,2,2,0,0,1,1,1,1,1
+2020-11-28,2020-2021,Ligue 1,Paris Saint-Germain,Bordeaux,Home,2,2,D,Kylian Mbappé,Y,FW,90,0,0,4,2,0,0,1,0,2,3,0
+2020-12-05,2020-2021,Ligue 1,Paris Saint-Germain,Montpellier,Away,3,1,W,Kylian Mbappé,N,NA,13,1,0,1,1,0,0,0,0,0,0,0
+2020-12-13,2020-2021,Ligue 1,Paris Saint-Germain,Lyon,Home,0,1,L,Kylian Mbappé,N,NA,26,0,0,1,0,0,0,0,1,0,1,0
+2020-12-16,2020-2021,Ligue 1,Paris Saint-Germain,Lorient,Home,2,0,W,Kylian Mbappé,Y,FW,90,1,0,5,2,1,0,4,3,0,0,0
+2020-12-20,2020-2021,Ligue 1,Paris Saint-Germain,Lille,Away,0,0,D,Kylian Mbappé,N,NA,14,0,0,0,0,0,0,0,1,0,0,0
+2020-12-23,2020-2021,Ligue 1,Paris Saint-Germain,Strasbourg,Home,4,0,W,Kylian Mbappé,Y,FW,83,1,0,2,1,0,0,1,2,1,1,1
+2021-01-06,2020-2021,Ligue 1,Paris Saint-Germain,Saint-Étienne,Away,1,1,D,Kylian Mbappé,Y,FW,90,0,0,1,0,0,0,1,0,1,1,0
+2021-01-09,2020-2021,Ligue 1,Paris Saint-Germain,Brest,Home,3,0,W,Kylian Mbappé,Y,FW,90,0,1,5,3,0,0,0,1,3,1,0
+2021-01-16,2020-2021,Ligue 1,Paris Saint-Germain,Angers,Away,1,0,W,Kylian Mbappé,Y,AM,79,0,0,3,1,0,0,0,0,0,0,0
+2021-01-22,2020-2021,Ligue 1,Paris Saint-Germain,Montpellier,Home,4,0,W,Kylian Mbappé,Y,AM,90,2,1,4,3,0,0,2,2,0,1,0
+2021-01-31,2020-2021,Ligue 1,Paris Saint-Germain,Lorient,Away,2,3,L,Kylian Mbappé,Y,FW,90,0,0,2,0,0,0,1,0,0,2,0
+2021-02-03,2020-2021,Ligue 1,Paris Saint-Germain,Nîmes,Home,3,0,W,Kylian Mbappé,Y,FW,87,1,0,3,1,0,0,2,1,3,0,0
+2021-02-07,2020-2021,Ligue 1,Paris Saint-Germain,Marseille,Away,2,0,W,Kylian Mbappé,Y,FW,90,1,0,1,1,0,0,0,2,0,4,1
+2021-02-13,2020-2021,Ligue 1,Paris Saint-Germain,Nice,Home,2,1,W,Kylian Mbappé,Y,AM,90,0,0,6,1,1,0,1,3,1,4,0
+2021-02-21,2020-2021,Ligue 1,Paris Saint-Germain,Monaco,Home,0,2,L,Kylian Mbappé,Y,FW,90,0,0,0,0,1,0,1,2,0,4,0
+2021-02-27,2020-2021,Ligue 1,Paris Saint-Germain,Dijon,Away,4,0,W,Kylian Mbappé,Y,AM,90,2,0,2,2,0,0,1,3,2,1,0
+2021-03-14,2020-2021,Ligue 1,Paris Saint-Germain,Nantes,Home,1,2,L,Kylian Mbappé,Y,FW,90,0,0,2,1,0,0,0,1,0,3,0
+2021-03-21,2020-2021,Ligue 1,Paris Saint-Germain,Lyon,Away,4,2,W,Kylian Mbappé,Y,AM,69,2,0,3,3,0,0,0,2,0,3,0
+2021-04-03,2020-2021,Ligue 1,Paris Saint-Germain,Lille,Home,0,1,L,Kylian Mbappé,Y,AM,90,0,0,1,1,1,0,0,1,0,4,0
+2021-04-10,2020-2021,Ligue 1,Paris Saint-Germain,Strasbourg,Away,4,1,W,Kylian Mbappé,Y,AM,88,1,1,6,2,0,0,0,1,0,1,0
+2021-04-18,2020-2021,Ligue 1,Paris Saint-Germain,Saint-Étienne,Home,3,2,W,Kylian Mbappé,Y,FW,90,2,0,6,2,0,0,3,1,0,4,0
+2021-04-24,2020-2021,Ligue 1,Paris Saint-Germain,Metz,Away,3,1,W,Kylian Mbappé,Y,FW,86,2,0,3,3,1,0,0,1,0,0,0
+2021-05-16,2020-2021,Ligue 1,Paris Saint-Germain,Reims,Home,4,0,W,Kylian Mbappé,Y,FW,76,1,0,10,5,0,0,1,0,0,2,0
+2021-05-23,2020-2021,Ligue 1,Paris Saint-Germain,Brest,Away,2,0,W,Kylian Mbappé,Y,FW,90,1,0,3,2,0,0,1,1,0,1,0
+2021-08-07,2021-2022,Ligue 1,Paris Saint-Germain,Troyes,Away,2,1,W,Kylian Mbappé,Y,FW,89,0,1,2,1,0,0,0,2,0,4,0
+2021-08-14,2021-2022,Ligue 1,Paris Saint-Germain,Strasbourg,Home,4,2,W,Kylian Mbappé,Y,FW,90,0,1,4,3,0,0,2,3,0,6,0
+2021-08-20,2021-2022,Ligue 1,Paris Saint-Germain,Brest,Away,4,2,W,Kylian Mbappé,Y,FW,80,1,0,5,2,1,0,1,1,0,8,1
+2021-08-29,2021-2022,Ligue 1,Paris Saint-Germain,Reims,Away,2,0,W,Kylian Mbappé,Y,FW,90,2,0,5,2,0,0,1,2,0,0,0
+2021-09-11,2021-2022,Ligue 1,Paris Saint-Germain,Clermont Foot,Home,4,0,W,Kylian Mbappé,Y,FW,78,1,0,5,3,0,0,2,1,1,2,0
+2021-09-19,2021-2022,Ligue 1,Paris Saint-Germain,Lyon,Home,2,1,W,Kylian Mbappé,Y,FW,90,0,1,2,0,0,0,2,2,0,2,0
+2021-09-22,2021-2022,Ligue 1,Paris Saint-Germain,Metz,Away,2,1,W,Kylian Mbappé,Y,FW,90,0,0,3,1,0,0,0,3,1,1,1
+2021-09-25,2021-2022,Ligue 1,Paris Saint-Germain,Montpellier,Home,2,0,W,Kylian Mbappé,Y,FW,87,0,0,5,1,0,0,0,0,2,0,0
+2021-10-03,2021-2022,Ligue 1,Paris Saint-Germain,Rennes,Away,0,2,L,Kylian Mbappé,Y,FW,90,0,0,4,0,1,0,1,0,2,5,2
+2021-10-15,2021-2022,Ligue 1,Paris Saint-Germain,Angers,Home,2,1,W,Kylian Mbappé,Y,FW,89,1,1,3,1,0,0,0,0,1,9,0
+2021-10-24,2021-2022,Ligue 1,Paris Saint-Germain,Marseille,Away,0,0,D,Kylian Mbappé,Y,FW,90,0,0,3,1,0,0,1,0,2,0,0
+2021-11-06,2021-2022,Ligue 1,Paris Saint-Germain,Bordeaux,Away,3,2,W,Kylian Mbappé,Y,FW,85,1,2,5,2,1,0,1,0,3,0,0
+2021-11-20,2021-2022,Ligue 1,Paris Saint-Germain,Nantes,Home,3,1,W,Kylian Mbappé,Y,FW,90,1,1,4,2,0,0,0,0,3,1,1
+2021-11-28,2021-2022,Ligue 1,Paris Saint-Germain,Saint-Étienne,Away,3,1,W,Kylian Mbappé,Y,FW,90,0,0,3,2,0,0,1,1,3,1,0
+2021-12-01,2021-2022,Ligue 1,Paris Saint-Germain,Nice,Home,0,0,D,Kylian Mbappé,Y,FW,90,0,0,5,1,0,0,0,1,3,0,0
+2021-12-04,2021-2022,Ligue 1,Paris Saint-Germain,Lens,Away,1,1,D,Kylian Mbappé,N,NA,21,0,1,2,2,0,0,0,0,1,0,0
+2021-12-12,2021-2022,Ligue 1,Paris Saint-Germain,Monaco,Home,2,0,W,Kylian Mbappé,Y,FW,87,2,0,2,2,1,0,1,6,1,1,0
+2022-01-09,2021-2022,Ligue 1,Paris Saint-Germain,Lyon,Away,1,1,D,Kylian Mbappé,Y,FW,90,0,0,5,0,0,0,1,3,1,4,0
+2022-01-15,2021-2022,Ligue 1,Paris Saint-Germain,Brest,Home,2,0,W,Kylian Mbappé,Y,FW,90,1,0,8,4,1,0,1,1,0,3,1
+2022-01-23,2021-2022,Ligue 1,Paris Saint-Germain,Reims,Home,4,0,W,Kylian Mbappé,Y,FW,76,0,1,5,2,0,0,1,1,0,2,0
+2022-02-06,2021-2022,Ligue 1,Paris Saint-Germain,Lille,Away,5,1,W,Kylian Mbappé,Y,FW,90,1,0,4,1,0,0,2,4,0,1,0
+2022-02-11,2021-2022,Ligue 1,Paris Saint-Germain,Rennes,Home,1,0,W,Kylian Mbappé,Y,FW,90,1,0,5,1,1,0,4,3,0,0,1
+2022-02-19,2021-2022,Ligue 1,Paris Saint-Germain,Nantes,Away,1,3,L,Kylian Mbappé,Y,FW,90,0,0,4,2,1,0,1,4,0,1,0
+2022-02-26,2021-2022,Ligue 1,Paris Saint-Germain,Saint-Étienne,Home,3,1,W,Kylian Mbappé,Y,FW,82,2,1,4,3,0,0,0,1,1,0,0
+2022-03-13,2021-2022,Ligue 1,Paris Saint-Germain,Bordeaux,Home,3,0,W,Kylian Mbappé,Y,FW,90,1,0,3,2,0,0,0,1,2,1,1
+2022-03-20,2021-2022,Ligue 1,Paris Saint-Germain,Monaco,Away,0,3,L,Kylian Mbappé,Y,FW,90,0,0,4,1,1,0,0,3,0,1,0
+2022-04-03,2021-2022,Ligue 1,Paris Saint-Germain,Lorient,Home,5,1,W,Kylian Mbappé,Y,FW,90,2,3,5,3,0,0,0,2,2,3,0
+2022-04-09,2021-2022,Ligue 1,Paris Saint-Germain,Clermont Foot,Away,6,1,W,Kylian Mbappé,Y,FW,90,3,1,7,6,0,0,1,2,2,1,1
+2022-04-17,2021-2022,Ligue 1,Paris Saint-Germain,Marseille,Home,2,1,W,Kylian Mbappé,Y,FW,89,1,0,3,1,1,0,0,0,4,0,0
+2022-04-20,2021-2022,Ligue 1,Paris Saint-Germain,Angers,Away,3,0,W,Kylian Mbappé,Y,FW,90,1,0,4,3,0,0,1,0,1,1,0
+2022-04-23,2021-2022,Ligue 1,Paris Saint-Germain,Lens,Home,1,1,D,Kylian Mbappé,Y,FW,90,0,0,7,2,0,0,2,0,0,2,1
+2022-04-29,2021-2022,Ligue 1,Paris Saint-Germain,Strasbourg,Away,3,3,D,Kylian Mbappé,Y,FW,90,2,1,3,2,0,0,1,3,0,0,0
+2022-05-08,2021-2022,Ligue 1,Paris Saint-Germain,Troyes,Home,2,2,D,Kylian Mbappé,Y,FW,90,0,0,2,2,0,0,1,1,0,3,0
+2022-05-14,2021-2022,Ligue 1,Paris Saint-Germain,Montpellier,Away,4,0,W,Kylian Mbappé,Y,FW,90,1,2,4,3,1,0,0,3,3,0,0
+2022-05-21,2021-2022,Ligue 1,Paris Saint-Germain,Metz,Home,5,0,W,Kylian Mbappé,Y,FW,90,3,0,8,4,0,0,0,1,0,2,0
+2022-08-13,2022-2023,Ligue 1,Paris Saint-Germain,Montpellier,Home,5,2,W,Kylian Mbappé,Y,FW,85,1,0,6,4,0,0,0,1,0,0,2
+2022-08-21,2022-2023,Ligue 1,Paris Saint-Germain,Lille,Away,7,1,W,Kylian Mbappé,Y,FW,90,3,0,6,3,0,0,1,4,1,0,0
+2022-08-28,2022-2023,Ligue 1,Paris Saint-Germain,Monaco,Home,1,1,D,Kylian Mbappé,Y,FW,90,0,0,9,3,0,0,0,0,1,3,0
+2022-08-31,2022-2023,Ligue 1,Paris Saint-Germain,Toulouse,Away,3,0,W,Kylian Mbappé,Y,FW,90,1,0,5,4,0,0,2,1,1,2,0
+2022-09-03,2022-2023,Ligue 1,Paris Saint-Germain,Nantes,Away,3,0,W,Kylian Mbappé,Y,FW,62,2,0,4,3,1,0,1,0,0,1,0
+2022-09-10,2022-2023,Ligue 1,Paris Saint-Germain,Brest,Home,1,0,W,Kylian Mbappé,Y,FW,77,0,0,4,1,0,0,0,2,1,0,0
+2022-09-18,2022-2023,Ligue 1,Paris Saint-Germain,Lyon,Away,1,0,W,Kylian Mbappé,Y,FW,90,0,0,3,1,0,0,1,2,2,0,0
+2022-10-01,2022-2023,Ligue 1,Paris Saint-Germain,Nice,Home,2,1,W,Kylian Mbappé,N,NA,32,1,0,1,1,0,0,1,0,3,1,1
+2022-10-08,2022-2023,Ligue 1,Paris Saint-Germain,Reims,Away,0,0,D,Kylian Mbappé,Y,FW,90,0,0,2,1,1,0,2,2,0,1,0
+2022-10-16,2022-2023,Ligue 1,Paris Saint-Germain,Marseille,Home,1,0,W,Kylian Mbappé,Y,FW,90,0,1,7,2,0,0,0,1,0,0,0
+2022-10-21,2022-2023,Ligue 1,Paris Saint-Germain,Ajaccio,Away,3,0,W,Kylian Mbappé,Y,FW,82,2,1,4,2,0,0,1,3,3,1,0
+2022-10-29,2022-2023,Ligue 1,Paris Saint-Germain,Troyes,Home,4,3,W,Kylian Mbappé,Y,FW,90,1,0,5,2,0,0,0,1,1,3,0
+2022-11-06,2022-2023,Ligue 1,Paris Saint-Germain,Lorient,Away,2,1,W,Kylian Mbappé,Y,FW,84,0,0,4,2,0,0,0,0,3,0,0
+2022-11-13,2022-2023,Ligue 1,Paris Saint-Germain,Auxerre,Home,5,0,W,Kylian Mbappé,Y,FW,90,1,0,1,1,0,0,0,0,2,1,0
+2022-12-28,2022-2023,Ligue 1,Paris Saint-Germain,Strasbourg,Home,2,1,W,Kylian Mbappé,Y,FW,90,1,0,5,5,1,0,0,4,0,1,0
+2023-01-01,2022-2023,Ligue 1,Paris Saint-Germain,Lens,Away,1,3,L,Kylian Mbappé,Y,FW,90,0,0,4,2,0,0,1,2,0,5,0
+2023-01-15,2022-2023,Ligue 1,Paris Saint-Germain,Rennes,Away,0,1,L,Kylian Mbappé,N,NA,36,0,0,1,0,0,0,0,0,5,0,0
+2023-01-29,2022-2023,Ligue 1,Paris Saint-Germain,Reims,Home,1,1,D,Kylian Mbappé,Y,FW,90,0,0,4,3,0,0,0,2,0,1,0
+2023-02-01,2022-2023,Ligue 1,Paris Saint-Germain,Montpellier,Away,3,1,W,Kylian Mbappé,Y,FW,20,0,0,2,1,0,0,0,1,0,1,0
+2023-02-19,2022-2023,Ligue 1,Paris Saint-Germain,Lille,Home,4,3,W,Kylian Mbappé,Y,FW,90,2,0,4,4,1,0,1,2,0,1,1
+2023-02-26,2022-2023,Ligue 1,Paris Saint-Germain,Marseille,Away,3,0,W,Kylian Mbappé,Y,FW,90,2,1,7,4,0,0,0,2,0,0,0
+2023-03-04,2022-2023,Ligue 1,Paris Saint-Germain,Nantes,Home,4,2,W,Kylian Mbappé,Y,FW,90,1,0,5,3,0,0,1,1,2,0,0
+2023-03-11,2022-2023,Ligue 1,Paris Saint-Germain,Brest,Away,2,1,W,Kylian Mbappé,Y*,FW,90,1,0,6,3,1,0,2,0,1,0,0
+2023-03-19,2022-2023,Ligue 1,Paris Saint-Germain,Rennes,Home,0,2,L,Kylian Mbappé,Y*,FW,90,0,0,6,3,0,0,1,2,3,0,1
+2023-04-02,2022-2023,Ligue 1,Paris Saint-Germain,Lyon,Home,0,1,L,Kylian Mbappé,Y,FW,90,0,0,3,1,0,0,0,1,0,4,1
+2023-04-08,2022-2023,Ligue 1,Paris Saint-Germain,Nice,Away,2,0,W,Kylian Mbappé,Y,FW,90,0,0,1,0,0,0,0,1,2,0,1
+2023-04-15,2022-2023,Ligue 1,Paris Saint-Germain,Lens,Home,3,1,W,Kylian Mbappé,Y,FW,90,1,1,5,3,0,0,0,3,0,1,0
+2023-04-21,2022-2023,Ligue 1,Paris Saint-Germain,Angers,Away,2,1,W,Kylian Mbappé,Y,FW,90,2,0,5,3,0,0,0,1,0,2,0
+2023-04-30,2022-2023,Ligue 1,Paris Saint-Germain,Lorient,Home,1,3,L,Kylian Mbappé,Y,FW,90,1,0,6,2,0,0,1,3,0,1,0
+2023-05-07,2022-2023,Ligue 1,Paris Saint-Germain,Troyes,Away,3,1,W,Kylian Mbappé,Y,FW,90,1,0,8,3,0,0,0,0,1,1,0
+2023-05-13,2022-2023,Ligue 1,Paris Saint-Germain,Ajaccio,Home,5,0,W,Kylian Mbappé,Y,FW,90,2,0,6,4,0,0,1,1,1,0,0
+2023-05-21,2022-2023,Ligue 1,Paris Saint-Germain,Auxerre,Away,2,1,W,Kylian Mbappé,Y,FW,90,2,0,7,3,0,0,1,1,4,2,0
+2023-05-27,2022-2023,Ligue 1,Paris Saint-Germain,Strasbourg,Away,1,1,D,Kylian Mbappé,Y*,FW,90,0,1,1,0,0,0,0,1,1,0,0
+2023-06-03,2022-2023,Ligue 1,Paris Saint-Germain,Clermont Foot,Home,2,3,L,Kylian Mbappé,Y*,FW,90,1,0,3,2,1,0,3,2,0,0,0
+2023-08-19,2023-2024,Ligue 1,Paris Saint-Germain,Toulouse,Away,1,1,D,Kylian Mbappé,N,NA,40,1,0,3,1,0,0,1,1,0,0,0
+2023-08-26,2023-2024,Ligue 1,Paris Saint-Germain,Lens,Home,3,1,W,Kylian Mbappé,Y,FW,90,2,0,6,5,0,0,1,1,1,1,0
+2023-09-03,2023-2024,Ligue 1,Paris Saint-Germain,Lyon,Away,4,1,W,Kylian Mbappé,Y,FW,90,2,0,6,2,0,0,0,2,1,0,0
+2023-09-15,2023-2024,Ligue 1,Paris Saint-Germain,Nice,Home,2,3,L,Kylian Mbappé,Y*,FW,90,2,0,5,2,0,0,1,2,1,2,0
+2023-09-24,2023-2024,Ligue 1,Paris Saint-Germain,Marseille,Home,4,0,W,Kylian Mbappé,Y,FW,31,0,0,1,0,0,0,0,1,0,1,0
+2023-09-30,2023-2024,Ligue 1,Paris Saint-Germain,Clermont Foot,Away,0,0,D,Kylian Mbappé,Y,FW,90,0,0,5,2,1,0,2,1,0,1,0
+2023-10-08,2023-2024,Ligue 1,Paris Saint-Germain,Rennes,Away,3,1,W,Kylian Mbappé,Y,FW,90,0,0,8,3,0,0,3,1,1,0,0
+2023-10-21,2023-2024,Ligue 1,Paris Saint-Germain,Strasbourg,Home,3,0,W,Kylian Mbappé,Y,FW,90,1,1,3,2,0,0,1,2,2,1,0
+2023-10-29,2023-2024,Ligue 1,Paris Saint-Germain,Brest,Away,3,2,W,Kylian Mbappé,Y*,FW,89,2,0,5,4,1,0,0,1,0,0,0
+2023-11-03,2023-2024,Ligue 1,Paris Saint-Germain,Montpellier,Home,3,0,W,Kylian Mbappé,Y,FW,90,0,0,4,0,0,0,0,2,1,0,0
+2023-11-11,2023-2024,Ligue 1,Paris Saint-Germain,Reims,Away,3,0,W,Kylian Mbappé,Y,LW,90,3,0,9,5,0,0,0,2,0,2,0
+2023-11-24,2023-2024,Ligue 1,Paris Saint-Germain,Monaco,Home,5,2,W,Kylian Mbappé,Y*,FW,90,1,1,4,3,0,0,1,3,1,2,0
+2023-12-03,2023-2024,Ligue 1,Paris Saint-Germain,Le Havre,Away,2,0,W,Kylian Mbappé,Y*,FW,90,1,0,5,3,0,0,0,3,1,1,0
+2023-12-09,2023-2024,Ligue 1,Paris Saint-Germain,Nantes,Home,2,1,W,Kylian Mbappé,Y,FW,90,0,0,4,2,0,0,0,1,2,1,0
+2023-12-17,2023-2024,Ligue 1,Paris Saint-Germain,Lille,Away,1,1,D,Kylian Mbappé,Y,FW,90,1,0,5,1,0,0,0,3,0,2,3
+2023-12-20,2023-2024,Ligue 1,Paris Saint-Germain,Metz,Home,3,1,W,Kylian Mbappé,Y,FW,90,2,0,8,3,0,0,0,0,3,1,0
+2024-01-14,2023-2024,Ligue 1,Paris Saint-Germain,Lens,Away,2,0,W,Kylian Mbappé,Y,FW,90,1,1,7,5,0,0,0,1,0,0,0
+2024-01-28,2023-2024,Ligue 1,Paris Saint-Germain,Brest,Home,2,2,D,Kylian Mbappé,Y*,FW,90,0,0,4,1,1,0,1,2,0,0,0
+2024-02-02,2023-2024,Ligue 1,Paris Saint-Germain,Strasbourg,Away,2,1,W,Kylian Mbappé,Y,FW,90,1,1,2,2,0,0,0,2,2,1,0
+2024-02-17,2023-2024,Ligue 1,Paris Saint-Germain,Nantes,Away,2,0,W,Kylian Mbappé,N,NA,29,1,0,2,1,0,0,0,2,0,0,0
+2024-02-25,2023-2024,Ligue 1,Paris Saint-Germain,Rennes,Home,1,1,D,Kylian Mbappé,Y*,FW,64,0,0,3,0,0,0,0,1,0,1,0
+2024-03-01,2023-2024,Ligue 1,Paris Saint-Germain,Monaco,Away,0,0,D,Kylian Mbappé,Y*,FW,45,0,0,1,0,0,0,0,1,1,0,0
+2024-03-10,2023-2024,Ligue 1,Paris Saint-Germain,Reims,Home,2,2,D,Kylian Mbappé,N,NA,18,0,0,3,2,0,0,1,0,0,0,0
+2024-03-17,2023-2024,Ligue 1,Paris Saint-Germain,Montpellier,Away,6,2,W,Kylian Mbappé,Y*,FW,90,3,1,4,4,0,0,0,1,3,0,2
+2024-03-31,2023-2024,Ligue 1,Paris Saint-Germain,Marseille,Away,2,0,W,Kylian Mbappé,Y*,FW,63,0,0,0,0,0,0,0,1,0,1,0
+2024-04-06,2023-2024,Ligue 1,Paris Saint-Germain,Clermont Foot,Home,1,1,D,Kylian Mbappé,N,NA,24,0,1,2,1,0,0,0,0,0,1,0
+2024-04-24,2023-2024,Ligue 1,Paris Saint-Germain,Lorient,Away,4,1,W,Kylian Mbappé,Y*,FW,90,2,1,5,4,0,0,0,1,0,1,0
+2024-04-27,2023-2024,Ligue 1,Paris Saint-Germain,Le Havre,Home,3,3,D,Kylian Mbappé,N,NA,45,0,0,1,0,1,0,0,1,1,0,0
+2024-05-12,2023-2024,Ligue 1,Paris Saint-Germain,Toulouse,Home,1,3,L,Kylian Mbappé,Y*,FW,90,1,0,5,1,0,0,0,0,0,0,0
+2024-08-18,2024-2025,La Liga,Real Madrid,Mallorca,Away,1,1,D,Kylian Mbappé,Y,FW,90,0,0,4,2,0,0,0,1,1,0,0
+2024-08-25,2024-2025,La Liga,Real Madrid,Valladolid,Home,3,0,W,Kylian Mbappé,Y,FW,85,0,0,4,3,0,0,0,1,1,0,0
+2024-08-29,2024-2025,La Liga,Real Madrid,Las Palmas,Away,1,1,D,Kylian Mbappé,Y,FW,90,0,0,9,2,0,0,1,0,1,0,0
+2024-09-01,2024-2025,La Liga,Real Madrid,Real Betis,Home,2,0,W,Kylian Mbappé,Y,FW,83,2,0,9,3,0,0,1,1,0,0,0
+2024-09-14,2024-2025,La Liga,Real Madrid,Real Sociedad,Away,2,0,W,Kylian Mbappé,Y,FW,89,1,0,3,2,0,0,1,1,1,0,0
+2024-09-21,2024-2025,La Liga,Real Madrid,Espanyol,Home,4,1,W,Kylian Mbappé,Y,FW,90,1,1,9,6,1,0,0,2,0,0,0
+2024-09-24,2024-2025,La Liga,Real Madrid,Alavés,Home,3,2,W,Kylian Mbappé,Y,FW,79,1,0,1,1,0,0,1,2,0,1,0
+2024-10-05,2024-2025,La Liga,Real Madrid,Villarreal,Home,2,0,W,Kylian Mbappé,Y,FW,70,0,0,3,0,0,0,1,1,1,0,0
+2024-10-19,2024-2025,La Liga,Real Madrid,Celta Vigo,Away,2,1,W,Kylian Mbappé,Y,FW,81,1,0,2,1,0,0,2,1,1,0,0
+2024-10-26,2024-2025,La Liga,Real Madrid,Barcelona,Home,0,4,L,Kylian Mbappé,Y,FW,90,0,0,3,3,0,0,0,8,2,0,0
+2024-11-09,2024-2025,La Liga,Real Madrid,Osasuna,Home,4,0,W,Kylian Mbappé,Y,FW,90,0,0,5,1,0,0,3,1,0,0,0
+2024-11-24,2024-2025,La Liga,Real Madrid,Leganés,Away,3,0,W,Kylian Mbappé,Y,FW,82,1,0,5,3,0,0,1,3,1,0,0
+2024-12-01,2024-2025,La Liga,Real Madrid,Getafe,Home,2,0,W,Kylian Mbappé,Y,FW,90,1,0,5,2,0,0,3,2,2,0,0
+2024-12-04,2024-2025,La Liga,Real Madrid,Athletic Club,Away,1,2,L,Kylian Mbappé,Y,FW,90,0,0,3,3,0,0,1,1,1,2,1
+2024-12-07,2024-2025,La Liga,Real Madrid,Girona,Away,3,0,W,Kylian Mbappé,Y,FW,80,1,0,4,3,1,0,1,1,2,0,0
+2024-12-22,2024-2025,La Liga,Real Madrid,Sevilla,Home,4,2,W,Kylian Mbappé,Y,FW,90,1,1,5,2,0,0,0,2,0,0,0
+2025-01-03,2024-2025,La Liga,Real Madrid,Valencia,Away,2,1,W,Kylian Mbappé,Y,FW,90,0,0,0,0,0,0,3,1,4,4,0
+2025-01-19,2024-2025,La Liga,Real Madrid,Las Palmas,Home,4,1,W,Kylian Mbappé,Y,FW,90,2,1,6,5,0,0,1,2,0,0,0
+2025-01-25,2024-2025,La Liga,Real Madrid,Valladolid,Away,3,0,W,Kylian Mbappé,Y,FW,89,3,0,6,3,1,0,1,2,1,1,0
+2025-02-01,2024-2025,La Liga,Real Madrid,Espanyol,Away,0,1,L,Kylian Mbappé,Y,FW,90,0,0,3,2,0,0,1,2,1,2,0
+2025-02-08,2024-2025,La Liga,Real Madrid,Atlético Madrid,Home,1,1,D,Kylian Mbappé,Y,FW,90,1,0,3,3,0,0,2,1,1,0,0
+2025-02-15,2024-2025,La Liga,Real Madrid,Osasuna,Away,1,1,D,Kylian Mbappé,Y,FW,90,1,0,8,4,0,0,1,2,0,1,0
+2025-02-23,2024-2025,La Liga,Real Madrid,Girona,Home,2,0,W,Kylian Mbappé,Y,FW,90,0,1,6,3,0,0,1,0,1,0,0
+2025-03-01,2024-2025,La Liga,Real Madrid,Real Betis,Away,1,2,L,Kylian Mbappé,Y,FW,74,0,0,0,0,0,0,0,0,0,0,0
+2025-03-09,2024-2025,La Liga,Real Madrid,Rayo Vallecano,Home,2,1,W,Kylian Mbappé,Y,FW,78,1,0,4,3,0,0,1,0,1,0,0
+2025-03-15,2024-2025,La Liga,Real Madrid,Villarreal,Away,2,1,W,Kylian Mbappé,Y,FW,90,2,0,3,2,0,0,0,3,2,0,0
+2025-03-29,2024-2025,La Liga,Real Madrid,Leganés,Home,3,2,W,Kylian Mbappé,Y,FW,90,2,0,9,5,0,0,1,2,0,0,0
+2025-04-05,2024-2025,La Liga,Real Madrid,Valencia,Home,1,2,L,Kylian Mbappé,Y,FW,90,0,0,6,2,0,0,0,2,3,3,0
+2025-04-13,2024-2025,La Liga,Real Madrid,Alavés,Away,1,0,W,Kylian Mbappé,Y,FW,37,0,0,0,0,1,2,0,0,0,0,0
+2025-05-04,2024-2025,La Liga,Real Madrid,Celta Vigo,Home,3,2,W,Kylian Mbappé,Y,FW,90,2,0,4,2,0,0,2,3,0,1,0
+2025-05-11,2024-2025,La Liga,Real Madrid,Barcelona,Away,3,4,L,Kylian Mbappé,Y,FW,90,3,1,5,4,0,0,0,2,0,0,0
+2025-05-14,2024-2025,La Liga,Real Madrid,Mallorca,Home,2,1,W,Kylian Mbappé,Y,FW,90,1,0,9,3,0,0,1,0,1,4,0
+2025-05-18,2024-2025,La Liga,Real Madrid,Sevilla,Away,2,0,W,Kylian Mbappé,Y,FW,90,1,0,7,2,0,0,0,2,0,1,0
+2025-05-24,2024-2025,La Liga,Real Madrid,Real Sociedad,Home,2,0,W,Kylian Mbappé,Y,FW,90,2,0,5,5,0,0,0,1,0,0,0

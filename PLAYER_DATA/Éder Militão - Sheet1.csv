@@ -1,0 +1,148 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2018-09-02,2018-2019,Primeira Liga,Porto,Moreirense,Home,3,0,W,Éder Militão,Y,CB,90,0,1,3,0,0,2,0,1,2,1,0
+2018-09-22,2018-2019,Primeira Liga,Porto,Vitória Setúbal,Away,2,0,W,Éder Militão,Y,CB,90,0,0,0,0,0,0,0,1,1,2,0
+2018-09-28,2018-2019,Primeira Liga,Porto,Tondela,Home,1,0,W,Éder Militão,Y,CB,90,0,0,1,1,0,2,1,0,1,2,0
+2018-10-07,2018-2019,Primeira Liga,Porto,Benfica,Away,0,1,L,Éder Militão,Y,CB,90,0,0,2,0,0,1,4,0,0,1,0
+2018-10-28,2018-2019,Primeira Liga,Porto,Feirense,Home,2,0,W,Éder Militão,Y,CB,90,0,0,1,1,0,1,0,0,0,1,0
+2018-11-03,2018-2019,Primeira Liga,Porto,Marítimo,Away,2,0,W,Éder Militão,Y,CB,90,0,0,0,0,0,2,2,0,0,2,0
+2018-11-10,2018-2019,Primeira Liga,Porto,Braga,Home,1,0,W,Éder Militão,Y,CB,90,0,0,0,0,0,1,2,0,0,5,0
+2018-12-02,2018-2019,Primeira Liga,Porto,Boavista,Away,1,0,W,Éder Militão,Y,CB,90,0,0,0,0,0,3,2,0,1,3,2
+2018-12-07,2018-2019,Primeira Liga,Porto,Portimonense,Home,4,1,W,Éder Militão,Y,CB,90,0,0,1,0,0,1,0,0,0,1,1
+2018-12-15,2018-2019,Primeira Liga,Porto,Santa Clara,Away,2,1,W,Éder Militão,Y,CB,90,0,0,1,0,0,3,1,0,0,1,4
+2018-12-23,2018-2019,Primeira Liga,Porto,Rio Ave,Home,2,1,W,Éder Militão,Y,CB,90,0,0,1,0,0,2,3,0,0,1,3
+2019-01-03,2018-2019,Primeira Liga,Porto,Aves,Away,1,0,W,Éder Militão,Y,CB,90,1,0,3,1,0,1,1,0,0,0,1
+2019-01-07,2018-2019,Primeira Liga,Porto,Nacional,Home,3,1,W,Éder Militão,Y,CB,90,0,0,0,0,0,2,1,0,0,1,5
+2019-01-12,2018-2019,Primeira Liga,Porto,Sporting CP,Away,0,0,D,Éder Militão,Y,CB,90,0,0,0,0,0,2,0,0,0,1,4
+2019-01-18,2018-2019,Primeira Liga,Porto,Chaves,Away,4,1,W,Éder Militão,Y,RB,90,0,0,1,0,0,2,3,0,4,3,1
+2019-01-30,2018-2019,Primeira Liga,Porto,B-SAD,Home,3,0,W,Éder Militão,Y,RB,79,1,0,1,1,0,1,1,0,1,2,2
+2019-02-03,2018-2019,Primeira Liga,Porto,Vitória Guimarães,Away,0,0,D,Éder Militão,Y,RB,90,0,0,1,0,0,2,1,0,1,2,1
+2019-02-08,2018-2019,Primeira Liga,Porto,Moreirense,Away,1,1,D,Éder Militão,Y,RB,90,0,0,2,0,0,0,1,0,0,4,4
+2019-02-16,2018-2019,Primeira Liga,Porto,Vitória Setúbal,Home,2,0,W,Éder Militão,Y,CB,90,0,0,1,1,0,2,0,0,0,0,1
+2019-03-10,2018-2019,Primeira Liga,Porto,Feirense,Away,2,1,W,Éder Militão,Y,RB,90,0,0,0,0,0,0,2,0,3,4,1
+2019-03-16,2018-2019,Primeira Liga,Porto,Marítimo,Home,3,0,W,Éder Militão,Y,RB,90,0,1,3,0,0,1,0,0,3,1,3
+2019-03-30,2018-2019,Primeira Liga,Porto,Braga,Away,3,2,W,Éder Militão,Y,RB,90,0,0,0,0,0,1,2,0,1,2,1
+2019-04-05,2018-2019,Primeira Liga,Porto,Boavista,Home,2,0,W,Éder Militão,Y,CB,90,0,0,1,1,0,1,0,0,0,1,0
+2019-04-13,2018-2019,Primeira Liga,Porto,Portimonense,Away,3,0,W,Éder Militão,Y,CB,90,0,0,1,1,0,2,1,0,0,1,2
+2019-04-20,2018-2019,Primeira Liga,Porto,Santa Clara,Home,1,0,W,Éder Militão,Y,CB,90,0,0,1,1,0,2,0,0,1,1,1
+2019-04-26,2018-2019,Primeira Liga,Porto,Rio Ave,Away,2,2,D,Éder Militão,Y,RB,90,0,0,1,0,0,3,2,0,1,3,5
+2019-05-04,2018-2019,Primeira Liga,Porto,Aves,Home,4,0,W,Éder Militão,Y,CB,90,0,0,1,1,0,1,2,0,0,2,3
+2019-05-12,2018-2019,Primeira Liga,Porto,Nacional,Away,4,0,W,Éder Militão,Y,CB,90,0,0,0,0,0,3,1,0,1,1,2
+2019-05-18,2018-2019,Primeira Liga,Porto,Sporting CP,Home,2,1,W,Éder Militão,Y,RB,90,0,0,2,0,0,2,2,0,4,4,3
+2019-09-14,2019-2020,La Liga,Real Madrid,Levante,Home,3,2,W,Éder Militão,No,NA,31,0,NA,0,0,0,0,1,0,NA,NA,0
+2019-09-25,2019-2020,La Liga,Real Madrid,Osasuna,Home,2,0,W,Éder Militão,Yes,CB,90,0,NA,0,0,1,0,2,0,NA,NA,2
+2019-10-19,2019-2020,La Liga,Real Madrid,Mallorca,Away,0,1,L,Éder Militão,Yes,CB,90,0,NA,1,1,0,0,3,1,NA,NA,4
+2019-11-30,2019-2020,La Liga,Real Madrid,Alavés,Away,2,1,W,Éder Militão,Yes,CB,90,0,NA,0,0,1,0,0,0,NA,NA,1
+2019-12-07,2019-2020,La Liga,Real Madrid,Espanyol,Home,2,0,W,Éder Militão,No,NA,65,0,NA,0,0,0,0,0,0,NA,NA,0
+2019-12-22,2019-2020,La Liga,Real Madrid,Athletic Club,Home,0,0,D,Éder Militão,Yes,CB,56,0,NA,0,0,0,0,3,1,NA,NA,1
+2020-01-04,2019-2020,La Liga,Real Madrid,Getafe,Away,3,0,W,Éder Militão,Yes,CB,90,0,NA,0,0,0,0,1,0,NA,NA,3
+2020-01-18,2019-2020,La Liga,Real Madrid,Sevilla,Home,2,1,W,Éder Militão,Yes,CB,90,0,NA,0,0,0,0,2,0,NA,NA,2
+2020-03-08,2019-2020,La Liga,Real Madrid,Real Betis,Away,1,2,L,Éder Militão,Yes,RB,90,0,NA,1,0,0,0,3,0,NA,NA,2
+2020-06-14,2019-2020,La Liga,Real Madrid,Eibar,Home,3,1,W,Éder Militão,No,NA,30,0,NA,0,0,0,0,0,0,NA,NA,2
+2020-06-21,2019-2020,La Liga,Real Madrid,Real Sociedad,Away,2,1,W,Éder Militão,No,NA,31,0,NA,0,0,0,0,2,0,NA,NA,0
+2020-07-02,2019-2020,La Liga,Real Madrid,Getafe,Home,1,0,W,Éder Militão,No,NA,58,0,NA,0,0,1,0,1,0,NA,NA,2
+2020-07-05,2019-2020,La Liga,Real Madrid,Athletic Club,Away,1,0,W,Éder Militão,Yes,CB,90,0,NA,0,0,0,0,0,0,NA,NA,0
+2020-07-10,2019-2020,La Liga,Real Madrid,Alavés,Home,2,0,W,Éder Militão,Yes,CB,90,0,NA,0,0,0,0,2,0,NA,NA,2
+2020-07-19,2019-2020,La Liga,Real Madrid,Leganés,Away,2,2,D,Éder Militão,Yes,CB,90,0,NA,0,0,0,0,1,0,NA,NA,0
+2020-10-17,2020-2021,La Liga,Real Madrid,Cádiz,Home,0,1,L,Éder Militão,No,NA,45,0,NA,0,0,1,0,1,0,NA,NA,5
+2020-10-31,2020-2021,La Liga,Real Madrid,Huesca,Home,4,1,W,Éder Militão,Yes,CB,90,0,NA,0,0,0,0,1,0,NA,NA,0
+2021-01-23,2020-2021,La Liga,Real Madrid,Alavés,Away,4,1,W,Éder Militão,Yes,CB,90,0,NA,1,0,1,0,1,0,NA,NA,1
+2021-01-30,2020-2021,La Liga,Real Madrid,Levante,Home,1,2,L,Éder Militão,Yes,CB,8,0,NA,0,0,0,1,1,0,NA,NA,0
+2021-04-03,2020-2021,La Liga,Real Madrid,Eibar,Home,2,0,W,Éder Militão,Yes,CB,90,0,NA,1,0,0,0,0,0,NA,NA,4
+2021-04-10,2020-2021,La Liga,Real Madrid,Barcelona,Home,2,1,W,Éder Militão,Yes,CB,90,0,NA,1,0,0,0,1,0,NA,NA,0
+2021-04-18,2020-2021,La Liga,Real Madrid,Getafe,Away,0,0,D,Éder Militão,Yes,CB,90,0,NA,0,0,0,0,1,0,NA,NA,3
+2021-04-21,2020-2021,La Liga,Real Madrid,Cádiz,Away,3,0,W,Éder Militão,Yes,CB,90,0,NA,1,0,0,0,3,1,NA,NA,0
+2021-04-24,2020-2021,La Liga,Real Madrid,Real Betis,Home,0,0,D,Éder Militão,Yes,CB,90,0,NA,1,0,0,0,2,1,NA,NA,4
+2021-05-01,2020-2021,La Liga,Real Madrid,Osasuna,Home,2,0,W,Éder Militão,Yes,CB,90,1,NA,4,3,0,0,0,0,NA,NA,2
+2021-05-09,2020-2021,La Liga,Real Madrid,Sevilla,Home,2,2,D,Éder Militão,Yes,CB,90,0,NA,1,0,0,0,1,0,NA,NA,1
+2021-05-13,2020-2021,La Liga,Real Madrid,Granada,Away,4,1,W,Éder Militão,Yes,CB,90,0,NA,0,0,1,0,3,0,NA,NA,0
+2021-05-16,2020-2021,La Liga,Real Madrid,Athletic Club,Away,1,0,W,Éder Militão,Yes,CB,90,0,NA,1,0,0,0,0,0,NA,NA,1
+2021-05-22,2020-2021,La Liga,Real Madrid,Villarreal,Home,2,1,W,Éder Militão,Yes,CB,90,0,NA,1,0,0,0,0,0,NA,NA,0
+2021-08-14,2021-2022,La Liga,Real Madrid,Alavés,Away,4,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,0,0,1
+2021-08-22,2021-2022,La Liga,Real Madrid,Levante,Away,3,3,D,Éder Militão,Yes,CB,90,0,0,0,0,1,0,1,0,1,3,3
+2021-08-28,2021-2022,La Liga,Real Madrid,Real Betis,Away,1,0,W,Éder Militão,Yes,CB,90,0,0,2,1,0,0,0,0,0,1,2
+2021-09-12,2021-2022,La Liga,Real Madrid,Celta Vigo,Home,5,2,W,Éder Militão,Yes,CB,90,0,0,1,1,0,0,2,0,0,0,2
+2021-09-19,2021-2022,La Liga,Real Madrid,Valencia,Away,2,1,W,Éder Militão,Yes,CB,90,0,0,1,0,0,0,2,0,0,0,2
+2021-09-22,2021-2022,La Liga,Real Madrid,Mallorca,Home,6,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,0,2,1
+2021-09-25,2021-2022,La Liga,Real Madrid,Villarreal,Home,0,0,D,Éder Militão,Yes,CB,90,0,0,2,0,0,0,0,1,1,0,4
+2021-10-03,2021-2022,La Liga,Real Madrid,Espanyol,Away,1,2,L,Éder Militão,Yes,CB,90,0,0,4,0,0,0,1,0,0,0,1
+2021-10-24,2021-2022,La Liga,Real Madrid,Barcelona,Away,2,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,2,0,0,1,1
+2021-10-27,2021-2022,La Liga,Real Madrid,Osasuna,Home,0,0,D,Éder Militão,Yes,CB,90,0,0,1,1,0,0,2,0,0,1,0
+2021-10-30,2021-2022,La Liga,Real Madrid,Elche,Away,2,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,0,3,2
+2021-11-06,2021-2022,La Liga,Real Madrid,Rayo Vallecano,Home,2,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,0,0,1,0,3
+2021-11-28,2021-2022,La Liga,Real Madrid,Sevilla,Home,2,1,W,Éder Militão,Yes,CB,90,0,1,1,1,0,0,0,0,1,0,3
+2021-12-01,2021-2022,La Liga,Real Madrid,Athletic Club,Home,1,0,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,0,0,1
+2021-12-04,2021-2022,La Liga,Real Madrid,Real Sociedad,Away,2,0,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,0,0,0,4,2
+2021-12-12,2021-2022,La Liga,Real Madrid,Atlético Madrid,Home,2,0,W,Éder Militão,Yes,CB,90,0,0,2,0,0,0,1,0,0,2,1
+2021-12-19,2021-2022,La Liga,Real Madrid,Cádiz,Home,0,0,D,Éder Militão,Yes,CB,90,0,0,2,0,0,0,3,0,1,0,3
+2021-12-22,2021-2022,La Liga,Real Madrid,Athletic Club,Away,2,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,0,1,2
+2022-01-02,2021-2022,La Liga,Real Madrid,Getafe,Away,0,1,L,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,1,1,0
+2022-01-08,2021-2022,La Liga,Real Madrid,Valencia,Home,4,1,W,Éder Militão,Yes,CB,90,0,0,2,2,1,0,1,0,0,1,2
+2022-01-23,2021-2022,La Liga,Real Madrid,Elche,Home,2,2,D,Éder Militão,Yes,CB,90,1,0,2,1,1,0,3,0,1,2,1
+2022-02-06,2021-2022,La Liga,Real Madrid,Granada,Home,1,0,W,Éder Militão,Yes,CB,90,0,1,2,0,0,0,2,0,0,2,1
+2022-02-12,2021-2022,La Liga,Real Madrid,Villarreal,Away,0,0,D,Éder Militão,Yes,CB,90,0,0,0,0,1,0,2,0,1,1,2
+2022-02-19,2021-2022,La Liga,Real Madrid,Alavés,Home,3,0,W,Éder Militão,Yes,CB,90,0,0,2,0,0,0,1,0,1,0,2
+2022-02-26,2021-2022,La Liga,Real Madrid,Rayo Vallecano,Away,1,0,W,Éder Militão,Yes,CB,90,0,0,2,0,0,0,0,1,1,0,0
+2022-03-05,2021-2022,La Liga,Real Madrid,Real Sociedad,Home,4,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,2,0,1,1,0
+2022-03-20,2021-2022,La Liga,Real Madrid,Barcelona,Home,0,4,L,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,0,1,3
+2022-04-02,2021-2022,La Liga,Real Madrid,Celta Vigo,Away,2,1,W,Éder Militão,Yes,CB,84,0,0,1,0,0,0,0,0,0,1,2
+2022-04-09,2021-2022,La Liga,Real Madrid,Getafe,Home,2,0,W,Éder Militão,Yes,CB,90,0,0,3,0,0,0,0,0,0,1,1
+2022-04-17,2021-2022,La Liga,Real Madrid,Sevilla,Away,3,2,W,Éder Militão,Yes,CB,90,0,0,2,1,0,0,0,0,0,0,0
+2022-04-20,2021-2022,La Liga,Real Madrid,Osasuna,Away,3,1,W,Éder Militão,Yes,CB,90,0,0,0,0,1,0,1,0,0,0,2
+2022-05-08,2021-2022,La Liga,Real Madrid,Atlético Madrid,Away,0,1,L,Éder Militão,Yes,CB,67,0,0,0,0,0,0,0,0,0,0,1
+2022-05-15,2021-2022,La Liga,Real Madrid,Cádiz,Away,1,1,D,Éder Militão,Yes,CB,90,0,0,1,0,0,0,3,0,0,1,0
+2022-05-20,2021-2022,La Liga,Real Madrid,Real Betis,Home,0,0,D,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,0,2,2
+2022-08-20,2022-2023,La Liga,Real Madrid,Celta Vigo,Away,4,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,2,0,0,0,2
+2022-08-28,2022-2023,La Liga,Real Madrid,Espanyol,Away,3,1,W,Éder Militão,Yes,CB,90,0,0,1,0,0,0,0,0,0,1,1
+2022-09-03,2022-2023,La Liga,Real Madrid,Real Betis,Home,2,1,W,Éder Militão,Yes,CB,90,0,0,1,0,0,0,0,0,0,1,2
+2022-09-18,2022-2023,La Liga,Real Madrid,Atlético Madrid,Away,2,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,0,2,1
+2022-10-02,2022-2023,La Liga,Real Madrid,Osasuna,Home,1,1,D,Éder Militão,No,NA,17,0,0,0,0,0,0,1,0,0,0,1
+2022-10-08,2022-2023,La Liga,Real Madrid,Getafe,Away,1,0,W,Éder Militão,Yes,CB,82,1,0,1,1,0,0,1,0,0,2,2
+2022-10-16,2022-2023,La Liga,Real Madrid,Barcelona,Home,3,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,3,0,0,0,0
+2022-10-19,2022-2023,La Liga,Real Madrid,Elche,Away,3,0,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,3,0,0,0,2
+2022-10-22,2022-2023,La Liga,Real Madrid,Sevilla,Home,3,1,W,Éder Militão,Yes,CB,90,0,0,1,0,0,0,1,0,1,0,1
+2022-10-30,2022-2023,La Liga,Real Madrid,Girona,Home,1,1,D,Éder Militão,No,NA,4,0,0,0,0,0,0,0,0,0,1,0
+2022-11-07,2022-2023,La Liga,Real Madrid,Rayo Vallecano,Away,2,3,L,Éder Militão,Yes,CB,90,1,0,2,1,0,0,0,0,1,0,0
+2022-11-10,2022-2023,La Liga,Real Madrid,Cádiz,Home,2,1,W,Éder Militão,Yes,CB,90,1,0,2,1,1,0,1,0,0,2,1
+2023-01-07,2022-2023,La Liga,Real Madrid,Villarreal,Away,1,2,L,Éder Militão,Yes,RB,90,0,0,2,0,0,0,1,0,3,0,1
+2023-01-22,2022-2023,La Liga,Real Madrid,Athletic Club,Away,2,0,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,0,0,0,1,3
+2023-01-29,2022-2023,La Liga,Real Madrid,Real Sociedad,Home,0,0,D,Éder Militão,Yes,CB,90,0,0,2,1,0,0,1,0,0,4,1
+2023-02-02,2022-2023,La Liga,Real Madrid,Valencia,Home,2,0,W,Éder Militão,Yes,CB,35,0,0,0,0,0,0,1,0,0,0,0
+2023-02-15,2022-2023,La Liga,Real Madrid,Elche,Home,4,0,W,Éder Militão,Yes,CB,90,0,0,1,0,0,0,0,0,0,2,0
+2023-02-18,2022-2023,La Liga,Real Madrid,Osasuna,Away,2,0,W,Éder Militão,Yes,CB,90,0,0,1,0,0,0,2,1,0,1,2
+2023-02-25,2022-2023,La Liga,Real Madrid,Atlético Madrid,Home,1,1,D,Éder Militão,Yes,CB,90,0,0,0,0,1,0,2,0,3,0,1
+2023-03-05,2022-2023,La Liga,Real Madrid,Real Betis,Away,0,0,D,Éder Militão,Yes,CB,90,0,0,1,1,1,0,1,0,0,3,4
+2023-03-11,2022-2023,La Liga,Real Madrid,Espanyol,Home,3,1,W,Éder Militão,Yes,CB,90,1,0,1,1,0,0,1,0,0,0,0
+2023-03-19,2022-2023,La Liga,Real Madrid,Barcelona,Away,1,2,L,Éder Militão,Yes,CB,90,0,0,0,0,0,0,2,0,0,1,2
+2023-04-02,2022-2023,La Liga,Real Madrid,Valladolid,Home,6,0,W,Éder Militão,Yes,CB,90,0,0,2,0,0,0,4,0,0,1,2
+2023-04-08,2022-2023,La Liga,Real Madrid,Villarreal,Home,2,3,L,Éder Militão,No,NA,45,0,0,0,0,0,0,0,0,0,0,0
+2023-04-15,2022-2023,La Liga,Real Madrid,Cádiz,Away,2,0,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,0,0,0,1,1
+2023-04-22,2022-2023,La Liga,Real Madrid,Celta Vigo,Home,2,0,W,Éder Militão,Yes,CB,90,1,0,1,1,0,0,0,0,0,0,0
+2023-04-25,2022-2023,La Liga,Real Madrid,Girona,Away,2,4,L,Éder Militão,Yes,CB,90,0,0,0,0,1,0,1,0,0,2,1
+2023-04-29,2022-2023,La Liga,Real Madrid,Almería,Home,4,2,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,0,0,0,1,2
+2023-05-02,2022-2023,La Liga,Real Madrid,Real Sociedad,Away,0,2,L,Éder Militão,Yes,CB,90,0,0,3,2,0,0,0,0,0,1,0
+2023-05-13,2022-2023,La Liga,Real Madrid,Getafe,Home,1,0,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,1,0,1,2,2
+2023-05-21,2022-2023,La Liga,Real Madrid,Valencia,Away,0,1,L,Éder Militão,Yes,CB,90,0,0,0,0,0,0,0,0,1,0,0
+2023-05-27,2022-2023,La Liga,Real Madrid,Sevilla,Away,2,1,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,2,0,0,1,5
+2023-06-04,2022-2023,La Liga,Real Madrid,Athletic Club,Home,1,1,D,Éder Militão,Yes,CB,90,0,0,0,0,0,0,3,0,0,2,1
+2023-08-12,2023-2024,La Liga,Real Madrid,Athletic Club,Away,2,0,W,Éder Militão,Yes,CB,49,0,0,0,0,0,0,0,0,0,0,0
+2024-03-31,2023-2024,La Liga,Real Madrid,Athletic Club,Home,2,0,W,Éder Militão,No,NA,1,0,0,0,0,0,0,0,0,0,0,0
+2024-04-13,2023-2024,La Liga,Real Madrid,Mallorca,Away,1,0,W,Éder Militão,No,NA,1,0,0,0,0,0,0,0,0,0,0,0
+2024-04-21,2023-2024,La Liga,Real Madrid,Barcelona,Home,3,2,W,Éder Militão,No,NA,17,0,0,0,0,0,0,0,1,0,1,0
+2024-04-26,2023-2024,La Liga,Real Madrid,Real Sociedad,Away,1,0,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,0,1,0,1,2
+2024-05-04,2023-2024,La Liga,Real Madrid,Cádiz,Home,3,0,W,Éder Militão,Yes,CB,90,0,0,2,2,0,0,1,0,1,0,0
+2024-05-11,2023-2024,La Liga,Real Madrid,Granada,Away,4,0,W,Éder Militão,Yes,CB,90,0,0,0,0,0,0,2,0,0,0,2
+2024-05-14,2023-2024,La Liga,Real Madrid,Alavés,Home,5,0,W,Éder Militão,Yes,CB,71,0,0,0,0,0,0,1,3,0,0,0
+2024-05-19,2023-2024,La Liga,Real Madrid,Villarreal,Away,4,4,D,Éder Militão,Yes,CB,60,0,0,0,0,0,0,1,1,0,0,3
+2024-05-25,2023-2024,La Liga,Real Madrid,Real Betis,Home,0,0,D,Éder Militão,No,NA,27,0,0,0,0,0,0,0,0,0,0,0
+2024-08-18,2024-2025,La Liga,Real Madrid,Mallorca,Away,1,1,D,Éder Militão,Yes,CB,90,0,0,1,0,0,0,0,0,0,2,0
+2024-08-25,2024-2025,La Liga,Real Madrid,Valladolid,Home,3,0,W,Éder Militão,Yes,CB,90,0,1,0,0,0,0,3,1,1,1,
+2024-08-29,2024-2025,La Liga,Real Madrid,Las Palmas,Away,1,1,D,Éder Militão,Yes,CB,90,0,0,0,0,1,0,2,1,0,2,1
+2024-09-01,2024-2025,La Liga,Real Madrid,Real Betis,Home,2,0,W,Éder Militão,Yes,CB,90,0,0,3,1,0,0,2,1,0,0,2
+2024-09-14,2024-2025,La Liga,Real Madrid,Real Sociedad,Away,2,0,W,Éder Militão,Yes,CB,90,0,0,1,1,0,0,3,0,0,3,1
+2024-09-21,2024-2025,La Liga,Real Madrid,Espanyol,Home,4,1,W,Éder Militão,Yes,CB,90,0,0,3,0,0,0,0,0,1,2,1
+2024-09-24,2024-2025,La Liga,Real Madrid,Alavés,Home,3,2,W,Éder Militão,Yes,CB,79,0,0,0,0,0,0,1,0,0,1,0
+2024-09-29,2024-2025,La Liga,Real Madrid,Atlético Madrid,Away,1,1,D,Éder Militão,Yes,CB,90,1,0,1,1,0,0,2,1,0,1,1
+2024-10-05,2024-2025,La Liga,Real Madrid,Villarreal,Home,2,0,W,Éder Militão,No,NA,20,0,0,0,0,0,0,0,0,0,0,1
+2024-10-19,2024-2025,La Liga,Real Madrid,Celta Vigo,Away,2,1,W,Éder Militão,Yes,CB,90,0,0,1,0,0,0,1,2,0,2,1
+2024-10-26,2024-2025,La Liga,Real Madrid,Barcelona,Home,0,4,L,Éder Militão,Yes,CB,90,0,0,1,0,1,0,4,2,0,3,2
+2024-11-09,2024-2025,La Liga,Real Madrid,Osasuna,Home,4,0,W,Éder Militão,Yes,CB,29,0,0,0,0,0,0,0,0,0,0,0

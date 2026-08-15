@@ -1021,7 +1021,41 @@ SCORE_MODEL_BUILDERS = {
 }
 
 
+def ensemble_scoreline_matrix(lam_h, lam_a, max_goals=MAX_GOALS_DEFAULT, weights=None, **kwargs):
+    """
+    Blend all four score-distribution models into a single probability matrix
+    by taking a (weighted) average, instead of picking one model manually.
+    weights: optional dict like {"dixon_coles": 2, "bivariate_poisson": 1, ...}.
+             Any model left out gets weight 0. Defaults to equal weights.
+    """
+    default_weights = {
+        "dixon_coles": 1.0,
+        "independent_poisson": 1.0,
+        "bivariate_poisson": 1.0,
+        "negative_binomial": 1.0,
+    }
+    weights = {**default_weights, **(weights or {})}
+
+    combined = np.zeros((max_goals + 1, max_goals + 1))
+    total_w = 0.0
+    for name, w in weights.items():
+        if w <= 0 or name not in SCORE_MODEL_BUILDERS:
+            continue
+        mat = scoreline_matrix(lam_h, lam_a, model=name, max_goals=max_goals, **kwargs)
+        combined += w * mat
+        total_w += w
+
+    if total_w > 0:
+        combined /= total_w
+    return combined
+
+
 def scoreline_matrix(lam_h, lam_a, model="dixon_coles", max_goals=MAX_GOALS_DEFAULT, **kwargs):
+    if model == "ensemble":
+        return ensemble_scoreline_matrix(lam_h, lam_a, max_goals=max_goals,
+                                          weights=kwargs.get("weights"), **{
+                                              k: v for k, v in kwargs.items() if k != "weights"
+                                          })
     builder = SCORE_MODEL_BUILDERS.get(model, dixon_coles_matrix)
     if model == "dixon_coles":
         return builder(lam_h, lam_a, rho=kwargs.get("rho", -0.08), max_goals=max_goals)

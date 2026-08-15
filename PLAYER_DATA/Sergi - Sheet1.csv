@@ -1,0 +1,37 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2024-08-17,2024-2025,La Liga,Leganés,Osasuna,Away,1,1,D,Sergi,Y,CB,90,0,0,0,0,0,0,1,0,0,0,1
+2024-08-25,2024-2025,La Liga,Leganés,Las Palmas,Home,2,1,W,Sergi,Y,CB,90,0,0,0,0,0,0,1,0,0,0,1
+2024-08-28,2024-2025,La Liga,Leganés,Valladolid,Away,0,0,D,Sergi,Y,CB,90,0,0,0,0,1,0,2,1,1,0,1
+2024-08-31,2024-2025,La Liga,Leganés,Mallorca,Home,0,1,L,Sergi,Y,CB,90,0,0,0,0,0,0,1,0,1,0,1
+2024-09-13,2024-2025,La Liga,Leganés,Real Betis,Away,0,2,L,Sergi,Y,CB,90,0,0,0,0,0,0,1,2,0,0,3
+2024-09-19,2024-2025,La Liga,Leganés,Athletic Club,Home,0,2,L,Sergi,Y,CB,90,0,0,1,0,0,0,0,1,0,0,3
+2024-09-22,2024-2025,La Liga,Leganés,Getafe,Away,1,1,D,Sergi,Y,CB,90,0,0,0,0,0,0,0,1,0,0,0
+2024-09-28,2024-2025,La Liga,Leganés,Rayo Vallecano,Away,1,1,D,Sergi,Y,CB,90,0,0,3,1,0,0,1,0,0,0,1
+2024-10-04,2024-2025,La Liga,Leganés,Valencia,Home,0,0,D,Sergi,Y,CB,90,0,0,0,0,0,0,0,2,1,0,0
+2024-10-20,2024-2025,La Liga,Leganés,Atlético Madrid,Away,1,3,L,Sergi,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0
+2024-10-27,2024-2025,La Liga,Leganés,Celta Vigo,Home,3,0,W,Sergi,N,-,45,1,0,1,1,0,0,1,0,0,0,0
+2024-11-02,2024-2025,La Liga,Leganés,Girona,Away,3,4,L,Sergi,Y,CB,87,0,0,0,0,0,0,0,2,0,0,0
+2024-11-09,2024-2025,La Liga,Leganés,Sevilla,Home,1,0,W,Sergi,Y,CB,90,0,0,0,0,1,0,1,0,0,0,3
+2024-11-24,2024-2025,La Liga,Leganés,Real Madrid,Home,0,3,L,Sergi,Y,CB,90,0,0,0,0,0,0,0,2,0,0,2
+2024-11-30,2024-2025,La Liga,Leganés,Alavés,Away,1,1,D,Sergi,Y,CB,90,0,0,0,0,0,0,0,3,0,0,0
+2024-12-08,2024-2025,La Liga,Leganés,Real Sociedad,Home,0,3,L,Sergi,Y,CB,90,0,0,0,0,0,0,0,1,0,1,1
+2024-12-15,2024-2025,La Liga,Leganés,Barcelona,Away,1,0,W,Sergi,Y,CB,90,1,0,1,1,0,0,1,0,0,0,0
+2024-12-22,2024-2025,La Liga,Leganés,Villarreal,Home,2,5,L,Sergi,Y,CB,90,0,0,0,0,0,0,0,0,0,1,1
+2025-01-11,2024-2025,La Liga,Leganés,Espanyol,Away,1,1,D,Sergi,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0
+2025-01-18,2024-2025,La Liga,Leganés,Atlético Madrid,Home,1,0,W,Sergi,Y,CB,90,0,0,0,0,0,0,0,2,0,0,0
+2025-01-26,2024-2025,La Liga,Leganés,Athletic Club,Away,0,0,D,Sergi,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0
+2025-01-31,2024-2025,La Liga,Leganés,Rayo Vallecano,Home,0,1,L,Sergi,Y,CB,44,0,0,1,0,0,1,1,0,0,0,0
+2025-02-15,2024-2025,La Liga,Leganés,Alavés,Home,3,3,D,Sergi,Y,CB,90,0,0,1,0,0,0,0,1,0,0,0
+2025-02-23,2024-2025,La Liga,Leganés,Real Sociedad,Away,0,3,L,Sergi,Y,CB,90,0,0,1,0,0,0,1,0,0,2,0
+2025-03-02,2024-2025,La Liga,Leganés,Getafe,Home,1,0,W,Sergi,Y,CB,90,0,0,1,0,0,0,2,0,0,3,2
+2025-03-08,2024-2025,La Liga,Leganés,Celta Vigo,Away,1,2,L,Sergi,Y,CB,82,0,0,0,0,0,0,1,0,0,2,0
+2025-03-16,2024-2025,La Liga,Leganés,Real Betis,Home,2,3,L,Sergi,Y,CB,84,0,0,1,1,0,0,0,1,0,0,1
+2025-03-29,2024-2025,La Liga,Leganés,Real Madrid,Away,2,3,L,Sergi,Y,CB,90,0,0,0,0,0,0,1,0,0,0,2
+2025-04-07,2024-2025,La Liga,Leganés,Osasuna,Home,1,1,D,Sergi,Y,CB,90,0,0,1,1,0,0,1,1,0,0,0
+2025-04-12,2024-2025,La Liga,Leganés,Barcelona,Home,0,1,L,Sergi,Y,CB,90,0,0,1,0,0,0,0,0,0,1,2
+2025-04-19,2024-2025,La Liga,Leganés,Mallorca,Away,0,0,D,Sergi,Y,CB,90,0,0,0,0,0,0,1,0,0,1,0
+2025-04-24,2024-2025,La Liga,Leganés,Girona,Home,1,1,D,Sergi,Y,CB,64,0,0,0,0,0,0,0,2,0,0,1
+2025-05-04,2024-2025,La Liga,Leganés,Sevilla,Away,2,2,D,Sergi,Y,CB,80,0,0,0,0,0,0,0,0,0,1,0
+2025-05-14,2024-2025,La Liga,Leganés,Villarreal,Away,0,3,L,Sergi,N,-,28,0,0,0,0,0,0,0,1,0,0,0
+2025-05-18,2024-2025,La Liga,Leganés,Las Palmas,Away,1,0,W,Sergi,N,-,13,0,0,0,0,0,0,1,1,0,0,0
+2025-05-24,2024-2025,La Liga,Leganés,Valladolid,Home,3,0,W,Sergi,Y,CB,90,0,0,0,0,0,0,0,1,0,1,1

@@ -1,0 +1,52 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2023-02-12,2022-2023,La Liga,Valladolid,Osasuna,Home,0,0,D,Selim Amallah,N,,16,0,0,1,0,0,0,2,0,0,1,1
+2023-02-26,2022-2023,La Liga,Valladolid,Celta Vigo,Away,0,3,L,Selim Amallah,N,,38,0,0,0,0,0,1,0,1,0,1,0
+2023-04-02,2022-2023,La Liga,Valladolid,Real Madrid,Away,0,6,L,Selim Amallah,N,,21,0,0,1,0,0,0,0,0,0,0,0
+2023-04-09,2022-2023,La Liga,Valladolid,Mallorca,Home,3,3,D,Selim Amallah,N,,74,1,0,1,1,0,0,2,0,1,0,0
+2023-04-15,2022-2023,La Liga,Valladolid,Villarreal,Away,2,1,W,Selim Amallah,Y,AM,56,1,1,2,1,1,0,5,1,0,3,1
+2023-04-22,2022-2023,La Liga,Valladolid,Girona,Home,1,0,W,Selim Amallah,Y,FW,69,0,0,0,0,1,0,2,0,1,1,2
+2023-04-27,2022-2023,La Liga,Valladolid,Valencia,Away,1,2,L,Selim Amallah,Y,CM,43,0,0,0,0,0,0,2,3,0,2,1
+2023-09-02,2023-2024,La Liga,Valencia,Alavés,Away,0,1,L,Selim Amallah,No,Sub,21,0,0,0,0,0,0,1,0,0,0,0
+2023-09-16,2023-2024,La Liga,Valencia,Atlético Madrid,Home,3,0,W,Selim Amallah,No,Sub,21,0,0,0,0,0,0,0,0,0,0,1
+2023-09-23,2023-2024,La Liga,Valencia,Almería,Away,2,2,D,Selim Amallah,No,Sub,26,0,0,1,1,0,0,0,0,1,2,0
+2023-09-27,2023-2024,La Liga,Valencia,Real Sociedad,Home,0,1,L,Selim Amallah,Yes,AM,44,0,0,1,1,1,0,3,1,0,0,0
+2023-10-07,2023-2024,La Liga,Valencia,Mallorca,Away,1,1,D,Selim Amallah,Yes,FW,90,0,0,2,0,0,0,3,0,0,4,1
+2023-10-23,2023-2024,La Liga,Valencia,Cádiz,Home,2,0,W,Selim Amallah,Yes,AM,64,0,1,0,0,0,0,3,0,0,0,0
+2023-10-29,2023-2024,La Liga,Valencia,Athletic Club,Away,2,2,D,Selim Amallah,Yes,LM,58,0,0,3,2,1,0,1,0,0,3,3
+2023-11-05,2023-2024,La Liga,Valencia,Granada,Home,1,0,W,Selim Amallah,Yes,LM,23,0,0,0,0,0,0,0,0,0,0,0
+2023-11-25,2023-2024,La Liga,Valencia,Celta Vigo,Home,0,0,D,Selim Amallah,No,Sub,27,0,0,1,0,1,0,2,0,1,0,2
+2023-12-02,2023-2024,La Liga,Valencia,Girona,Away,1,2,L,Selim Amallah,No,Sub,7,0,0,0,0,0,0,0,0,0,0,1
+2023-12-16,2023-2024,La Liga,Valencia,Barcelona,Home,1,1,D,Selim Amallah,No,Sub,19,0,0,0,0,0,0,0,0,0,0,0
+2023-12-19,2023-2024,La Liga,Valencia,Rayo Vallecano,Away,1,0,W,Selim Amallah,Yes,FW,89,0,0,2,0,1,0,2,0,1,0,1
+2024-02-03,2023-2024,La Liga,Valencia,Almería,Home,2,1,W,Selim Amallah,No,Sub,1,0,0,0,0,0,0,1,0,0,1,0
+2024-02-10,2023-2024,La Liga,Valencia,Las Palmas,Away,0,2,L,Selim Amallah,Yes,FW,66,0,0,0,0,0,0,2,0,0,2,0
+2024-03-02,2023-2024,La Liga,Valencia,Real Madrid,Home,2,2,D,Selim Amallah,No,Sub,18,0,0,0,0,0,0,1,0,0,0,0
+2024-03-09,2023-2024,La Liga,Valencia,Getafe,Home,1,0,W,Selim Amallah,No,Sub,7,0,0,0,0,0,0,0,0,0,0,0
+2024-03-30,2023-2024,La Liga,Valencia,Mallorca,Home,0,0,D,Selim Amallah,No,Sub,11,0,0,1,1,0,0,0,0,0,0,1
+2024-04-15,2023-2024,La Liga,Valencia,Osasuna,Away,1,0,W,Selim Amallah,No,Sub,3,0,0,0,0,0,0,0,0,0,0,0
+2024-05-12,2023-2024,La Liga,Valencia,Rayo Vallecano,Home,0,0,D,Selim Amallah,No,Sub,3,0,0,0,0,0,0,1,0,0,0,0
+2024-05-16,2023-2024,La Liga,Valencia,Real Sociedad,Away,0,1,L,Selim Amallah,No,Sub,6,0,0,0,0,0,0,1,0,0,0,0
+2024-08-19,2024-2025,La Liga,Valladolid,Espanyol,Home,1,0,W,Selim Amallah,Y,CM,68,0,0,2,0,0,0,2,0,3,1,1
+2024-08-25,2024-2025,La Liga,Valladolid,Real Madrid,Away,0,3,L,Selim Amallah,N,,32,0,0,1,0,0,0,0,0,0,1,0
+2024-08-28,2024-2025,La Liga,Valladolid,Leganés,Home,0,0,D,Selim Amallah,Y,CM,89,0,0,3,2,0,0,1,0,4,2,1
+2024-08-31,2024-2025,La Liga,Valladolid,Barcelona,Away,0,7,L,Selim Amallah,Y,AM,56,0,0,0,0,0,0,0,0,0,0,0
+2024-09-15,2024-2025,La Liga,Valladolid,Celta Vigo,Away,1,3,L,Selim Amallah,Y,CM,84,0,1,0,0,1,0,1,0,2,0,3
+2024-09-21,2024-2025,La Liga,Valladolid,Real Sociedad,Home,0,0,D,Selim Amallah,Y,AM,45,0,0,1,0,0,0,2,0,1,0,0
+2024-10-05,2024-2025,La Liga,Valladolid,Rayo Vallecano,Home,1,2,L,Selim Amallah,Y,CM,82,1,0,3,2,0,0,2,0,0,2,0
+2024-10-18,2024-2025,La Liga,Valladolid,Alavés,Away,3,2,W,Selim Amallah,Y,FW,73,1,0,3,1,0,0,0,0,4,1,1
+2024-10-26,2024-2025,La Liga,Valladolid,Villarreal,Home,1,2,L,Selim Amallah,Y,AM,78,0,0,1,0,0,0,4,0,3,0,1
+2024-11-02,2024-2025,La Liga,Valladolid,Osasuna,Away,0,1,L,Selim Amallah,Y,AM,57,0,0,2,1,0,0,2,0,1,0,0
+2024-11-30,2024-2025,La Liga,Valladolid,Atlético Madrid,Home,0,5,L,Selim Amallah,Y,CM,11,0,0,0,0,0,0,1,0,0,0,0
+2024-12-20,2024-2025,La Liga,Valladolid,Girona,Away,0,3,L,Selim Amallah,N,,30,0,0,0,0,0,0,2,0,0,1,0
+2025-01-17,2024-2025,La Liga,Valladolid,Espanyol,Away,1,2,L,Selim Amallah,N,,34,0,0,1,0,1,0,1,0,0,0,0
+2025-01-25,2024-2025,La Liga,Valladolid,Real Madrid,Home,0,3,L,Selim Amallah,Y,CM,90,0,0,0,0,1,0,1,0,3,0,0
+2025-02-01,2024-2025,La Liga,Valladolid,Villarreal,Away,1,5,L,Selim Amallah,Y,AM,90,1,0,1,1,1,0,4,0,6,2,0
+2025-02-16,2024-2025,La Liga,Valladolid,Sevilla,Home,0,4,L,Selim Amallah,N,,45,0,0,0,0,1,0,2,0,2,1,0
+2025-02-28,2024-2025,La Liga,Valladolid,Las Palmas,Home,1,1,D,Selim Amallah,Y,AM,57,0,0,1,0,0,0,1,0,0,3,0
+2025-03-08,2024-2025,La Liga,Valladolid,Valencia,Away,1,2,L,Selim Amallah,N,,26,0,0,1,0,0,0,0,0,0,0,0
+2025-03-29,2024-2025,La Liga,Valladolid,Real Sociedad,Away,1,2,L,Selim Amallah,Y,AM,61,0,0,0,0,1,0,3,1,1,0,0
+2025-04-14,2024-2025,La Liga,Valladolid,Atlético Madrid,Away,2,4,L,Selim Amallah,N,,9,0,0,0,0,0,0,0,0,0,0,1
+2024-04-24,2024-2025,La Liga,Valladolid,Real Betis,Away,1,5,L,Selim Amallah,Y,AM,70,0,0,0,0,0,0,2,0,1,0,2
+2025-05-03,2024-2025,La Liga,Valladolid,Barcelona,Home,1,2,L,Selim Amallah,Y,CM,71,0,0,0,0,0,0,0,0,0,2,4
+2025-05-10,2024-2025,La Liga,Valladolid,Mallorca,Away,1,2,L,Selim Amallah,Y,AM,73,0,0,2,1,0,0,1,0,0,2,0
+2025-05-18,2024-2025,La Liga,Valladolid,Alavés,Home,0,1,L,Selim Amallah,Y,CM,45,0,0,1,0,0,0,2,0,0,1,0

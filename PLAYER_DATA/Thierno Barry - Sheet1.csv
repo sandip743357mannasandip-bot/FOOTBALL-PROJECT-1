@@ -1,0 +1,36 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2024-08-23,2024-2025,La Liga,Villarreal,Sevilla,Away,2,1,W,Thierno Barry,N,FW,26,0,0,0,0,0,0,1,0,1,0,0
+2024-08-26,2024-2025,La Liga,Villarreal,Celta Vigo,Home,4,3,W,Thierno Barry,N,FW,32,1,0,2,1,0,0,0,1,0,0,0
+2024-08-31,2024-2025,La Liga,Villarreal,Valencia,Away,1,1,D,Thierno Barry,Y,FW,90,0,0,1,1,0,0,3,4,0,0,0
+2024-09-14,2024-2025,La Liga,Villarreal,Mallorca,Away,2,1,W,Thierno Barry,Y,FW,90,0,0,5,1,1,0,2,2,1,0,0
+2024-09-22,2024-2025,La Liga,Villarreal,Barcelona,Home,1,5,L,Thierno Barry,N,FW,28,0,0,1,0,0,0,0,1,1,0,0
+2024-09-26,2024-2025,La Liga,Villarreal,Espanyol,Away,2,1,W,Thierno Barry,Y,FW,90,0,0,6,1,0,0,4,1,0,0,0
+2024-09-30,2024-2025,La Liga,Villarreal,Las Palmas,Home,3,1,W,Thierno Barry,Y,FW,90,1,1,2,1,0,0,2,0,4,0,0
+2024-10-05,2024-2025,La Liga,Villarreal,Real Madrid,Away,0,2,L,Thierno Barry,Y,FW,90,0,0,3,0,0,0,1,3,2,0,0
+2024-10-20,2024-2025,La Liga,Villarreal,Getafe,Home,1,1,D,Thierno Barry,Y,FW,90,0,1,1,0,0,0,3,3,1,0,0
+2024-10-26,2024-2025,La Liga,Villarreal,Valladolid,Away,2,1,W,Thierno Barry,Y,FW,69,1,0,4,2,0,0,1,2,0,0,0
+2024-11-09,2024-2025,La Liga,Villarreal,Alavés,Home,3,0,W,Thierno Barry,N,FW,18,0,0,1,0,0,0,2,2,0,0,0
+2024-11-24,2024-2025,La Liga,Villarreal,Osasuna,Away,2,2,D,Thierno Barry,Y,FW,90,0,0,4,1,0,0,0,3,3,1,0
+2024-12-01,2024-2025,La Liga,Villarreal,Girona,Home,2,2,D,Thierno Barry,Y,FW,71,1,0,3,2,0,0,0,1,0,3,0
+2024-12-08,2024-2025,La Liga,Villarreal,Athletic Club,Away,0,2,L,Thierno Barry,Y,FW,45,0,0,0,0,0,0,0,0,0,0,0
+2024-12-15,2024-2025,La Liga,Villarreal,Real Betis,Home,1,2,L,Thierno Barry,N,FW,34,0,0,6,1,0,0,1,0,1,0,0
+2024-12-18,2024-2025,La Liga,Villarreal,Rayo Vallecano,Home,1,1,D,Thierno Barry,Y,FW,73,0,0,1,0,0,0,0,1,1,0,0
+2024-12-22,2024-2025,La Liga,Villarreal,Leganés,Away,5,2,W,Thierno Barry,Y,FW,90,3,0,5,4,1,0,1,2,0,1,0
+2025-01-13,2024-2025,La Liga,Villarreal,Real Sociedad,Away,0,1,L,Thierno Barry,Y,FW,90,0,0,3,1,0,0,2,2,1,1,0
+2025-01-20,2024-2025,La Liga,Villarreal,Mallorca,Home,4,0,W,Thierno Barry,Y,FW,75,0,1,0,0,0,0,0,1,0,0,0
+2025-01-25,2024-2025,La Liga,Villarreal,Atlético Madrid,Away,1,1,D,Thierno Barry,Y,FW,67,0,0,2,0,0,0,2,1,0,1,0
+2025-02-01,2024-2025,La Liga,Villarreal,Valladolid,Home,5,1,W,Thierno Barry,N,FW,23,1,0,1,1,0,0,0,0,0,0,0
+2025-02-08,2024-2025,La Liga,Villarreal,Las Palmas,Away,2,1,W,Thierno Barry,Y,FW,90,0,0,0,0,0,0,4,1,1,2,0
+2025-02-15,2024-2025,La Liga,Villarreal,Valencia,Home,1,1,D,Thierno Barry,N,FW,16,0,0,0,0,0,0,0,1,0,0,0
+2025-02-22,2024-2025,La Liga,Villarreal,Rayo Vallecano,Away,1,0,W,Thierno Barry,Y,FW,79,0,0,1,0,1,0,0,3,0,0,0
+2025-03-08,2024-2025,La Liga,Villarreal,Alavés,Away,0,1,L,Thierno Barry,N,FW,20,0,0,1,0,0,0,1,0,0,0,0
+2025-03-15,2024-2025,La Liga,Villarreal,Real Madrid,Home,1,2,L,Thierno Barry,N,FW,45,0,0,1,0,0,0,0,0,0,1,0
+2025-03-30,2024-2025,La Liga,Villarreal,Getafe,Away,2,1,W,Thierno Barry,Y,FW,75,1,0,1,1,0,0,5,3,0,0,0
+2025-04-06,2024-2025,La Liga,Villarreal,Athletic Club,Home,0,0,D,Thierno Barry,Y,FW,90,0,0,3,1,0,0,2,2,1,0,0
+2025-04-13,2024-2025,La Liga,Villarreal,Real Betis,Away,2,1,W,Thierno Barry,Y,FW,89,1,0,2,1,1,0,2,0,0,0,0
+2025-04-20,2024-2025,La Liga,Villarreal,Real Sociedad,Home,2,2,D,Thierno Barry,Y,FW,90,0,0,10,3,0,0,2,1,0,0,0
+2025-04-23,2024-2025,La Liga,Villarreal,Celta Vigo,Away,0,3,L,Thierno Barry,Y,FW,63,0,0,0,0,0,0,1,1,1,0,0
+2025-04-27,2024-2025,La Liga,Villarreal,Espanyol,Home,1,0,W,Thierno Barry,Y,FW,90,0,0,0,0,0,0,2,1,1,0,0
+2025-05-03,2024-2025,La Liga,Villarreal,Osasuna,Home,4,2,W,Thierno Barry,Y,FW,70,1,0,2,1,0,0,2,6,2,0,0
+2025-05-18,2024-2025,La Liga,Villarreal,Barcelona,Away,3,2,W,Thierno Barry,N,FW,45,0,0,0,0,0,0,1,1,0,0,0
+2025-05-25,2024-2025,La Liga,Villarreal,Sevilla,Home,4,2,W,Thierno Barry,Y,FW,90,1,0,2,1,0,0,1,2,0,0,0

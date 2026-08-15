@@ -1,0 +1,60 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2023-08-26,2023-2024,Serie A,Frosinone,Atalanta,Home,2,1,W,Walid Cheddira,Y,FW,81,0,0,0,0,0,0,1,0,0,0,0
+2023-09-02,2023-2024,Serie A,Frosinone,Udinese,Away,0,0,D,Walid Cheddira,Y,FW,79,0,0,0,2,0,0,0,2,1,0,0
+2023-09-17,2023-2024,Serie A,Frosinone,Sassuolo,Home,4,2,W,Walid Cheddira,Y,FW,90,1,1,3,2,0,0,2,2,4,0,0
+2023-09-22,2023-2024,Serie A,Frosinone,Salernitana,Away,1,1,D,Walid Cheddira,Y,FW,76,0,0,1,1,0,0,1,1,0,1,0
+2023-09-28,2023-2024,Serie A,Frosinone,Fiorentina,Home,1,1,D,Walid Cheddira,Y,FW,81,0,0,1,0,0,0,1,1,0,1,0
+2023-10-01,2023-2024,Serie A,Frosinone,Roma,Away,0,2,L,Walid Cheddira,N,FW,29,0,0,0,0,0,0,0,2,0,0,0
+2023-10-08,2023-2024,Serie A,Frosinone,Hellas Verona,Home,2,1,W,Walid Cheddira,Y,FW,90,0,0,3,0,0,0,0,1,0,0,0
+2023-10-22,2023-2024,Serie A,Frosinone,Bologna,Away,1,2,L,Walid Cheddira,Y,FW,55,0,0,1,1,0,0,0,0,0,0,0
+2023-10-29,2023-2024,Serie A,Frosinone,Cagliari,Away,3,4,L,Walid Cheddira,N,FW,35,0,0,0,0,0,0,1,0,1,0,0
+2023-11-12,2023-2024,Serie A,Frosinone,Inter,Away,0,2,L,Walid Cheddira,N,FW,36,0,0,3,0,0,0,0,0,0,1,0
+2023-11-26,2023-2024,Serie A,Frosinone,Genoa,Home,2,1,W,Walid Cheddira,Y,FW,79,0,0,0,0,0,0,0,2,1,0,0
+2023-12-02,2023-2024,Serie A,Frosinone,Milan,Away,1,3,L,Walid Cheddira,N,FW,5,0,0,0,0,0,0,0,0,0,0,0
+2023-12-10,2023-2024,Serie A,Frosinone,Torino,Home,0,0,D,Walid Cheddira,N,FW,8,0,0,1,0,0,0,1,0,0,0,0
+2023-12-16,2023-2024,Serie A,Frosinone,Lecce,Away,1,2,L,Walid Cheddira,N,FW,1,0,0,1,1,0,0,0,0,0,0,0
+2023-12-23,2023-2024,Serie A,Frosinone,Juventus,Home,1,2,L,Walid Cheddira,N,FW,22,0,0,0,0,0,0,1,0,0,0,0
+2023-12-29,2023-2024,Serie A,Frosinone,Lazio,Away,1,3,L,Walid Cheddira,N,FW,16,0,0,1,0,0,0,1,0,0,0,0
+2024-01-06,2023-2024,Serie A,Frosinone,Monza,Home,2,3,L,Walid Cheddira,Y,FW,59,0,0,1,0,0,0,1,2,0,0,0
+2024-01-15,2023-2024,Serie A,Frosinone,Atalanta,Away,0,5,L,Walid Cheddira,Y,FW,90,0,0,2,2,0,0,0,0,2,0,0
+2024-01-21,2023-2024,Serie A,Frosinone,Cagliari,Home,3,1,W,Walid Cheddira,Y,FW,59,0,0,3,2,0,0,1,2,1,2,0
+2024-01-28,2023-2024,Serie A,Frosinone,Hellas Verona,Away,1,1,D,Walid Cheddira,N,FW,9,0,0,1,0,0,0,0,0,0,0,0
+2024-02-03,2023-2024,Serie A,Frosinone,Milan,Home,2,3,L,Walid Cheddira,N,FW,14,0,0,0,0,0,0,0,0,0,0,0
+2024-02-11,2023-2024,Serie A,Frosinone,Fiorentina,Away,1,5,L,Walid Cheddira,N,FW,13,0,0,0,0,0,0,0,0,0,0,0
+2024-02-18,2023-2024,Serie A,Frosinone,Roma,Home,0,3,L,Walid Cheddira,N,FW,24,0,0,1,1,0,0,0,1,0,0,0
+2024-02-25,2023-2024,Serie A,Frosinone,Juventus,Away,2,3,L,Walid Cheddira,Y,FW,72,1,0,1,1,0,0,1,3,0,0,0
+2024-03-03,2023-2024,Serie A,Frosinone,Lecce,Home,1,1,D,Walid Cheddira,Y,FW,86,1,0,2,2,0,0,0,3,0,1,1
+2024-03-09,2023-2024,Serie A,Frosinone,Sassuolo,Away,0,1,L,Walid Cheddira,Y,FW,82,0,0,0,0,0,0,2,1,0,1,0
+2024-03-16,2023-2024,Serie A,Frosinone,Lazio,Home,2,3,L,Walid Cheddira,Y,FW,89,1,0,5,1,0,0,1,2,1,0,0
+2024-03-30,2023-2024,Serie A,Frosinone,Genoa,Away,1,1,D,Walid Cheddira,Y,FW,82,0,0,0,0,0,0,3,4,0,0,1
+2024-04-07,2023-2024,Serie A,Frosinone,Bologna,Home,0,0,D,Walid Cheddira,Y,FW,76,0,0,3,2,0,0,1,1,0,0,0
+2024-04-14,2023-2024,Serie A,Frosinone,Napoli,Away,2,2,D,Walid Cheddira,Y,FW,90,2,0,3,3,0,0,0,1,2,1,0
+2024-04-21,2023-2024,Serie A,Frosinone,Torino,Away,0,0,D,Walid Cheddira,Y,FW,87,0,0,4,2,0,0,2,3,2,0,1
+2024-04-26,2023-2024,Serie A,Frosinone,Salernitana,Home,3,0,W,Walid Cheddira,Y,FW,77,0,0,2,0,0,0,1,1,1,0,0
+2024-05-05,2023-2024,Serie A,Frosinone,Empoli,Away,0,0,D,Walid Cheddira,Y,AM,72,0,0,6,3,0,0,1,2,0,0,0
+2024-05-10,2023-2024,Serie A,Frosinone,Inter,Home,0,5,L,Walid Cheddira,Y,FW,81,0,0,3,2,0,0,0,3,0,0,1
+2024-05-19,2023-2024,Serie A,Frosinone,Monza,Away,1,0,W,Walid Cheddira,Y,FW,85,1,0,2,1,0,0,2,2,0,0,0
+2024-05-26,2023-2024,Serie A,Frosinone,Udinese,Home,0,1,L,Walid Cheddira,Y,FW,90,0,0,4,0,0,0,2,1,0,1,0
+2024-08-18,2024-2025,Serie A,Napoli,Hellas Verona,Away,0,3,L,Walid Cheddira,N,FW,12,0,0,0,0,0,0,0,0,0,0,0
+2024-08-28,2024-2025,La Liga,Espanyol,Atlético Madrid,Away,0,0,D,Walid Cheddira,N,FW,27,0,0,1,1,0,0,1,1,0,0,0
+2024-08-31,2024-2025,La Liga,Espanyol,Rayo Vallecano,Home,2,1,W,Walid Cheddira,N,FW,20,0,1,0,0,0,0,1,1,0,0,0
+2024-09-14,2024-2025,La Liga,Espanyol,Alavés,Home,3,2,W,Walid Cheddira,N,FW,34,0,0,1,0,0,0,1,1,0,0,0
+2024-09-21,2024-2025,La Liga,Espanyol,Real Madrid,Away,1,4,L,Walid Cheddira,Y,FW,45,0,0,0,0,0,0,0,0,1,0,1
+2024-09-26,2024-2025,La Liga,Espanyol,Villarreal,Home,1,2,L,Walid Cheddira,N,FW,19,0,0,0,0,1,0,1,2,0,0,0
+2024-09-29,2024-2025,La Liga,Espanyol,Real Betis,Away,0,1,L,Walid Cheddira,Y,FW,67,0,0,1,0,0,0,4,4,0,0,0
+2024-10-05,2024-2025,La Liga,Espanyol,Mallorca,Home,2,1,W,Walid Cheddira,N,FW,16,0,0,0,0,0,0,1,2,0,0,0
+2024-10-19,2024-2025,La Liga,Espanyol,Athletic Club,Away,1,4,L,Walid Cheddira,N,FW,45,0,0,0,0,0,0,4,2,0,0,0
+2024-10-25,2024-2025,La Liga,Espanyol,Sevilla,Home,0,2,L,Walid Cheddira,Y,FW,57,0,0,2,0,0,0,1,2,0,0,0
+2024-11-03,2024-2025,La Liga,Espanyol,Barcelona,Away,1,3,L,Walid Cheddira,N,FW,29,0,0,1,0,1,0,4,1,0,0,0
+2024-11-30,2024-2025,La Liga,Espanyol,Celta Vigo,Home,3,1,W,Walid Cheddira,N,FW,24,1,0,1,1,0,0,1,0,0,0,0
+2024-12-09,2024-2025,La Liga,Espanyol,Getafe,Away,0,1,L,Walid Cheddira,N,FW,45,0,0,1,0,0,0,0,0,0,0,0
+2024-12-14,2024-2025,La Liga,Espanyol,Osasuna,Home,0,0,D,Walid Cheddira,N,FW,31,0,0,1,1,0,0,2,1,0,0,0
+2024-12-18,2024-2025,La Liga,Espanyol,Valencia,Home,1,1,D,Walid Cheddira,Y,FW,60,0,0,1,0,0,0,1,2,4,0,0
+2024-12-22,2024-2025,La Liga,Espanyol,Las Palmas,Away,0,1,L,Walid Cheddira,Y,FW,68,0,0,0,0,0,0,3,3,0,0,0
+2025-01-11,2024-2025,La Liga,Espanyol,Leganés,Home,1,1,D,Walid Cheddira,N,FW,1,0,0,0,0,0,0,0,0,0,0,0
+2025-02-09,2024-2025,La Liga,Espanyol,Real Sociedad,Away,1,2,L,Walid Cheddira,N,FW,4,0,0,0,0,0,0,0,1,0,0,0
+2025-03-15,2024-2025,La Liga,Espanyol,Mallorca,Away,1,2,L,Walid Cheddira,N,FW,11,0,0,0,0,0,0,0,1,0,0,0
+2025-04-12,2024-2025,La Liga,Espanyol,Celta Vigo,Away,2,0,W,Walid Cheddira,N,FW,8,0,0,0,0,0,0,1,0,0,0,0
+2025-04-18,2024-2025,La Liga,Espanyol,Getafe,Home,1,0,W,Walid Cheddira,N,FW,1,0,0,0,0,0,0,1,0,1,0,0
+2025-05-11,2024-2025,La Liga,Espanyol,Leganés,Away,2,3,L,Walid Cheddira,N,FW,19,0,0,2,1,0,0,1,3,1,0,0
+2025-05-15,2024-2025,La Liga,Espanyol,Barcelona,Home,0,2,L,Walid Cheddira,N,FW,9,0,0,1,0,1,0,2,0,2,1,0

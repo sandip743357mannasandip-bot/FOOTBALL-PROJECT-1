@@ -1,0 +1,104 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2022-08-14,2022-2023,La Liga,Valencia,Girona,Home,1,0,W,Samuel Lino,Y,FW,73,0,0,1,0,0,0,0,0,3,2,0
+2022-08-21,2022-2023,La Liga,Valencia,Athletic Club,Away,0,1,L,Samuel Lino,Y,FW,90,0,0,1,0,0,0,1,0,2,1,0
+2022-08-29,2022-2023,La Liga,Valencia,Atlético Madrid,Home,0,1,L,Samuel Lino,Y,AM,90,0,0,2,1,0,0,1,0,4,0,0
+2022-09-04,2022-2023,La Liga,Valencia,Getafe,Home,5,1,W,Samuel Lino,Y,FW,90,1,0,6,3,0,0,3,0,2,0,0
+2022-09-10,2022-2023,La Liga,Valencia,Rayo Vallecano,Away,1,2,L,Samuel Lino,Y,AM,90,0,0,5,1,0,0,2,0,1,0,1
+2022-09-17,2022-2023,La Liga,Valencia,Celta Vigo,Home,3,0,W,Samuel Lino,Y,FW,90,0,0,4,1,1,0,1,1,2,0,0
+2022-10-02,2022-2023,La Liga,Valencia,Espanyol,Away,2,2,D,Samuel Lino,Y,FW,90,0,0,2,1,0,0,1,0,3,1,0
+2022-10-07,2022-2023,La Liga,Valencia,Osasuna,Away,2,1,W,Samuel Lino,Y,LM,90,0,0,5,3,0,0,1,2,1,3,0
+2022-10-15,2022-2023,La Liga,Valencia,Elche,Home,2,2,D,Samuel Lino,Y,FW,90,0,0,1,0,0,0,0,1,2,0,1
+2022-10-18,2022-2023,La Liga,Valencia,Sevilla,Away,1,1,D,Samuel Lino,Y,LM,62,0,0,1,1,1,0,3,0,1,0,0
+2022-10-22,2022-2023,La Liga,Valencia,Mallorca,Home,1,2,L,Samuel Lino,Y,FW,90,0,0,2,0,0,0,2,0,7,0,0
+2022-10-29,2022-2023,La Liga,Valencia,Barcelona,Home,0,1,L,Samuel Lino,Y,FW,90,0,0,2,2,1,0,0,0,4,4,2
+2022-11-06,2022-2023,La Liga,Valencia,Real Sociedad,Away,1,1,D,Samuel Lino,Y,FW,90,1,0,3,2,0,0,2,2,4,2,0
+2022-11-10,2022-2023,La Liga,Valencia,Real Betis,Home,3,0,W,Samuel Lino,Y,FW,90,0,0,3,1,0,0,2,1,3,3,0
+2022-12-31,2022-2023,La Liga,Valencia,Villarreal,Away,1,2,L,Samuel Lino,Y,FW,73,0,0,6,2,0,0,1,0,0,1,2
+2023-01-06,2022-2023,La Liga,Valencia,Cádiz,Home,0,1,L,Samuel Lino,Y,FW,90,0,0,1,0,0,0,2,1,6,1,0
+2023-01-23,2022-2023,La Liga,Valencia,Almería,Home,2,2,D,Samuel Lino,Y,FW,90,0,0,1,1,0,0,2,1,3,1,0
+2023-01-29,2022-2023,La Liga,Valencia,Valladolid,Away,0,1,L,Samuel Lino,Y,FW,81,0,0,3,0,0,0,1,0,1,0,0
+2023-02-02,2022-2023,La Liga,Valencia,Real Madrid,Away,0,2,L,Samuel Lino,Y,FW,69,0,0,1,0,0,0,2,0,1,0,0
+2023-02-05,2022-2023,La Liga,Valencia,Girona,Away,0,1,L,Samuel Lino,Y,RW,77,0,0,3,1,0,0,0,0,1,1,1
+2023-02-11,2022-2023,La Liga,Valencia,Athletic Club,Home,1,2,L,Samuel Lino,Y,FW,86,0,0,1,1,0,0,0,2,0,4,1
+2023-02-20,2022-2023,La Liga,Valencia,Getafe,Away,0,1,L,Samuel Lino,Y,FW,68,0,0,4,2,0,0,0,1,0,1,0
+2023-02-25,2022-2023,La Liga,Valencia,Real Sociedad,Home,1,0,W,Samuel Lino,Y,FW,90,0,0,1,0,0,0,2,0,0,1,2
+2023-03-05,2022-2023,La Liga,Valencia,Barcelona,Away,0,1,L,Samuel Lino,Y,LM,77,0,0,3,0,0,0,0,0,1,1,0
+2023-03-11,2022-2023,La Liga,Valencia,Osasuna,Home,1,0,W,Samuel Lino,N,,33,0,1,1,1,0,0,0,0,0,0,0
+2023-03-18,2022-2023,La Liga,Valencia,Atlético Madrid,Away,0,3,L 0–3,Samuel Lino,N,,28,0,0,2,0,0,0,0,0,1,0,0
+2023-04-03,2022-2023,La Liga,Valencia,Rayo Vallecano,Home,1,1,D 1–1,Samuel Lino,Y,FW,90,0,0,5,1,0,0,4,1,1,1,2
+2023-04-09,2022-2023,La Liga,Valencia,Almería,Away,1,2,L 1–2,Samuel Lino,Y,FW,72,0,0,3,0,0,0,2,0,0,2,0
+2023-04-16,2022-2023,La Liga,Valencia,Sevilla,Home,0,2,L 0–2,Samuel Lino,N,,32,0,0,2,1,0,0,2,0,3,0,0
+2023-04-23,2022-2023,La Liga,Valencia,Elche,Away,2,0,W 2–0,Samuel Lino,Y,FW,71,1,0,3,2,0,0,3,0,1,3,1
+2023-04-27,2022-2023,La Liga,Valencia,Valladolid,Home,2,1,W 2–1,Samuel Lino,Y,LM,89,0,0,4,0,0,0,4,1,4,0,0
+2023-04-30,2022-2023,La Liga,Valencia,Cádiz,Away,1,2,L 1–2,Samuel Lino,Y,LM,90,1,0,4,1,0,0,2,0,8,2,0
+2023-05-03,2022-2023,La Liga,Valencia,Villarreal,Home,1,1,D 1–1,Samuel Lino,Y,AM,85,1,0,1,1,1,0,1,0,3,1,1
+2023-05-14,2022-2023,La Liga,Valencia,Celta Vigo,Away,2,1,W 2–1,Samuel Lino,Y,AM,60,0,0,1,1,0,0,2,0,1,1,1
+2023-05-21,2022-2023,La Liga,Valencia,Real Madrid,Home,1,0,W 1–0,Samuel Lino,N,,33,0,0,0,0,0,0,1,1,0,1,0
+2023-05-25,2022-2023,La Liga,Valencia,Mallorca,Away,0,1,L 0–1,Samuel Lino,Y,AM,74,0,0,1,0,0,0,1,0,2,2,0
+2023-05-28,2022-2023,La Liga,Valencia,Espanyol,Home,2,2,D 2–2,Samuel Lino,N,,57,1,0,2,1,0,0,1,0,4,2,1
+2023-06-04,2022-2023,La Liga,Valencia,Real Betis,Away,1,1,D 1–1,Samuel Lino,Y,AM,57,0,0,5,1,0,0,1,0,0,1,2
+2023-08-20,2023-2024,La Liga,Atlético Madrid,Real Betis,Away,0,0,D,Samuel Lino,N,,26,0,0,0,0,0,0,0,2,0,0,0
+2023-08-28,2023-2024,La Liga,Atlético Madrid,Rayo Vallecano,Away,7,0,W,Samuel Lino,N,,23,0,0,0,0,0,0,0,0,0,1,0
+2023-09-24,2023-2024,La Liga,Atlético Madrid,Real Madrid,Home,3,1,W,Samuel Lino,Y,LB,86,0,1,1,0,0,0,0,1,5,0,0
+2023-09-28,2023-2024,La Liga,Atlético Madrid,Osasuna,Away,2,0,W,Samuel Lino,Y,LB,90,0,1,0,0,1,0,1,1,2,1,0
+2023-10-01,2023-2024,La Liga,Atlético Madrid,Cádiz,Home,3,2,W,Samuel Lino,N,,30,0,0,1,1,0,0,0,0,1,0,0
+2023-10-08,2023-2024,La Liga,Atlético Madrid,Real Sociedad,Home,2,1,W,Samuel Lino,Y,LM,78,1,0,1,1,0,0,0,0,1,0,0
+2023-10-21,2023-2024,La Liga,Atlético Madrid,Celta Vigo,Away,3,0,W,Samuel Lino,Y,LM,45,0,0,3,2,0,0,1,3,1,0,0
+2023-11-12,2023-2024,La Liga,Atlético Madrid,Villarreal,Home,3,1,W,Samuel Lino,N,,26,1,0,3,2,0,0,1,1,0,0,0
+2023-11-25,2023-2024,La Liga,Atlético Madrid,Mallorca,Home,1,0,W,Samuel Lino,Y,DM,70,0,0,2,0,0,0,1,2,2,1,0
+2023-12-03,2023-2024,La Liga,Atlético Madrid,Barcelona,Away,0,1,L,Samuel Lino,N,,45,0,0,0,0,0,0,1,1,0,0,0
+2023-12-10,2023-2024,La Liga,Atlético Madrid,Almería,Home,2,1,W,Samuel Lino,Y,DM,74,0,0,1,0,0,0,0,1,1,0,0
+2023-12-16,2023-2024,La Liga,Atlético Madrid,Athletic Club,Away,0,2,L,Samuel Lino,Y,LM,90,0,0,3,0,0,0,0,3,1,2,0
+2023-12-19,2023-2024,La Liga,Atlético Madrid,Getafe,Home,3,3,D,Samuel Lino,Y,CM,80,0,0,1,0,0,0,1,0,0,1,0
+2023-12-23,2023-2024,La Liga,Atlético Madrid,Sevilla,Home,1,0,W,Samuel Lino,Y,LB,90,0,0,2,1,0,0,0,1,1,1,0
+2024-01-03,2023-2024,La Liga,Atlético Madrid,Girona,Away,3,4,L,Samuel Lino,Y,LW,45,0,0,0,0,0,0,2,0,1,0,0
+2024-01-22,2023-2024,La Liga,Atlético Madrid,Granada,Away,1,0,W,Samuel Lino,N,,45,0,0,1,1,0,0,2,3,0,1,0
+2024-01-28,2023-2024,La Liga,Atlético Madrid,Valencia,Home,2,0,W,Samuel Lino,Y,LM,66,1,0,2,2,0,0,1,3,0,0,0
+2024-01-31,2023-2024,La Liga,Atlético Madrid,Rayo Vallecano,Home,2,1,W,Samuel Lino,N,,33,0,0,1,0,0,0,0,0,1,0,0
+2024-02-04,2023-2024,La Liga,Atlético Madrid,Real Madrid,Away,1,1,D,Samuel Lino,N,,30,0,0,0,0,0,0,0,1,1,0,0
+2024-02-11,2023-2024,La Liga,Atlético Madrid,Sevilla,Away,0,1,L,Samuel Lino,Y,LM,83,0,0,4,1,0,0,1,2,1,0,0
+2024-02-17,2023-2024,La Liga,Atlético Madrid,Las Palmas,Home,5,0,W,Samuel Lino,Y,LB,62,0,0,1,1,0,0,2,0,1,0,0
+2024-02-24,2023-2024,La Liga,Atlético Madrid,Almería,Away,2,2,D,Samuel Lino,Y,LM,45,0,0,2,1,0,0,1,1,1,0,0
+2024-03-03,2023-2024,La Liga,Atlético Madrid,Real Betis,Home,2,1,W 2–1,Samuel Lino,Y,LM,80,0,0,1,1,0,0,0,0,2,3,2
+2024-03-09,2023-2024,La Liga,Atlético Madrid,Cádiz,Away,0,2,L 0–2,Samuel Lino,Y,LB,70,0,0,2,1,0,0,0,1,2,0,0
+2024-03-17,2023-2024,La Liga,Atlético Madrid,Barcelona,Home,0,3,L 0–3,Samuel Lino,Y,LM,45,0,0,0,0,0,0,0,0,2,0,0
+2024-04-01,2023-2024,La Liga,Atlético Madrid,Villarreal,Away,2,1,W 2–1,Samuel Lino,Y,CM,90,0,0,1,1,0,0,2,0,0,0,3
+2024-04-13,2023-2024,La Liga,Atlético Madrid,Girona,Home,3,1,W 3–1,Samuel Lino,N,,23,0,0,1,0,0,0,1,0,0,3,0
+2024-04-21,2023-2024,La Liga,Atlético Madrid,Alavés,Away,0,2,L 0–2,Samuel Lino,Y,LM,90,0,0,4,2,0,0,1,1,3,1,1
+2024-04-27,2023-2024,La Liga,Atlético Madrid,Athletic Club,Home,3,1,W 3–1,Samuel Lino,Y,LM,90,0,0,3,0,0,0,3,0,1,0,0
+2024-05-04,2023-2024,La Liga,Atlético Madrid,Mallorca,Away,1,0,W 1–0,Samuel Lino,Y,AM,82,0,0,2,1,0,0,0,0,0,2,0
+2024-05-12,2023-2024,La Liga,Atlético Madrid,Celta Vigo,Home,1,0,W 1–0,Samuel Lino,Y,AM,45,0,0,3,1,0,0,0,0,1,2,0
+2024-05-15,2023-2024,La Liga,Atlético Madrid,Getafe,Away,3,0,W 3–0,Samuel Lino,Y,LB,75,0,2,0,0,0,0,1,1,1,2,0
+2024-05-19,2023-2024,La Liga,Atlético Madrid,Osasuna,Home,1,4,L 1–4,Samuel Lino,Y,LB,59,0,1,2,0,0,0,1,1,3,0,0
+2024-05-25,2023-2024,La Liga,Atlético Madrid,Real Sociedad,Away,2,0,W 2–0,Samuel Lino,Y,LB,69,1,0,4,1,0,0,1,0,0,0,0
+2024-08-19,2024-2025,La Liga,Atlético Madrid,Villarreal,Away,2,2,D,Samuel Lino,Y,AM,90,0,0,3,1,1,0,3,1,0,1,0
+2024-08-25,2024-2025,La Liga,Atlético Madrid,Girona,Home,3,0,W,Samuel Lino,Y,CM,67,0,0,2,2,0,0,1,0,3,1,0
+2024-08-28,2024-2025,La Liga,Atlético Madrid,Espanyol,Home,0,0,D,Samuel Lino,Y,CM,45,0,0,2,1,0,0,0,0,0,0,1
+2024-08-31,2024-2025,La Liga,Atlético Madrid,Athletic Club,Away,1,0,W,Samuel Lino,Y,DM,69,0,0,2,0,0,0,0,0,0,1,1
+2024-09-15,2024-2025,La Liga,Atlético Madrid,Valencia,Home,3,0,W,Samuel Lino,Y,LB,66,0,1,3,0,0,0,0,0,3,1,1
+2024-09-22,2024-2025,La Liga,Atlético Madrid,Rayo Vallecano,Away,1,1,D,Samuel Lino,Y,LB,45,0,0,1,1,0,0,1,0,0,0,0
+2024-09-29,2024-2025,La Liga,Atlético Madrid,Real Madrid,Home,1,1,D,Samuel Lino,N,,35,0,0,2,1,0,0,0,0,2,0,0
+2024-10-20,2024-2025,La Liga,Atlético Madrid,Leganés,Home,3,1,W,Samuel Lino,N,,45,0,0,1,0,0,0,0,0,2,0,0
+2024-10-27,2024-2025,La Liga,Atlético Madrid,Real Betis,Away,0,1,L,Samuel Lino,Y,LM,69,0,0,0,0,0,0,0,0,0,0,0
+2024-11-03,2024-2025,La Liga,Atlético Madrid,Las Palmas,Home,2,0,W,Samuel Lino,Y,LM,45,0,0,1,0,0,0,1,0,0,0,0
+2024-11-23,2024-2025,La Liga,Atlético Madrid,Alavés,Home,2,1,W,Samuel Lino,Y,LM,63,0,0,2,1,0,0,0,0,4,0,0
+2024-11-30,2024-2025,La Liga,Atlético Madrid,Valladolid,Away,5,0,W,Samuel Lino,N,,12,0,0,0,0,0,0,0,0,0,0,0
+2024-12-08,2024-2025,La Liga,Atlético Madrid,Sevilla,Home,4,3,W,Samuel Lino,N,,16,1,1,1,1,0,0,0,0,2,0,0
+2024-12-15,2024-2025,La Liga,Atlético Madrid,Getafe,Home,1,0,W,Samuel Lino,Y,LM,45,0,0,2,0,0,0,1,0,1,0,0
+2025-01-12,2024-2025,La Liga,Atlético Madrid,Osasuna,Home,1,0,W,Samuel Lino,N,,45,0,0,0,0,1,0,1,0,0,2,1
+2025-01-18,2024-2025,La Liga,Atlético Madrid,Leganés,Away,0,1,L,Samuel Lino,N,,45,0,0,1,0,0,0,0,0,3,0,0
+2025-01-25,2024-2025,La Liga,Atlético Madrid,Villarreal,Home,1,1,D,Samuel Lino,N,,45,1,0,3,2,0,0,0,0,0,0,0
+2025-02-01,2024-2025,La Liga,Atlético Madrid,Mallorca,Home,2,0,W,Samuel Lino,Y,LM,80,1,0,2,1,0,0,1,0,5,0,1
+2025-02-08,2024-2025,La Liga,Atlético Madrid,Real Madrid,Away,1,1,D,Samuel Lino,Y,LM,63,0,0,2,0,0,0,0,0,0,2,2
+2025-02-15,2024-2025,La Liga,Atlético Madrid,Celta Vigo,Home,1,1,D,Samuel Lino,Y,LM,9,0,0,0,0,0,0,0,0,0,1,0
+2025-02-22,2024-2025,La Liga,Atlético Madrid,Valencia,Away,3,0,W,Samuel Lino,Y,LM,45,0,0,1,0,1,0,1,0,1,1,0
+2025-03-01,2024-2025,La Liga,Atlético Madrid,Athletic Club,Home,1,0,W,Samuel Lino,Y,LM,58,0,0,2,1,0,0,0,0,1,1,0
+2025-03-09,2024-2025,La Liga,Atlético Madrid,Getafe,Away,1,2,L,Samuel Lino,Y,LM,45,0,0,0,0,0,0,0,1,1,0,0
+2025-03-16,2024-2025,La Liga,Atlético Madrid,Barcelona,Home,2,4,L,Samuel Lino,Y,LM,59,0,0,1,0,0,0,1,0,2,1,0
+2025-03-29,2024-2025,La Liga,Atlético Madrid,Espanyol,Away,1,1,D,Samuel Lino,Y,LM,45,0,0,1,0,0,0,1,0,0,1,0
+2025-04-24,2024-2025,La Liga,Atlético Madrid,Rayo Vallecano,Home,3,0,W 3–0,Samuel Lino,N,,10,0,0,0,0,0,0,1,0,0,1,0
+2025-05-03,2024-2025,La Liga,Atlético Madrid,Alavés,Away,0,0,D 0–0,Samuel Lino,N,,31,0,0,2,1,0,0,0,0,5,0,0
+2025-05-10,2024-2025,La Liga,Atlético Madrid,Real Sociedad,Home,4,0,W 4–0,Samuel Lino,Y,FW,67,0,1,2,1,0,0,0,1,0,1,0
+2025-05-15,2024-2025,La Liga,Atlético Madrid,Osasuna,Away,0,2,L 0–2,Samuel Lino,N,,45,0,0,0,0,0,0,2,0,4,1,0
+2025-05-18,2024-2025,La Liga,Atlético Madrid,Real Betis,Home,4,1,W 4–1,Samuel Lino,Y,LM,79,0,1,1,1,0,0,0,0,1,1,0
+2025-05-25,2024-2025,La Liga,Atlético Madrid,Girona,Away,4,0,W 4–0,Samuel Lino,Y,LM,69,0,0,5,3,0,0,0,0,1,1,1

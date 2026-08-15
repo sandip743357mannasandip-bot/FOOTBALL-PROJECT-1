@@ -1,0 +1,52 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2022-11-05,2022-2023,La Liga,Celta Vigo,Osasuna,Home,1,2,L,Williot Swedberg,N,N/A,34,0,0,0,0,1,0,1,1,0,0,0
+2023-03-06,2022-2023,La Liga,Celta Vigo,Osasuna,Away,0,0,D,Williot Swedberg,N,N/A,1,0,0,0,0,0,0,0,0,0,0,0
+2023-04-22,2022-2023,La Liga,Celta Vigo,Real Madrid,Away,0,2,L,Williot Swedberg,N,N/A,18,0,0,0,0,0,0,0,0,0,1,0
+2023-05-14,2022-2023,La Liga,Celta Vigo,Valencia,Home,1,2,L,Williot Swedberg,N,N/A,2,0,0,0,0,0,0,0,0,0,0,0
+2023-08-13,2023-2024,La Liga,Celta Vigo,Osasuna,Home,0,2,L,Williot Swedberg,N,N/A,9,0,0,1,0,0,0,0,1,1,0,0
+2023-08-19,2023-2024,La Liga,Celta Vigo,Real Sociedad,Away,1,1,D,Williot Swedberg,N,N/A,1,0,0,0,0,0,0,0,0,0,0,0
+2023-09-01,2023-2024,La Liga,Celta Vigo,Almería,Away,3,2,W,Williot Swedberg,N,N/A,21,1,0,0,1,1,0,0,0,1,0,0
+2023-09-23,2023-2024,La Liga,Celta Vigo,Barcelona,Away,2,3,L,Williot Swedberg,N,N/A,13,0,0,0,0,0,0,0,0,0,1,0
+2023-10-02,2023-2024,La Liga,Celta Vigo,Las Palmas,Away,1,2,L,Williot Swedberg,N,N/A,3,0,0,0,0,0,0,0,0,0,0,0
+2023-11-25,2023-2024,La Liga,Celta Vigo,Valencia,Away,0,0,D,Williot Swedberg,N,N/A,6,0,0,0,0,0,0,0,0,0,0,0
+2024-01-03,2023-2024,La Liga,Celta Vigo,Real Betis,Home,2,1,W,Williot Swedberg,N,N/A,24,1,0,2,1,0,0,1,1,0,0,2
+2024-01-20,2023-2024,La Liga,Celta Vigo,Real Sociedad,Home,0,1,L,Williot Swedberg,N,N/A,15,0,0,0,0,0,0,0,1,0,0,1
+2024-02-17,2023-2024,La Liga,Celta Vigo,Barcelona,Home,1,2,L,Williot Swedberg,N,N/A,14,0,0,0,0,0,0,0,0,0,0,0
+2024-02-25,2023-2024,La Liga,Celta Vigo,Cádiz,Away,2,2,D,Williot Swedberg,N,N/A,27,1,0,1,1,0,0,0,2,0,0,0
+2024-04-20,2023-2024,La Liga,Celta Vigo,Las Palmas,Home,4,1,W,Williot Swedberg,Y,FW,65,1,0,2,2,0,0,1,0,1,0,2
+2024-04-27,2023-2024,La Liga,Celta Vigo,Alavés,Away,0,3,L,Williot Swedberg,N,N/A,37,0,0,0,0,0,0,1,1,0,0,0
+2024-05-05,2023-2024,La Liga,Celta Vigo,Villarreal,Home,3,2,W,Williot Swedberg,Y,FW,64,0,0,3,0,1,0,1,1,0,2,0
+2024-05-15,2023-2024,La Liga,Celta Vigo,Athletic Club,Home,2,1,W,Williot Swedberg,Y,FW,76,1,0,2,1,0,0,1,2,0,2,0
+2024-05-26,2023-2024,La Liga,Celta Vigo,Valencia,Home,2,2,D,Williot Swedberg,Y,FW,64,0,0,0,0,0,0,1,2,0,0,0
+2024-08-16,2024-2025,La Liga,Celta Vigo,Alavés,Home,2,1,W,Williot Swedberg,N,N/A,45,1,1,0,0,0,0,1,1,1,0,0
+2024-08-23,2024-2025,La Liga,Celta Vigo,Valencia,Home,3,1,W,Williot Swedberg,Y,FW,64,0,0,2,1,0,0,0,1,0,2,1
+2024-08-26,2024-2025,La Liga,Celta Vigo,Villarreal,Away,3,4,L,Williot Swedberg,N,N/A,21,0,0,4,3,1,0,2,1,0,0,0
+2024-09-01,2024-2025,La Liga,Celta Vigo,Osasuna,Away,2,3,L,Williot Swedberg,Y,FW,45,0,0,0,0,0,0,0,3,0,0,0
+2024-09-15,2024-2025,La Liga,Celta Vigo,Valladolid,Home,3,1,W,Williot Swedberg,N,N/A,15,0,0,0,0,0,0,0,2,0,0,0
+2024-09-22,2024-2025,La Liga,Celta Vigo,Athletic Club,Away,1,3,L,Williot Swedberg,N,N/A,24,0,0,1,0,0,0,1,2,0,2,0
+2024-09-26,2024-2025,La Liga,Celta Vigo,Atlético Madrid,Home,0,1,L,Williot Swedberg,Y,FW,69,0,0,1,0,0,0,0,2,0,1,1
+2024-09-29,2024-2025,La Liga,Celta Vigo,Girona,Home,1,1,D,Williot Swedberg,N,N/A,33,0,1,1,0,0,0,0,0,0,1,1
+2024-10-05,2024-2025,La Liga,Celta Vigo,Las Palmas,Away,1,0,W,Williot Swedberg,Y,FW,61,0,0,0,0,0,0,0,0,1,1,0
+2024-10-19,2024-2025,La Liga,Celta Vigo,Real Madrid,Home,1,2,L,Williot Swedberg,Y,FW,71,1,0,2,2,0,0,0,2,1,0,1
+2024-10-27,2024-2025,La Liga,Celta Vigo,Leganés,Away,0,3,L,Williot Swedberg,N,N/A,28,0,0,1,0,0,0,1,2,0,1,1
+2024-11-10,2024-2025,La Liga,Celta Vigo,Real Betis,Away,2,2,D,Williot Swedberg,N,N/A,12,0,1,0,0,0,0,0,0,0,0,0
+2024-11-30,2024-2025,La Liga,Celta Vigo,Espanyol,Away,1,3,L,Williot Swedberg,N,N/A,45,0,0,1,0,0,0,0,0,0,2,0
+2024-12-06,2024-2025,La Liga,Celta Vigo,Mallorca,Home,2,0,W,Williot Swedberg,Y,FW,64,0,0,0,0,0,0,0,2,0,0,2
+2024-12-14,2024-2025,La Liga,Celta Vigo,Sevilla,Away,0,1,L,Williot Swedberg,Y,FW,65,0,0,1,0,0,0,0,1,0,2,0
+2024-12-21,2024-2025,La Liga,Celta Vigo,Real Sociedad,Home,2,0,W,Williot Swedberg,N,N/A,18,0,0,0,0,0,0,0,1,0,0,0
+2025-01-10,2024-2025,La Liga,Celta Vigo,Rayo Vallecano,Away,1,2,L,Williot Swedberg,N,N/A,10,0,0,3,1,0,0,0,0,0,1,0
+2025-01-19,2024-2025,La Liga,Celta Vigo,Athletic Club,Home,1,2,L,Williot Swedberg,Y,AM,45,0,0,0,0,0,0,0,0,0,1,0
+2025-01-27,2024-2025,La Liga,Celta Vigo,Alavés,Away,1,1,D,Williot Swedberg,N,N/A,45,0,0,1,1,0,0,1,2,0,1,2
+2025-02-02,2024-2025,La Liga,Celta Vigo,Valencia,Away,1,2,L,Williot Swedberg,Y,FW,69,0,0,0,0,0,0,3,2,2,1,1
+2025-02-08,2024-2025,La Liga,Celta Vigo,Real Betis,Home,3,2,W,Williot Swedberg,N,N/A,31,1,0,1,1,0,0,0,1,0,1,0
+2025-02-15,2024-2025,La Liga,Celta Vigo,Atlético Madrid,Away,1,1,D,Williot Swedberg,Y,FW,71,0,0,1,1,0,0,2,1,1,1,0
+2025-02-21,2024-2025,La Liga,Celta Vigo,Osasuna,Home,1,0,W,Williot Swedberg,Y,FW,85,0,0,2,1,0,0,0,0,1,1,1
+2025-03-01,2024-2025,La Liga,Celta Vigo,Girona,Away,2,2,D,Williot Swedberg,Y,AM,16,0,0,1,1,0,0,0,1,0,0,1
+2025-04-05,2024-2025,La Liga,Celta Vigo,Mallorca,Away,2,1,W,Williot Swedberg,N,N/A,12,0,0,1,1,0,0,0,0,0,0,0
+2025-04-12,2024-2025,La Liga,Celta Vigo,Espanyol,Home,0,2,L,Williot Swedberg,N,N/A,20,0,0,1,0,0,0,0,0,0,0,0
+2025-04-19,2024-2025,La Liga,Celta Vigo,Barcelona,Away,3,4,L,Williot Swedberg,Y,LW,59,0,0,0,0,0,0,1,2,0,0,1
+2025-05-04,2024-2025,La Liga,Celta Vigo,Real Madrid,Away,2,3,L,Williot Swedberg,N,N/A,26,1,0,1,1,0,0,0,0,0,0,0
+2025-05-10,2024-2025,La Liga,Celta Vigo,Sevilla,Home,3,2,W,Williot Swedberg,Y,AM,69,0,1,1,0,0,0,0,2,0,0,0
+2025-05-13,2024-2025,La Liga,Celta Vigo,Real Sociedad,Away,1,0,W,Williot Swedberg,N,N/A,14,0,0,0,0,0,0,1,0,0,1,0
+2025-05-18,2024-2025,La Liga,Celta Vigo,Rayo Vallecano,Home,1,2,L,Williot Swedberg,Y,AM,78,0,0,4,0,0,0,1,4,0,0,2
+2025-05-24,2024-2025,La Liga,Celta Vigo,Getafe,Away,2,1,W,Williot Swedberg,N,N/A,18,0,1,0,0,0,0,0,1,0,0,0

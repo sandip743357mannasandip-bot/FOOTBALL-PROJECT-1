@@ -1,0 +1,93 @@
+Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+2017-04-30,2016-2017,Ligue 1,Dijon,Bordeaux,Home,0,0,D,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,3,0,1,3,0
+2017-05-14,2016-2017,Ligue 1,Dijon,Nancy,Home,2,0,W,Valentin Rosier,Y,RB,90,0,0,1,0,0,0,2,0,1,2,0
+2017-05-20,2016-2017,Ligue 1,Dijon,Toulouse,Away,0,0,D,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,1,0,0,3,0
+2017-08-06,2017-2018,Ligue 1,Dijon,Marseille,Away,0,3,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,3,0,3,2,10
+2017-08-13,2017-2018,Ligue 1,Dijon,Monaco,Home,1,4,L,Valentin Rosier,Y,RB,55,0,0,0,0,0,0,1,0,3,3,1
+2017-08-19,2017-2018,Ligue 1,Dijon,Rennes,Away,2,2,D,Valentin Rosier,N,,5,0,0,0,0,0,0,0,0,0,1,0
+2017-08-26,2017-2018,Ligue 1,Dijon,Montpellier,Home,2,1,W,Valentin Rosier,N,,9,0,0,0,0,0,0,1,0,0,0,1
+2017-09-16,2017-2018,Ligue 1,Dijon,Saint-Étienne,Home,0,1,L,Valentin Rosier,Y,LB,80,0,0,1,0,0,0,1,0,1,2,0
+2017-09-23,2017-2018,Ligue 1,Dijon,Lyon,Away,3,3,D,Valentin Rosier,Y,LB,90,0,0,0,0,1,0,2,0,2,3,2
+2017-09-30,2017-2018,Ligue 1,Dijon,Strasbourg,Home,1,1,D,Valentin Rosier,Y,LB,90,0,1,1,1,0,0,1,0,7,1,6
+2017-10-14,2017-2018,Ligue 1,Dijon,PSG,Home,1,2,L,Valentin Rosier,Y,RB,90,0,0,0,0,1,0,4,0,5,0,1
+2017-10-21,2017-2018,Ligue 1,Dijon,Metz,Away,2,1,W,Valentin Rosier,Y,RB,86,0,0,0,0,0,0,1,1,1,2,2
+2017-10-28,2017-2018,Ligue 1,Dijon,Nantes,Home,1,0,W,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,3,0,2,2,4
+2017-11-05,2017-2018,Ligue 1,Dijon,Nice,Away,0,1,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,2,0,4,1,3
+2017-11-18,2017-2018,Ligue 1,Dijon,Troyes,Home,3,1,W,Valentin Rosier,Y,LB,90,0,0,1,0,0,0,1,0,1,2,4
+2017-11-25,2017-2018,Ligue 1,Dijon,Toulouse,Home,3,1,W,Valentin Rosier,N,,16,0,0,0,0,1,0,1,0,1,1,1
+2017-11-28,2017-2018,Ligue 1,Dijon,Amiens,Away,1,2,L,Valentin Rosier,Y,RB,90,0,0,2,1,0,0,1,0,3,0,2
+2017-12-01,2017-2018,Ligue 1,Dijon,Bordeaux,Home,3,2,W,Valentin Rosier,N,,9,0,0,0,0,0,0,0,0,0,1,1
+2017-12-16,2017-2018,Ligue 1,Dijon,Lille,Home,3,0,W,Valentin Rosier,Y,LB,90,0,0,1,1,0,0,2,0,0,2,3
+2017-12-20,2017-2018,Ligue 1,Dijon,Angers,Away,1,2,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,1,0,3,1,3
+2018-01-13,2017-2018,Ligue 1,Dijon,Metz,Home,1,1,D,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,2,0,3,2,0
+2018-01-17,2017-2018,Ligue 1,Dijon,PSG,Away,0,8,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,2,0,0,3,3
+2018-01-20,2017-2018,Ligue 1,Dijon,Strasbourg,Away,2,3,L,Valentin Rosier,Y,LB,90,0,0,0,0,0,0,2,0,1,1,1
+2018-01-26,2017-2018,Ligue 1,Dijon,Rennes,Home,2,1,W,Valentin Rosier,Y,RB,90,0,1,0,0,1,0,1,0,2,1,1
+2018-02-10,2017-2018,Ligue 1,Dijon,Nice,Home,3,2,W,Valentin Rosier,Y,RB,74,0,0,0,0,0,0,3,0,2,1,1
+2018-02-16,2017-2018,Ligue 1,Dijon,Monaco,Away,0,4,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,3,0,0,2,0
+2018-02-20,2017-2018,Ligue 1,Dijon,Troyes,Away,0,0,D,Valentin Rosier,Y,LB,90,0,0,0,0,0,0,1,0,1,1,4
+2018-02-24,2017-2018,Ligue 1,Dijon,Caen,Home,2,0,W,Valentin Rosier,Y,RB,90,0,0,1,0,0,0,1,0,2,5,3
+2018-03-03,2017-2018,Ligue 1,Dijon,Saint-Étienne,Away,2,2,D,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,0,0,0,3,2
+2018-03-10,2017-2018,Ligue 1,Dijon,Amiens,Home,1,1,D,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,1,0,2,0,0
+2018-03-17,2017-2018,Ligue 1,Dijon,Montpellier,Away,2,2,D,Valentin Rosier,Y,LM,90,0,0,0,0,0,0,1,0,0,1,1
+2018-03-31,2017-2018,Ligue 1,Dijon,Marseille,Home,1,3,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,4,0,2,0,1
+2018-04-07,2017-2018,Ligue 1,Dijon,Toulouse,Away,1,0,W,Valentin Rosier,Y,RB,90,0,0,0,0,1,0,2,0,0,2,1
+2018-04-14,2017-2018,Ligue 1,Dijon,Nantes,Away,1,1,D,Valentin Rosier,N,,16,0,0,1,0,0,0,1,0,0,0,0
+2018-04-20,2017-2018,Ligue 1,Dijon,Lyon,Home,2,5,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,3,0,2,4,0
+2018-04-28,2017-2018,Ligue 1,Dijon,Bordeaux,Away,1,3,L,Valentin Rosier,Y,LM,90,0,0,2,0,0,0,3,1,0,0,0
+2018-05-06,2017-2018,Ligue 1,Dijon,Guingamp,Home,3,1,W,Valentin Rosier,Y,LM,90,0,1,2,0,0,0,3,1,0,3,2
+2018-05-12,2017-2018,Ligue 1,Dijon,Lille,Away,1,2,L,Valentin Rosier,Y,DM,90,0,0,2,1,0,0,1,0,2,1,2
+2018-05-19,2017-2018,Ligue 1,Dijon,Angers,Home,2,1,W,Valentin Rosier,Y,RB,90,0,0,2,0,0,0,2,0,0,1,1
+2018-08-11,2018-2019,Ligue 1,Dijon,Montpellier,Away,2,1,W,Valentin Rosier,Y,RM,90,0,0,0,0,0,0,3,0,1,3,0
+2018-08-18,2018-2019,Ligue 1,Dijon,Nantes,Home,2,0,W,Valentin Rosier,Y,RB,90,0,1,1,0,0,0,4,0,2,3,0
+2018-08-25,2018-2019,Ligue 1,Dijon,Nice,Away,4,0,W,Valentin Rosier,Y,RB,90,0,1,1,0,0,0,3,0,2,2,0
+2018-09-01,2018-2019,Ligue 1,Dijon,Caen,Home,0,2,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,2,0,1,0,0
+2018-09-15,2018-2019,Ligue 1,Dijon,Angers,Home,1,3,L,Valentin Rosier,Y,RB,90,0,0,2,0,0,0,2,0,3,1,0
+2018-09-22,2018-2019,Ligue 1,Dijon,Reims,Away,0,0,D,Valentin Rosier,N,,9,0,0,0,0,0,0,0,0,0,0,0
+2018-09-26,2018-2019,Ligue 1,Dijon,Lyon,Home,0,3,L,Valentin Rosier,Y,RM,90,0,0,2,1,0,0,1,0,0,1,0
+2018-09-29,2018-2019,Ligue 1,Dijon,Strasbourg,Away,0,3,L,Valentin Rosier,Y,DM,90,0,0,0,0,0,0,0,0,3,1,0
+2018-10-06,2018-2019,Ligue 1,Dijon,Amiens,Away,0,1,L,Valentin Rosier,Y,RB,90,0,0,1,0,0,0,4,0,2,3,0
+2018-10-20,2018-2019,Ligue 1,Dijon,Lille,Home,1,2,L,Valentin Rosier,Y,RB,90,0,0,3,2,0,0,2,0,2,2,0
+2018-10-27,2018-2019,Ligue 1,Dijon,Monaco,Away,2,2,D,Valentin Rosier,Y,LB,90,0,1,1,0,0,0,1,0,1,3,0
+2018-11-03,2018-2019,Ligue 1,Dijon,Nîmes,Home,0,4,L,Valentin Rosier,Y,LB,90,0,0,0,0,0,0,2,2,3,0,0
+2018-11-11,2018-2019,Ligue 1,Dijon,Marseille,Away,0,2,L,Valentin Rosier,Y,LB,90,0,0,0,0,0,0,2,0,1,1,0
+2018-11-24,2018-2019,Ligue 1,Dijon,Bordeaux,Home,0,0,D,Valentin Rosier,Y,RB,90,0,0,0,0,1,0,3,2,0,1,0
+2018-12-02,2018-2019,Ligue 1,Dijon,Toulouse,Away,2,2,D,Valentin Rosier,Y,RB,90,0,0,1,0,0,0,1,1,1,2,0
+2018-12-05,2018-2019,Ligue 1,Dijon,Guingamp,Home,2,1,W,Valentin Rosier,Y,RB,90,0,1,0,0,1,0,3,0,1,3,0
+2018-12-08,2018-2019,Ligue 1,Dijon,Rennes,Away,0,2,L,Valentin Rosier,Y,LM,90,0,0,1,0,0,0,3,0,1,1,0
+2019-02-22,2018-2019,Ligue 1,Dijon,Saint-Étienne,Home,0,1,L,Valentin Rosier,N,,11,0,0,0,0,0,0,0,1,0,1,0
+2024-02-04,2023-2024,Ligue 1,Nice,Brest,Away,0,0,D,Valentin Rosier,N,,27,0,0,0,0,0,0,0,0,0,0,1
+2024-02-11,2023-2024,Ligue 1,Nice,Monaco,Home,2,3,L,Valentin Rosier,N,,8,0,0,1,0,0,0,0,0,0,0,0
+2024-02-25,2023-2024,Ligue 1,Nice,Clermont Foot,Home,0,0,D,Valentin Rosier,N,,18,0,0,0,0,0,0,0,0,0,0,1
+2024-08-17,2024-2025,La Liga,Leganés,Osasuna,Away,1,1,D,Valentin Rosier,Y,RB,90,0,0,0,0,1,0,4,0,1,3,2
+2024-08-25,2024-2025,La Liga,Leganés,Las Palmas,Home,2,1,W,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,0,0,1,3,0
+2024-08-28,2024-2025,La Liga,Leganés,Valladolid,Away,0,0,D,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,2,0,0,2,3
+2024-08-31,2024-2025,La Liga,Leganés,Mallorca,Home,0,1,L,Valentin Rosier,N,,34,0,0,0,0,0,0,1,0,0,1,0
+2024-09-13,2024-2025,La Liga,Leganés,Real Betis,Away,0,2,L,Valentin Rosier,Y,RB,90,0,0,0,0,1,0,1,0,0,5,2
+2024-09-19,2024-2025,La Liga,Leganés,Athletic Club,Home,0,2,L,Valentin Rosier,Y,RB,90,0,0,1,0,1,0,3,0,4,4,1
+2024-09-22,2024-2025,La Liga,Leganés,Getafe,Away,1,1,D,Valentin Rosier,Y,DM,90,0,0,0,0,0,0,1,0,1,4,0
+2024-09-28,2024-2025,La Liga,Leganés,Rayo Vallecano,Away,1,1,D,Valentin Rosier,Y,RB,90,0,1,1,0,0,0,2,1,3,1,2
+2024-10-04,2024-2025,La Liga,Leganés,Valencia,Home,0,0,D,Valentin Rosier,Y,RB,90,0,0,2,0,1,0,2,2,5,1,1
+2024-10-20,2024-2025,La Liga,Leganés,Atlético Madrid,Away,1,3,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,1,0,1,3,3
+2024-11-02,2024-2025,La Liga,Leganés,Girona,Away,3,4,L,Valentin Rosier,N,,14,0,0,0,0,0,0,0,0,1,0,0
+2024-11-24,2024-2025,La Liga,Leganés,Real Madrid,Home,0,3,L,Valentin Rosier,N,,16,0,0,0,0,0,0,0,0,0,2,0
+2024-11-30,2024-2025,La Liga,Leganés,Alavés,Away,1,1,D,Valentin Rosier,Y,RB,90,0,0,1,1,0,0,2,0,0,1,2
+2024-12-08,2024-2025,La Liga,Leganés,Real Sociedad,Home,0,3,L,Valentin Rosier,Y,RB,90,0,0,0,0,1,0,1,0,1,0,1
+2024-12-22,2024-2025,La Liga,Leganés,Villarreal,Home,2,5,L,Valentin Rosier,N,,39,0,0,0,0,0,0,0,0,0,0,1
+2025-01-11,2024-2025,La Liga,Leganés,Espanyol,Away,1,1,D,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,1,0,0,2,0
+2025-01-18,2024-2025,La Liga,Leganés,Atlético Madrid,Home,1,0,W,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,3,0,0,2,1
+2025-01-26,2024-2025,La Liga,Leganés,Athletic Club,Away,0,0,D,Valentin Rosier,Y,CB,90,0,0,1,0,0,0,2,0,0,0,3
+2025-01-31,2024-2025,La Liga,Leganés,Rayo Vallecano,Home,0,1,L,Valentin Rosier,Y,CB,90,0,0,0,0,0,0,0,1,0,1,3
+2025-02-09,2024-2025,La Liga,Leganés,Valencia,Away,0,2,L,Valentin Rosier,Y,CB,90,0,0,2,0,0,0,0,0,1,3,2
+2025-02-15,2024-2025,La Liga,Leganés,Alavés,Home,3,3,D,Valentin Rosier,Y,RB,90,0,1,0,0,0,0,2,0,3,1,0
+2025-02-23,2024-2025,La Liga,Leganés,Real Sociedad,Away,0,3,L,Valentin Rosier,Y,CB,90,0,0,0,0,1,0,2,0,2,0,4
+2025-03-02,2024-2025,La Liga,Leganés,Getafe,Home,1,0,W,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,2,1,2,2,1
+2025-03-08,2024-2025,La Liga,Leganés,Celta Vigo,Away,1,2,L,Valentin Rosier,Y,RB,90,1,0,2,2,0,0,0,2,0,0,1
+2025-03-16,2024-2025,La Liga,Leganés,Real Betis,Home,2,3,L,Valentin Rosier,Y,RB,90,0,0,0,0,1,0,3,0,1,6,2
+2025-03-29,2024-2025,La Liga,Leganés,Real Madrid,Away,2,3,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,2,0,0,1,2
+2025-04-07,2024-2025,La Liga,Leganés,Osasuna,Home,1,1,D,Valentin Rosier,Y,DM,90,0,0,1,1,1,0,2,1,5,1,4
+2025-04-12,2024-2025,La Liga,Leganés,Barcelona,Home,0,1,L,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,0,0,3,0,4
+2025-04-19,2024-2025,La Liga,Leganés,Mallorca,Away,0,0,D,Valentin Rosier,Y,RB,90,0,0,3,0,0,0,3,0,2,2,3
+2025-04-24,2024-2025,La Liga,Leganés,Girona,Home,1,1,D,Valentin Rosier,Y,RB,90,0,0,0,0,0,0,1,0,1,2,0
+2025-05-11,2024-2025,La Liga,Leganés,Espanyol,Home,3,2,W,Valentin Rosier,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0
+2025-05-14,2024-2025,La Liga,Leganés,Villarreal,Away,0,3,L,Valentin Rosier,Y,CB,62,0,0,0,0,0,0,1,0,1,1,2

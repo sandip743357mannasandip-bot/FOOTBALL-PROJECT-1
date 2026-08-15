@@ -1,0 +1,26 @@
+MatchID,Date,Season,Competition,Team,Opponent,Venue,TeamGoals,OppGoals,Result,Player,Start,Position,Minutes,Goals,Assists,Shots,SoT,Yellow,Red,Fouls,Offsides,Crosses,TacklesWon,Interceptions
+1,2020-09-20,2020-2021,La Liga,Real Sociedad,Real Madrid,Home,0,0,D,Urko González,N,,2,0,0,0,0,0,0,2,0,0,0,0
+2,2021-04-11,2020-2021,La Liga,Real Sociedad,Valencia,Away,2,2,D,Urko González,Y,CM,45,0,0,0,0,1,0,2,1,0,0,0
+1,2023-09-24,2023-2024,La Liga,Real Sociedad,Getafe,Home,4,3,W,Urko González,Y,CM,57,0,0,0,0,0,0,0,0,0,0,0
+2,2023-09-27,2023-2024,La Liga,Real Sociedad,Valencia,Away,1,0,W,Urko González,Y,CM,45,0,0,0,0,1,0,1,0,0,0,0
+3,2024-01-27,2023-2024,La Liga,Real Sociedad,Rayo Vallecano,Home,0,0,D,Urko González,N,CM,29,0,0,0,0,0,0,0,0,0,0,0
+4,2024-03-02,2023-2024,La Liga,Real Sociedad,Sevilla,Away,2,3,L,Urko González,N,,18,0,0,1,0,0,0,0,0,0,0,0
+5,2024-05-25,2023-2024,La Liga,Real Sociedad,Atlético Madrid,Home,0,2,L,Urko González,N,,7,0,0,1,0,0,0,0,0,0,0,1
+3,2024-08-18,2024-2025,La Liga,Real Sociedad,Rayo Vallecano,Home,1,2,L,Urko González,Y,CM,45,0,0,0,0,1,0,1,0,0,0,0
+4,2025-01-25,2024-2025,La Liga,Espanyol,Sevilla,Away,1,1,D,Urko González,N,,24,0,0,0,0,0,0,0,0,0,3,0
+5,2025-02-01,2024-2025,La Liga,Espanyol,Real Madrid,Home,1,0,W,Urko González,Y,DM,65,0,0,0,0,0,0,1,0,0,1,2
+6,2025-02-16,2024-2025,La Liga,Espanyol,Athletic Club,Home,1,1,D,Urko González,Y,DM,66,0,0,0,0,1,0,1,0,0,1,1
+7,2025-02-22,2024-2025,La Liga,Espanyol,Alavés,Away,1,0,W,Urko González,Y,DM,90,0,0,0,0,0,0,0,0,0,0,0
+8,2025-03-10,2024-2025,La Liga,Espanyol,Girona,Home,1,1,D,Urko González,Y,DM,87,0,1,0,0,0,0,1,2,0,2,0
+9,2025-03-15,2024-2025,La Liga,Espanyol,Mallorca,Away,1,2,L,Urko González,Y,CM,89,0,0,0,0,0,0,3,1,1,3,0
+10,2025-03-29,2024-2025,La Liga,Espanyol,Atlético Madrid,Home,1,1,D,Urko González,Y,DM,83,0,0,0,0,0,0,3,1,0,0,1
+11,2025-04-04,2024-2025,La Liga,Espanyol,Rayo Vallecano,Away,4,0,W,Urko González,Y,DM,90,0,0,0,0,0,0,1,2,0,0,1
+12,2025-04-12,2024-2025,La Liga,Espanyol,Celta Vigo,Away,2,0,W,Urko González,Y,DM,90,0,0,0,0,0,0,1,0,0,0,0
+13,2025-04-18,2024-2025,La Liga,Espanyol,Getafe,Home,1,0,W,Urko González,Y,DM,90,0,0,0,0,0,0,1,1,0,3,0
+14,2025-04-22,2024-2025,La Liga,Espanyol,Valencia,Away,1,1,D,Urko González,Y,DM,90,0,0,0,0,0,0,0,0,0,2,1
+15,2025-04-27,2024-2025,La Liga,Espanyol,Villarreal,Away,0,1,L,Urko González,Y,DM,81,0,0,0,0,0,0,0,1,0,2,0
+16,2025-05-04,2024-2025,La Liga,Espanyol,Real Betis,Home,1,2,L,Urko González,Y,DM,89,0,0,1,1,0,0,2,0,1,1,0
+17,2025-05-11,2024-2025,La Liga,Espanyol,Leganés,Away,2,3,L,Urko González,Y,CM,90,0,1,0,0,0,0,1,2,0,3,1
+18,2025-05-15,2024-2025,La Liga,Espanyol,Barcelona,Home,0,2,L,Urko González,Y,DM,90,0,0,1,0,1,0,0,0,0,1,1
+19,2025-05-18,2024-2025,La Liga,Espanyol,Osasuna,Away,0,2,L,Urko González,Y,DM,82,0,0,2,1,0,0,0,0,0,1,0
+20,2025-05-24,2024-2025,La Liga,Espanyol,Las Palmas,Home,2,0,W,Urko González,Y,DM,78,0,0,0,0,0,0,1,0,0,3,0
